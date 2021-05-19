@@ -1,0 +1,15 @@
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+HA,ហិកតា,Hectares,3,3
+LIVE_BIRTHS_PER_WOMAN,កំណើតរស់ក្នុងស្ត្រីម្នាក់,Live births per woman,35,1
+NUMBER,ចំនួន,Number,48,23
+PER_100_LIVE_BIRTHS,ក្នុង ១០០ កំណើតរស់,Per 100 live births,76,2
+PER_1000_POP,ក្នុង ១.០០០ នាក់,"Per 1,000 population",4,4
+PER_100000_LIVE_BIRTHS,ក្នុងមួយកំណើតរស់ ១០០.០០០ នាក់,"Per 100,000 live births",25,1
+PER_100000_POP,ក្នុងមួយប្រជាជន ១០០.០០០ នាក់,"Per 100,000 population",2,2
+PT,ភាគរយ,Percent,436,93
+T_OE,ស្មើនឹងប្រេងកាតតោន,Tons oil equivalent,1,1
+T,តោន,Metric Tons,5,4
+USD_PER_FARMER,ដុល្លារអាមេរិកសម្រាប់កសិករម្នាក់,USD per farmer,1,1
+USD_PER_HA,ដុល្លារក្នុងមួយហិកតា,USD per Hectare,1,1
+USD,ដុល្លារ​អាមេរិក,USD,1,1
+Y,ឆ្នាំ,Years,81,1

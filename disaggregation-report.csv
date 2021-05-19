@@ -1,0 +1,10 @@
+Disaggregation,km,en,Number of indicators,Number of values
+AGE,អាយុ,Age,17,21
+COMPOSITE_BREAKDOWN,ការវិភាគសមាសធាតុ,Composite breakdown,2,8
+EDUCATION_LEV,កម្រិត​ការ​អប់រំ,Education level,4,4
+INCOME_WEALTH_QUANTILE,ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន,Income or wealth quantile,6,7
+REF_AREA,តំបន់យោង,Reference area,13,33
+SERIES,ស៊េរីអេសជីជី,SDG Series,138,141
+SEX,ការរួមភេទ,Sex,21,2
+UNIT_MEASURE,ឯកតារង្វាស់,Unit of measure,138,14
+URBANISATION,កំរិតនគរូបនីយកម្ម,Degree of urbanisation,15,3

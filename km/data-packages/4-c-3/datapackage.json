@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ការអប់រំ​បឋម"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-c-3",
+  "title": "4-c-3"
+}

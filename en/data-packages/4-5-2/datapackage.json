@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Banteay Meanchey",
+                "Battambang",
+                "Kampong Cham",
+                "Kampong Chhnang",
+                "Kampong Speu",
+                "Kampong Thom",
+                "Kampot",
+                "Kandal",
+                "Kep",
+                "Koh Kong",
+                "Kratie",
+                "Mondul Kiri",
+                "Oddar Meanchey",
+                "Pailin",
+                "Phnom Penh",
+                "Preah Sihanouk",
+                "Preah Vihear",
+                "Prey Veng",
+                "Pursat",
+                "Ratanak Kiri",
+                "Siemreap",
+                "Stung Treng",
+                "Svay Rieng",
+                "Takeo",
+                "Tboung Khmum",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-2",
+  "title": "4-5-2"
+}

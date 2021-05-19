@@ -1,0 +1,8 @@
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+B40,បាត ៤០%,Bottom 40%,1,1
+B50,ក្រោម ៥០%,Bottom 50%,1,1
+Q1,ឃ្វីនទី ១ (ក្របំផុត),Quintile 1 (poorest),5,4
+Q2,ឃ្វីនទី ២,Quintile 2,5,4
+Q3,ឃ្វីនទី ៣,Quintile 3,5,4
+Q4,ឃ្វីនទី ៤,Quintile 4,5,4
+Q5,ឃ្វីនទី ៥ (មានជាងគេបំផុត),Quintile 5 (richest),5,4

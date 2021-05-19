@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
+                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
+                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1",
+  "title": "6-2-1"
+}

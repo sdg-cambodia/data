@@ -1,0 +1,1 @@
+{"data":{"Year":["2016"],"SERIES":["VC_VAW_NONMARR"],"REF_AREA":[null],"SEX":["F"],"AGE":["Y_GE15"],"UNIT_MEASURE":["PT"],"Value":[0.1]},"edges":{"From":["SEX"],"To":["AGE"]}}

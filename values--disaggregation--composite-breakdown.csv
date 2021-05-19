@@ -1,0 +1,9 @@
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+_L_TLT_FLSEPT,ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank,Type of toilet: Pour FlushConnected To Septic Tank,1,1
+_L_TLT_FLSEWER,ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក,Type of toilet: Pour Flush Connected To Sewerage,1,1
+_L_TLT_PLWS,ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា,Type of toilet: Pit Latrine With Slab,1,1
+_L_TWS_DUGWELL,ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ,Type of water source: Protected Dug Well,1,1
+_L_TWS_PIPE,ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ,Type of water source: Piped In Dwelling Or On Premises,1,1
+_L_TWS_PIPEWELL,ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី,Type of water source: Tube Piped Well Or Borehole,1,1
+_L_TWS_PUBTAP,ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ,Type of water source: Public Tap,1,1
+_L_TWS_RAINCOLL,ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង,Type of water source: Improved Rainwater Collection,1,1

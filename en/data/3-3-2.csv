@@ -1,0 +1,145 @@
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Value
+2000,3.3.2 Neonatal mortality rate,,Female,under 1 month old,,,Per 100 live births,34.1
+2005,3.3.2 Neonatal mortality rate,,Female,under 1 month old,,,Per 100 live births,30.0
+2010,3.3.2 Neonatal mortality rate,,Female,under 1 month old,,,Per 100 live births,27.0
+2014,3.3.2 Neonatal mortality rate,,Female,under 1 month old,,,Per 100 live births,20.0
+2000,3.3.2 Neonatal mortality rate,,Female,under 1 year old,,,Per 100 live births,34.1
+2005,3.3.2 Neonatal mortality rate,,Female,under 1 year old,,,Per 100 live births,30.0
+2010,3.3.2 Neonatal mortality rate,,Female,under 1 year old,,,Per 100 live births,27.0
+2014,3.3.2 Neonatal mortality rate,,Female,under 1 year old,,,Per 100 live births,20.0
+2000,3.3.2 Neonatal mortality rate,,Male,under 1 month old,,,Per 100 live births,44.0
+2005,3.3.2 Neonatal mortality rate,,Male,under 1 month old,,,Per 100 live births,42.0
+2010,3.3.2 Neonatal mortality rate,,Male,under 1 month old,,,Per 100 live births,36.0
+2014,3.3.2 Neonatal mortality rate,,Male,under 1 month old,,,Per 100 live births,22.0
+2000,3.3.2 Neonatal mortality rate,,Male,under 1 year old,,,Per 100 live births,44.0
+2005,3.3.2 Neonatal mortality rate,,Male,under 1 year old,,,Per 100 live births,42.0
+2010,3.3.2 Neonatal mortality rate,,Male,under 1 year old,,,Per 100 live births,36.0
+2014,3.3.2 Neonatal mortality rate,,Male,under 1 year old,,,Per 100 live births,22.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 month old,,,Per 100 live births,37.3
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,,Per 100 live births,28.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,,Per 100 live births,27.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,,Per 100 live births,18.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 1 (poorest),Per 100 live births,34.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 1 (poorest),Per 100 live births,39.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 1 (poorest),Per 100 live births,27.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 2,Per 100 live births,45.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 2,Per 100 live births,34.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 2,Per 100 live births,23.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 3,Per 100 live births,38.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 3,Per 100 live births,35.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 3,Per 100 live births,24.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 4,Per 100 live births,38.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 4,Per 100 live births,26.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 4,Per 100 live births,18.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 5 (richest),Per 100 live births,22.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 5 (richest),Per 100 live births,16.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,,Quintile 5 (richest),Per 100 live births,12.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 month old,Urban,,Per 100 live births,27.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,Urban,,Per 100 live births,29.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,Urban,,Per 100 live births,11.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,Urban,,Per 100 live births,10.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 month old,Rural,,Per 100 live births,40.9
+2005,3.3.2 Neonatal mortality rate,,,under 1 month old,Rural,,Per 100 live births,37.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 month old,Rural,,Per 100 live births,35.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 month old,Rural,,Per 100 live births,23.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 year old,,,Per 100 live births,37.3
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,,Per 100 live births,28.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,,Per 100 live births,27.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,,Per 100 live births,18.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 1 (poorest),Per 100 live births,34.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 1 (poorest),Per 100 live births,39.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 1 (poorest),Per 100 live births,27.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 2,Per 100 live births,45.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 2,Per 100 live births,34.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 2,Per 100 live births,23.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 3,Per 100 live births,38.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 3,Per 100 live births,35.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 3,Per 100 live births,24.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 4,Per 100 live births,38.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 4,Per 100 live births,26.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 4,Per 100 live births,18.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 5 (richest),Per 100 live births,22.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 5 (richest),Per 100 live births,16.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,,Quintile 5 (richest),Per 100 live births,12.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 year old,Urban,,Per 100 live births,27.0
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,Urban,,Per 100 live births,29.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,Urban,,Per 100 live births,11.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,Urban,,Per 100 live births,10.0
+2000,3.3.2 Neonatal mortality rate,,,under 1 year old,Rural,,Per 100 live births,40.9
+2005,3.3.2 Neonatal mortality rate,,,under 1 year old,Rural,,Per 100 live births,37.0
+2010,3.3.2 Neonatal mortality rate,,,under 1 year old,Rural,,Per 100 live births,35.0
+2014,3.3.2 Neonatal mortality rate,,,under 1 year old,Rural,,Per 100 live births,23.0
+2000,3.3.2 Neonatal mortality rate,Banteay Meanchey,,under 1 month old,,,Per 100 live births,31.4
+2005,3.3.2 Neonatal mortality rate,Banteay Meanchey,,under 1 month old,,,Per 100 live births,34.0
+2010,3.3.2 Neonatal mortality rate,Banteay Meanchey,,under 1 month old,,,Per 100 live births,26.0
+2014,3.3.2 Neonatal mortality rate,Banteay Meanchey,,under 1 month old,,,Per 100 live births,20.0
+2000,3.3.2 Neonatal mortality rate,Kampong Cham,,under 1 month old,,,Per 100 live births,38.7
+2005,3.3.2 Neonatal mortality rate,Kampong Cham,,under 1 month old,,,Per 100 live births,35.0
+2010,3.3.2 Neonatal mortality rate,Kampong Cham,,under 1 month old,,,Per 100 live births,33.0
+2014,3.3.2 Neonatal mortality rate,Kampong Cham,,under 1 month old,,,Per 100 live births,25.0
+2000,3.3.2 Neonatal mortality rate,Kampong Chhnang,,under 1 month old,,,Per 100 live births,41.9
+2005,3.3.2 Neonatal mortality rate,Kampong Chhnang,,under 1 month old,,,Per 100 live births,36.0
+2010,3.3.2 Neonatal mortality rate,Kampong Chhnang,,under 1 month old,,,Per 100 live births,45.0
+2014,3.3.2 Neonatal mortality rate,Kampong Chhnang,,under 1 month old,,,Per 100 live births,27.0
+2000,3.3.2 Neonatal mortality rate,Kampong Speu,,under 1 month old,,,Per 100 live births,26.4
+2005,3.3.2 Neonatal mortality rate,Kampong Speu,,under 1 month old,,,Per 100 live births,41.0
+2010,3.3.2 Neonatal mortality rate,Kampong Speu,,under 1 month old,,,Per 100 live births,39.0
+2014,3.3.2 Neonatal mortality rate,Kampong Speu,,under 1 month old,,,Per 100 live births,19.0
+2000,3.3.2 Neonatal mortality rate,Kampong Thom,,under 1 month old,,,Per 100 live births,38.8
+2005,3.3.2 Neonatal mortality rate,Kampong Thom,,under 1 month old,,,Per 100 live births,38.0
+2010,3.3.2 Neonatal mortality rate,Kampong Thom,,under 1 month old,,,Per 100 live births,29.0
+2014,3.3.2 Neonatal mortality rate,Kampong Thom,,under 1 month old,,,Per 100 live births,29.0
+2000,3.3.2 Neonatal mortality rate,Kandal,,under 1 month old,,,Per 100 live births,38.8
+2005,3.3.2 Neonatal mortality rate,Kandal,,under 1 month old,,,Per 100 live births,30.0
+2010,3.3.2 Neonatal mortality rate,Kandal,,under 1 month old,,,Per 100 live births,34.0
+2014,3.3.2 Neonatal mortality rate,Kandal,,under 1 month old,,,Per 100 live births,17.0
+2000,3.3.2 Neonatal mortality rate,Koh Kong,,under 1 month old,,,Per 100 live births,31.5
+2005,3.3.2 Neonatal mortality rate,Kratie,,under 1 month old,,,Per 100 live births,37.0
+2010,3.3.2 Neonatal mortality rate,Kratie,,under 1 month old,,,Per 100 live births,47.0
+2014,3.3.2 Neonatal mortality rate,Kratie,,under 1 month old,,,Per 100 live births,30.0
+2005,3.3.2 Neonatal mortality rate,Oddar Meanchey,,under 1 month old,,,Per 100 live births,19.0
+2010,3.3.2 Neonatal mortality rate,Oddar Meanchey,,under 1 month old,,,Per 100 live births,20.0
+2014,3.3.2 Neonatal mortality rate,Oddar Meanchey,,under 1 month old,,,Per 100 live births,17.0
+2000,3.3.2 Neonatal mortality rate,Phnom Penh,,under 1 month old,,,Per 100 live births,14.0
+2005,3.3.2 Neonatal mortality rate,Phnom Penh,,under 1 month old,,,Per 100 live births,24.0
+2010,3.3.2 Neonatal mortality rate,Phnom Penh,,under 1 month old,,,Per 100 live births,8.0
+2014,3.3.2 Neonatal mortality rate,Phnom Penh,,under 1 month old,,,Per 100 live births,13.0
+2000,3.3.2 Neonatal mortality rate,Prey Veng,,under 1 month old,,,Per 100 live births,52.4
+2005,3.3.2 Neonatal mortality rate,Prey Veng,,under 1 month old,,,Per 100 live births,52.0
+2010,3.3.2 Neonatal mortality rate,Prey Veng,,under 1 month old,,,Per 100 live births,34.0
+2014,3.3.2 Neonatal mortality rate,Prey Veng,,under 1 month old,,,Per 100 live births,33.0
+2000,3.3.2 Neonatal mortality rate,Pursat,,under 1 month old,,,Per 100 live births,51.0
+2005,3.3.2 Neonatal mortality rate,Pursat,,under 1 month old,,,Per 100 live births,27.0
+2010,3.3.2 Neonatal mortality rate,Pursat,,under 1 month old,,,Per 100 live births,29.0
+2014,3.3.2 Neonatal mortality rate,Pursat,,under 1 month old,,,Per 100 live births,14.0
+2005,3.3.2 Neonatal mortality rate,Siemreap,,under 1 month old,,,Per 100 live births,34.0
+2010,3.3.2 Neonatal mortality rate,Siemreap,,under 1 month old,,,Per 100 live births,28.0
+2014,3.3.2 Neonatal mortality rate,Siemreap,,under 1 month old,,,Per 100 live births,17.0
+2000,3.3.2 Neonatal mortality rate,Svay Rieng,,under 1 month old,,,Per 100 live births,56.2
+2005,3.3.2 Neonatal mortality rate,Svay Rieng,,under 1 month old,,,Per 100 live births,29.0
+2010,3.3.2 Neonatal mortality rate,Svay Rieng,,under 1 month old,,,Per 100 live births,27.0
+2014,3.3.2 Neonatal mortality rate,Svay Rieng,,under 1 month old,,,Per 100 live births,20.0
+2000,3.3.2 Neonatal mortality rate,Takeo,,under 1 month old,,,Per 100 live births,38.4
+2005,3.3.2 Neonatal mortality rate,Takeo,,under 1 month old,,,Per 100 live births,52.0
+2010,3.3.2 Neonatal mortality rate,Takeo,,under 1 month old,,,Per 100 live births,37.0
+2014,3.3.2 Neonatal mortality rate,Takeo,,under 1 month old,,,Per 100 live births,16.0
+2000,3.3.2 Neonatal mortality rate,Battambang and Pailin,,under 1 month old,,,Per 100 live births,38.3
+2005,3.3.2 Neonatal mortality rate,Battambang and Pailin,,under 1 month old,,,Per 100 live births,29.0
+2010,3.3.2 Neonatal mortality rate,Battambang and Pailin,,under 1 month old,,,Per 100 live births,28.0
+2014,3.3.2 Neonatal mortality rate,Battambang and Pailin,,under 1 month old,,,Per 100 live births,12.0
+2000,3.3.2 Neonatal mortality rate,"Kampot, Preah Sihanouk and Kep",,under 1 month old,,,Per 100 live births,42.0
+2000,3.3.2 Neonatal mortality rate,"Kratie, Preah Vihear and Stung Treng",,under 1 month old,,,Per 100 live births,25.9
+2000,3.3.2 Neonatal mortality rate,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,Per 100 live births,79.8
+2005,3.3.2 Neonatal mortality rate,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,Per 100 live births,56.0
+2010,3.3.2 Neonatal mortality rate,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,Per 100 live births,30.0
+2014,3.3.2 Neonatal mortality rate,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,Per 100 live births,36.0
+2000,3.3.2 Neonatal mortality rate,Otdar Meanchey and Siem Reap,,under 1 month old,,,Per 100 live births,44.6
+2005,3.3.2 Neonatal mortality rate,Kampot and Kep,,under 1 month old,,,Per 100 live births,37.0
+2010,3.3.2 Neonatal mortality rate,Kampot and Kep,,under 1 month old,,,Per 100 live births,44.0
+2014,3.3.2 Neonatal mortality rate,Kampot and Kep,,under 1 month old,,,Per 100 live births,20.0
+2005,3.3.2 Neonatal mortality rate,Koh Kong and Preah Sihanouk,,under 1 month old,,,Per 100 live births,37.0
+2010,3.3.2 Neonatal mortality rate,Koh Kong and Preah Sihanouk,,under 1 month old,,,Per 100 live births,20.0
+2014,3.3.2 Neonatal mortality rate,Koh Kong and Preah Sihanouk,,under 1 month old,,,Per 100 live births,20.0
+2005,3.3.2 Neonatal mortality rate,Preah Vihear and Stung Treng,,under 1 month old,,,Per 100 live births,34.0
+2010,3.3.2 Neonatal mortality rate,Preah Vihear and Stung Treng,,under 1 month old,,,Per 100 live births,29.0
+2014,3.3.2 Neonatal mortality rate,Preah Vihear and Stung Treng,,under 1 month old,,,Per 100 live births,25.0

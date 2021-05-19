@@ -1,0 +1,143 @@
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+AG_LND_FRST,១៥.១.១ ភាគរយនៃផ្ទៃដីគ្របដណ្តប់ដោយព្រៃឈើ ធៀបនឹងផ្ទៃដីសរុប,15.1.1 Proportion of land areas covered by forest,1,1
+AG_LND_FRSTPRCT,១៥.២.១ ភាគរយនៃតំបន់ព្រៃឈើដែលទទួលបានការការពារនិងគ្រប់គ្រងប្រកបដោយចីរភាព,15.2.1 Percentage of sustainable forest protection and management,1,1
+DC_ODA_BDVL,១៥.ខ.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការ សម្រាប់ការអភិរក្សនិងការប្រើប្រាស់ប្រកបដោយចីរភាពជីវៈចម្រុះនិងប្រព័ន្ធអេកូឡូស៊ី,15.b.1 Official development assistance for conservation and sustainable use of biodiversity and ecosystems,1,1
+DC_TOF_AGRL,២.ក.១ លំហូរនៃហិរញ្ញប្បទានសរុប (ហិរញ្ញប្បទានសហប្រតិបត្តិការនិងលំហូរផ្សេងទៀត) ដល់វិស័យកសិកម្ម ធៀបនឹង ផ.ស.ស.,2.a.1 Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP),1,1
+DC_TOF_INFRAL,៩.ក.១ ការគាំទ្រផូ្លវការសរុបពីអន្តរជាតិ(ជំនួយអភិវឌ្ឍន៍ផ្លូវការផ្សេងទៀត)ដល់ការកសាងនិងជួសជុលហេដ្ឋារចនាសម្ព័ន្ធ,9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure,1,1
+DC_TRF_TOTL,១០.ខ.១.  បរិមាណហិរញ្ញប្បទានសហប្រតិបត្តិការសរុប សម្រាប់កម្ពុជា,10.b.1.  Total official development assistance for Cambodia,1,1
+EG_ACS_ELEC,៧.១.១ ប្រជាជនដែលទទួលបានអគ្គិសនីប្រើប្រាស់,7.1.1 Proportion of population with access to electricity,3,1
+EG_EGY_CLEAN,៧.១.២ សមាមាត្រនៃប្រជាជនដែលពឺងផ្អែកជាចម្បងលើបច្ចេកវិទ្យានិងឥន្ធនៈស្អាត,7.1.2 Proportion of population with primary reliance on clean fuels and technology,1,1
+EN_SCP_FSHGDP,១៤.៧.១ ភាគរយនៃតម្លៃរបស់ផលិតផលជលផលនិងវារីវប្បកម្មសមុទ្រធៀបនឹង ផ.ស.ស.,14.7.1 Value of sustainable fisheries production as a percentage of GDP,1,1
+EN_WWT_WWDS,៦.៣.១ សមាមាត្រនៃសំណល់រាវដែលបានសម្អាតប្រកបដោយសុវត្ថិភាព,6.3.1 Proportion of wastewater safely treated,1,1
+ER_GRF_PLNTSTOR,២.៥.១ ចំនួនធនធានពន្ធុរុក្ខជាតិសម្រាប់ស្បៀងអាហារនិងកសិកម្មបានធានាក្នុងគោលនយោបាយយុទ្ធសាស្ត្រនិងទីកន្លែងអភិរក្សរយៈពេលមធ្យមឬរយៈពេលវែង,"2.5.1 Number of plant genetic resources for food and agriculture secured​ in policy, strategy and either medium or long-term conservation facilities",1,1
+GB_XPD_RSDV,៩.៥.១ សមមាត្រនៃចំណាយលីការស្រាវជ្រាវនិងអភិវឌ្ឍធៀប នឹងផលិតផលក្នុងស្រុកសរុប,9.5.1 Research and development expenditure as a proportion of GDP,1,1
+IT_MOB_2GNTWK,៩.គ.១ សមមាត្រនៃប្រជជនប្រើប្រាស់បណ្តាញអ៊ិនធើណេត(ចល័តនិងអចល័ត),"9.c.1 Proportion of population covered by a mobile network, by technology",1,1
+IT_NET_BBND,១៧.៦.១ ភាគរយនៃប្រជាជន ដែលបានជាវអ៊ិនធើណែតអចល័តជាប្រចាំក្នុងចំណោមប្រជាជនសរុបបែងចែកតាមល្បឿននៃអ៊ិនធើណែត,"17.6.1 Percentage of population connect to Fixed Internet broadband subscriptions, by speed",1,1
+IT_USE_II99,១៧.៨.១ អ្នកប្រើប្រាស់អ៊ិនធើណែត,17.8.1 Internet users,1,1
+N_KH_010301_01,១.៣.១ សមាមាត្រនៃជនក្រីក្រ និងជនងាយរងគ្រោះដែលទទួលបានសេវាសង្រ្គោះសង្គម,1.3.1 Proportion of the poor and the vulnerable received social emergency relief services,1,1
+N_KH_010401_01,១.៤.១ ភាគរយនៃសមាជិកសហគមន៍នេសាទនិងព្រៃឈើដែលទទួលបានសិទ្ធិស្របច្បាប់ក្នុងការចូលរួមគ្រប់គ្រងធនធានជលផលនិងព្រៃឈើ តាមរយៈការចុះបញ្ជីនិងអភិវឌ្ឍសហគមន៍ប្រកបដោយប្រសិទ្ធភាព,1.4.1 Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development,1,1
+N_KH_020301_01,២.៣.១ ទំហំផលិតកម្មកសិកម្មក្នុងកសិករម្នាក់ដែលប្រកបរបរកសិកម្ម(ស្រែចម្ការការចិញ្ចឹមសត្វនិងជលផល),"2.3.1 Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)",1,1
+N_KH_020401_01,២.៤.១ ផលិតភាពដីកសិកម្មដែលបាននិងកំពុងប្រើប្រាស់ធ្វើកសិកម្មប្រកបដោយចីរភាព,2.4.1 Sustainable Agricultural Land Productivity,1,1
+N_KH_020502_01,២.៥.២ ចំនួនគ្រួសារក្នុងសហគមន៍តំបន់ការពារធម្មជាតិ ដែលត្រូវបានលើកកម្ពស់កម្រិតជីវភាព តាមរយៈការទទួលបានផលប្រយោជន៍ពី NTFP ការបញ្ចូលក្នុងវិស័យកសិកម្ម ទេសចរណ៍ធម្មជាតិនៅក្នុងតំបន់ការពារ,"2.5.2 Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas",1,1
+N_KH_030101_01,៣.១.១ អាយុសង្ឃឹមរស់ពីកំណើត,3.1.1 Life expectancy at birth,81,1
+N_KH_030102_01,៣.១.២ អត្រាលទ្ធភាពបង្កើតកូនសរុប (ចំនួនកូនកើតក្នុងស្រ្តីម្នាក់),3.1.2 Total fertility rate,35,1
+N_KH_030502_01,៣.៥.២ ភាគរយនៃប្រជាជនពេញ វ័យមានជំងឺធ្លាក់ទឹកចិត្តបានទទួលសេវាព្យាបាល,3.5.2 Percentage of adult population with depression received treatment,1,1
+N_KH_030601_01,៣.៦.១ ភាគរយនៃប្រជាជនប្រើប្រាស់គ្រឿងញៀនបានទទួលសេវាព្យាបាល,3.6.1 Percentage of people with drug used received treatment,1,1
+N_KH_030602_01,៣.៦.២ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់សារជាតិអាល់កុលក្នុងចំណោមមនុស្សពេញវ័យ ចាប់ពីអាយុ១៨ឆ្នាំឡើង,3.6.2 Prevalence of alcohol use among among population above 18 years old,1,1
+N_KH_030801_01,៣.៨.១ សមាមាត្រនៃស្រ្តីក្នុង  វ័យបន្តពូជ (១៥-៤៩ឆ្នាំ)ដែលត្រូវការសេវាផែនការគ្រួសារ បានពេញចិត្តនឹងវិធី ពន្យារកំណើតទំនើប,3.8.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,1,1
+N_KH_030802_01,៣.៨.២ ភាគរយនៃស្ត្រីវ័យ ជំទង់អាយុ១៥-១៩ឆ្នាំ ដែលមានគភ៌,3.8.2 Teenage pregnancy 15 -19 years,1,1
+N_KH_030901_01,៣.៩.១ % នៃប្រជាជនដែលគ្របដណ្តប់ដោយប្រព័ន្ធគាំពារសុខភាពសង្គម(មូលនិធិសមធម៌ និងការធានារ៉ាប់រងសុខភាព),3.9.1 Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes,1,1
+N_KH_030902_01,៣.៩.២ ចំណាយថវិកាជាតិចរន្តលើសុខភាពគិតជា % នៃផលិតផលសរុបក្នុងស្រុក,3.9.2 Government Current expenditure on health as % of GDP),1,1
+N_KH_030a02_01,៣.ក.២ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់ថ្នាំជក់ក្នុងចំណោមយុវវ័យអាយុពី១៣ដល់១៥ឆ្នាំ,3.a.2 Prevalence of tobacco use among youth aged 13-15,1,1
+N_KH_04010101_01,៤.១.១.១ អត្រាបញ្ចប់ការសិក្សានៅបឋមសិក្សា,4.1.1.1 Completion rate Grade 6,87,1
+N_KH_04010102_01,៤.១.១.២ អត្រាបញ្ចប់ការសិក្សានៅមធ្យមសិក្សាបឋមភូមិ,4.1.1.2 Completion rate Grade 9,87,1
+N_KH_040201_01,៤.២.១ ភាគរយសិស្សថ្នាក់ទី១ បានឆ្លងកាត់កម្មវិធីអប់រំកុមារតូចគ្រប់រូបភាព,4.2.1 Proportion of grade 1 student passed through all ECE programs,1,1
+N_KH_040301_01,៤.៣.១ អត្រារួមនៃការសិក្សានៅឧត្តមសិក្សា(អាយុពី១៨ ដល់២១ឆ្នាំ) បែងចែកតាមភេទ,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,3,1
+N_KH_040302_01,៤.៣.២ អត្រារួមនៃការសិក្សាក្នុងកម្មវិធីអប់រំបច្ចេកទេសនិងវិជ្ជាជីវៈ (១៥ ដល់ ២៤ឆ្នាំ),4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),1,1
+N_KH_040501_01,៤.៥.១ សន្ទស្សន៍យុគភាព យេនឌ័រនៃអត្រារួមនៃការសិក្សានៅមធ្យមសិក្សាបឋមភូមិ,4.5.1 Gender parity index in lower secondary education,3,1
+N_KH_040502_01,៤.៥.២ សន្ទស្សន៍យុគភាព យេនឌ័រនៃអត្រារួមនៃការសិក្សានៅមធ្យមសិក្សាទុតិយភូមិ,4.5.2 Gender parity index in upper secondary education,28,1
+N_KH_040601_01,៤.៦.១ អត្រាអក្ខរជនតាមក្រុមអាយុ,4.6.1 Literacy rate by age group,33,1
+N_KH_040c02_01,៤.គ.២ ភាគរយគ្រូមេត្តយ្យសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ,4.c.2 Percentage of pre school teachers qualified according to national standards,1,1
+N_KH_040c03_01,៤.គ.៣ ភាគរយគូ្របឋមសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ,4.c.3 Percentage of primary teachers qualified according to national standards,1,1
+N_KH_040c04_01,៤.គ.៤ ភាគរយគូ្រមធ្យមសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ,4.c.4 Percentage of secondary teachers qualified according to national standards,1,1
+N_KH_040c05_01,៤.គ.៥ ភាគរយគូ្របង្រៀនដែលបានទទួលការបណ្តុះបណ្តាលវិកឹ្រតការ,4.c.5Percentage of teachers who received in-service training,1,1
+N_KH_050101_01,៥.១.១ ចំនួនច្បាប់គោលនយោបាយផែនការនិងក្របខ័ណ្ឌ គតិយុត្ត សម្រាប់លើកកម្ពស់ការអនុវត្តនិងតាមដានតួ្រតពិនិត្យកាលើកកម្ពស់សមភាពយេនឌ័រនិងការមិនរើសអើងភេទ,"5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",1,1
+N_KH_050401_01,៥.៤.១. ចំនួនវិធានការផូ្លវច្បាប់និងគោលនយោបាយដែលដោះស្រាយនិងទទួលទទួលស្គាល់នូវតុល្យភាពជីវិត និងការងារ (ការងារផ្ទះនិងការងារថែទាំដែលមិនមានកម្រៃ) និង លើកកម្ពស់ការទទួលបាន កាន់តែច្រើននូវការងារ សមរម្យសម្រាប់ស្តី្រ,"5.4.1. Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment",1,1
+N_KH_050502_01,៥.៥.២ សមាមាត្រស្តី្រជា អនុរដ្ឋលេខាធិការ,5.5.2 Proportion of under secretary of state who are women,1,1
+N_KH_050502_02,៥.៥.២ សមាមាត្រស្តី្រជា រដ្ឋលេខាធិការ,5.5.2 Proportion of secretary of state who are women,1,1
+N_KH_050503_01,៥.៥.៣ សមាមាត្រនៃស្ដី្រជាសមាជិកក្រុមបឹ្រក្សាឃុំ សង្កាត់,5.5.3 Proportion of seats held by women in commune councils,1,1
+N_KH_050602_01,៥.៦.២ ចំនួនច្បាប់គោលនយោបាយផែនការនិងលិខិតបទដ្ឋានគតិយុត្តដែលធានាឲ្យស្តី្រគ្រប់រូបមានលទ្ធភាពទទួលបានព័ត៌មានការអប់រំនិងសេវាសុខភាពបន្តពូជនិងសុខភាពផូវ្លភេទ,"5.6.2 The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services",1,1
+N_KH_050c01_01,៥.គ.១ ចំនួននៃក្រសួងស្ថាប័នដែលមានប្រព័ន្ធតាមដាន និងវិភាជថវិកាសម្រាប់លើកកម្ពស់សមភាពយេនឌ័រនិងការពងឹ្រងភាពអង់អាចដល់ស្តី្រ,5.c.1 Number of institutions with a system to track and allocate budget to promote  gender equality and empower women,1,1
+N_KH_050c02_01,៥.គ.២ ចំនួនក្រសួងស្ថាប័ន ដែលបានអនុវត្តផែនការយុទ្ធសាស្រ្តបញ្រ្ជាបយេនឌ័រ,"5.c.2 Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan",1,1
+N_KH_060401_01,៦.៤.១ តឹ្រមឆ្នាំ២០២៥ប្រជាជនកម្ពុជាគ្រប់រូបនៅទីប្រជុំជនទទួលបានទឹកស្អាតប្រើប្រាស់ប្រកបដោយចីរភាពគុណភាពល្អ និងតម្លៃសមរម្យ,"6.4.1 By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price",1,1
+N_KH_060a01_01,៦.ក.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការដែលពាក់ព័ន្ធទៅនឹងទឹកស្អាតនិងអនាម័យដែលជាផ្នែកនៃផែនការចំណាយសម្របសម្រួលដោយរដ្ឋាភិបាលធៀបនឹង ផ.ស.ស.,6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,1,1
+N_KH_070201_02,៧.២.១ ថាមពលកកើតឡើងវិញ,7.2.1 Renewable energy consumption,1,1
+N_KH_070301_01,៧.៣.១ សមាមាត្រនៃថាមពល បឋម ធៀបនឹងផលិតផលក្នុងស្រុកសរុប,7.3.1 Proption of primary energy with GDP,1,1
+N_KH_08020201_01,៨.២.២.១ អត្រាកំណើននៃការចុះបញ្ជីពណិជ្ជកម្ម ដោយស័យ្វ ប្រវតិ្តកម្ម,8.2.2.1 Growth rate of online company registration,1,1
+N_KH_08020202_01,៨.២.២.២ អត្រាកំណើននៃការចុះបញ្ជីម៉ាក ដោយស្វ័យប្រវត្តិកម្ម,8.2.2.2 Growth rate of online trade mark registration,1,1
+N_KH_08020203_01,៨.២.២.៣ អត្រាកំណើននៃការចេញវិញ្ញាបនបត្របញ្ជាក់ប្រភពដើមទំនិញ ដោយស្វ័យប្រវត្តកម្ម,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,1,1
+N_KH_08020301_01,៨.២.៣.១ ចំនួនប្រភេទផលិតផលទំនិញនិងសេវាកម្ម ដែលបានកែច្នៃឬអភិវឌ្ឍនិងបានបញ្ចូលទៅក្នុងការជំរុញចលនាភូម១ ផលិតផល១,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement,1,1
+N_KH_08020302_01,៨.២.៣.២ ចំនួនប្រភេទផលិតផលទំនិញនិងសេវាកម្ម ដែលបានកែច្នៃឬអភិវឌ្ឍហើយត្រូវបានលើកកម្ពស់ស្តង់ដាតាមទស្សនទាន ភូមិ១ផលិតផល១ពីក្រមិតទាបទៅខ្ពស់,8.2.3.2 Number of types products both goods and services that have been processed or developed with OVOP standeard criteria,1,1
+N_KH_080902_01,៨.៩.២ សមាមាត្រនៃចំនួនកម្មករនិយោជិតេធ្វើការក្នុងវិស័យទេសចរណ៍និងចំនួនអ្នកធ្វើការសរុប,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors,1,1
+N_KH_080a01_01,៨.ក.១ ការប្តេជ្ញា និងផ្តល់ហិរញ្ញប្បទានសហ្របតិបត្តិការសម្រាប់វិស័យពាណិជ្ជកម្ម,8.a.1 Aid for Trade Commitments and Disbursements,1,1
+N_KH_090101_01,៩.១.១ បរិមាណទំនិញឆ្លងកាត់ផែនិងផ្លូវរថភ្លើង,9.1.1 Freight volumes of ports and railway,1,1
+N_KH_090102_01,៩.១.២ ចំនួនអ្នកដំណើរតាមអាកាស (អន្តរជាតិ),"9.1.2 Air transport, international passengers carried",1,1
+N_KH_090102_02,៩.១.២ ចំនួនអ្នកដំណើរតាមអាកាស (ក្នុងស្រុក),"9.1.2 Air transport, domestic passengers carried",1,1
+N_KH_090103_01,៩.១.៣ បរិមាណទំនិញដឹកជញ្ជូន(អន្តរជាតិ),"9.1.3 Air transport, international freight",1,1
+N_KH_090103_02,៩.១.៣ បរិមាណទំនិញដឹកជញ្ជូន(ក្នុងស្រុក),"9.1.3 Air transport, domestic freight",1,1
+N_KH_100401_01,១០.៤.១ និវត្តជននិងជនបាត់បង់សម្បទាវិជ្ជាជីវៈ,10.4.1 Civil Servants Retirees and invalid people who receive pension benefits,25,1
+N_KH_100a01_01,១០.ក.១ ចំនួនកិច្ចព្រមព្រៀងពាណិជ្ជកម្មជាមួយបរទេស,10.a.1 Number of Trade Related Agreement with other countries,1,1
+N_KH_110601_01,១១.៦.១ បរិមាណសម្រាមសំណល់រឹងដែលបានប្រមូលបានជាប្រចាំនៅតំបន់ទីប្រជុំជន ទីក្រុង និងត្រូវបានបញ្ចេញចោល ក្នុងតំបន់ទីប្រជុំជន និងនៅតាមទីក្រុង,11.6.1 Amount of urban solid waste regularly collected and with adequate final discharge,1,1
+N_KH_110602_01,១១.៦.២ ភាគរយនៃការកាត់បន្ថយការប្រើប្រាស់ថង់ប្លាស្ទិច,11.6.2 Percentage of the deduction plastic bag used,1,1
+N_KH_110603_01,១១.៦.៣ ភាគរយនៃសំណល់រឹងត្រូវបានគ្រប់គ្រងតាមគោលការណ៍បច្ចេកទេស,11.6.3 Percentage of the solid wasted will be segregate by technical guidance,1,1
+N_KH_110604_01,១១.៦.៤ កម្រិតជាមធ្យមប្រចាំឆ្នាំនៃប៉ារ៉ាម៉ែត្រ CO NO2  SO2 TSP  PM2.5 and PM10,"11.6.4 Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10",1,1
+N_KH_120401_01,១២.៤.១ អត្រានៃការសាយភាយសារធាតុ បំពុលសរីរាង្គមិនងាយបំបែកធាតុសាយភាយ ចូលទៅក្នុងបរិស្ថាន,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment,1,1
+N_KH_120402_01,១២.៤.២ ភាគរយនៃការកាត់បន្ថយការសាយភាយសារធាតុបារតសាយភាយចូលទៅក្នុងបរិស្ថាន,12.4.2 Percentage of release reduction of mercury (Hg) to the environment,1,1
+N_KH_120403_01,១២.៤.៣ ភាគរយនៃការ គ្រប់គ្រងសំណល់គ្រោះថ្នាក់ សំណល់ជីវសាស្រ្ត និងវិទ្យុសកម្ម,12.4.3 Effectiveness management of hazardous waste and biological and radioactive waste,1,1
+N_KH_120501_01,១២.៥.១ អត្រានៃការកែច្នៃឡើងវិញនូវវត្ថុធាតុដើមដែលបានប្រើប្រាស់,"12.5.1 National recycling rate, tons of material recycled",1,1
+N_KH_130101_01,១៣.១.១ ភាគរយនៃឃុំ/សង្កាត់ងាយរងគ្រោះទៅនឹងការប្រែប្រួលអាកាសធាតុ,13.1.1 Percentage of communes/Sangkats vulnerable to climate change,1,1
+N_KH_130201_01,១៣.២.១ ភាគរយនៃការបញ្ចេញឧស្ម័នផ្ទះកញ្ចក់ពីសកម្មភាពកាត់បន្ថយ នៅពេលដែលប្រៀបធៀបចំហាក (សេណារ៉ូ)បញ្ចេញឧស្ម័នតាមទម្លាប់,13.2.1 Pecentage of Green-House Gas emission through reduced activities when comparing to the projection (scenario) of usual gas emission,1,1
+N_KH_130202_01,១៣.២.២ ភាគរយនៃការប្រែប្រួលចំណាយសាធារណៈសម្រាប់ការប្រែប្រួលអាកាសធាតុ,13.2.2 Percentage of increase in public expenditure for climate change,1,1
+N_KH_130301_01,១៣.៣.១ កម្រិតស្ថាប័នដែលបានត្រៀមសម្រាប់ការឆ្លើយតបនឹងការប្រែប្រួលអាកាសធាតុ ដោយបង្ហាញជាភាគរយនៃសមត្ថភាពស្ថាប័នដែលបានបញ្ជ្រាបផ្នែកទាំងប្រាំនៃការប្រែប្រួលអាកាសធាតុ,13.3.1 Intitution level that prepared for response to Climate Change indicated as percentage of institutional capacities mainstreamed on 5 components of Climate Change,1,1
+N_KH_130302_01,១៣.៣.២ ភាគរយនៃគ្រួសារកសិករដាំដុះដំណាំចិញ្ចឹមសត្វចិញ្ចឹមត្រីអ្នកនេសាទនិងប្រជាសហគមន៍មូលដ្ឋានដែលទទួលការផ្សព្វផ្សាយនិងបណ្តុះបណ្តាលទាក់ទងនឹងការប្រែប្រួលអាកាសធាតុ,"13.3.2 Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change",1,1
+N_KH_140101_01,១៤.១.១ ភាគយនៃការកាត់បន្ថយការបំពុល សមុទ្រតាម រយៈសកម្មភាពអភិរក្សសមុទ្រ,14.1.1 Percentage of the reduction of the sea pollution by the conservation activities,1,1
+N_KH_140202_01,១៤.២.១ មុខងារនិងសេវាសំខាន់ៗរបស់ប្រព័ន្ធអេកូឡូស៊ីសមុទ្រនិងតំបន់ឆ្នេរត្រូវបានថែរក្សានិងស្តារតាមការចាំបាច់,14.2.1 Key ecosystem function and service of marine and coast area maintained and restore as necessary,1,1
+N_KH_140b01_01,១៤.ខ.១ ភាគរយនៃធនធានសមុទ្រដែលអ្នកនេសាទខ្នាតតូចទទួលបាននិងលក់លើទីផ្សារមានស្ថិរភាព,14.b.1 Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke,1,1
+N_KH_141501_01,១៤.៥.១ ភាគរយនៃទំហំតំបន់អភិរក្សជលផលទាំងតំបន់ឆ្នេរ និងទឹកសាប ដែលបានការពារ,14.5.1 Percentage of coverage of marine and inland fisheries conservation areas protected,1,1
+N_KH_141502_01,១៤.២.២ ភាគរយនៃផ្ទៃដីព្រៃលិចទឹក និងព្រៃកោងកាង ដែលត្រូវបានដាំឡើងវិញនិងការពារ,14.2.2 Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected,1,1
+N_KH_150102_01,១៥.១.២ ភាគរយនៃតំបន់ដែលមានជីវៈចម្រុះក្នុងទឹកនិងលើដីគោក ដែលគ្របដណ្តប់ដោយតំបន់ការពារនិងតំបន់អភិរក្សជលផល បែងចែកតាមប្រភេទនៃប្រព័ន្ធអេកូឡូស៊ី,"15.1.2 Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",1,1
+N_KH_150103_01,១៥.១.៣ ផ្ទៃដីព្រៃឈើ និងប្រព័ន្ធអេកូឡូស៊ី ដែលត្រូវបានប្រើប្រាស់ប្រកបដោយចីរភាព,15.1.3 Forest areas and ecosystems sustainably utilized,1,1
+N_KH_150301_01,១៥.៣.១ ផ្ទៃដីតំបន់ទេសភាពព្រៃឈើដែលបានស្តារពីផលប៉ះពាល់ដោយសារភាពរាំងស្ងួត ទឹកជំនន់ និងដែលបានបោះបង់ចោល,"15.3.1 Area of forest landscape restoration for areas affected by desertification, drought and floods",1,1
+N_KH_150501_01,១៥.៥.១ ចំនួនផែនការសកម្មភាពសម្រាប់អភិរក្សប្រភេទសត្វព្រៃនិងរុក្ខជាតិជិតផុតពូជនិងមានដោយកម្រ ដែលត្រូវបានរៀបចំនិងអនុវត្ត,15.5.1 Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented,1,1
+N_KH_150701_01,១៥.៧.១ ចំនួនករណីល្មើសច្បាប់ក្នុងការបរបាញ់ ការជួញដូរ ប្រភេទសត្វព្រៃ និងប្រភេទរុក្ខជាតិខុសច្បាប់ ដែលត្រូវបានកាត់បន្ថយ,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased,1,1
+N_KH_150902_01,១៥.៩.២ ចំនួនគោលនយោបាយយុទ្ធសាស្រ្ត និងលិខិតយុទ្ធោបករណ៍ស្តីពីសេវាកម្មប្រពន័្ធ អេកូឡូស៊ីត្រូវបានតាក់តែង និងអនុវត្ត,"15.9.2 Number of policies, strategies and regulations on ecosystem services is established and implemented",1,1
+N_KH_160301_01,១៦.៣.១ សមាមាត្រនៃប្រជាជនដែលបានចូលរួមក្នុងការផ្សព្វផ្សាយច្បាប់,16.3.1 Proportion of people involved in disseminating laws,1,1
+N_KH_160701_01,១៦.៧.១ សមាមាត្រនៃស្តី្រ ជាមន្ត្រីរាជការស៊ីវិលនៅតាមក្រសួងស្ថាប័ននានា,16.7.1 Proportion of female in civil servant,1,1
+N_KH_170301_01,១៧.៣.១ សមាមាត្រនៃហិរញ្ញប្បទានចម្រុះធៀបនឹង ផ.ស.ស.,17.3.1 Official development assistance as % of GDP,1,1
+N_KH_170901_01,១៧.៩.១ ទំហំហិរញ្ញប្បទានកិច្ចសហប្រតិបត្តិការបច្ចេកទេស (រួមទាំងកិច្ចសហប្រតិបត្តិការជើង-ត្បូង ត្បូង-ត្បូង និងកិច្ចសហប្រតិបត្តិការត្រីកោណ) ដែលបានសន្យាផ្តល់ដល់កម្ពុជា,"17.9.1 Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia",1,1
+N_KH_170902_01,១៧.៩.២ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការ ដែលគាំទ្រគោលនយោបាយសេដ្ខកិច្ចនិងការអភិវឌ្ឍដែលបានប្តេជ្ញាផ្តល់ឲ្យកម្ពុជាធៀបនឹង ផ.ស.ស,17.9.2 Amount of ODA to Economic and Development Policy/Planning (as % of GDP)​​​ committed to Cambodia,1,1
+N_KH_171001_01,១៧.១០.១ ចំនួនច្បាប់និងបទដ្ឋានគតិយុត្តពាណិជ្ជកម្ម ដែលបានរៀបចំឡើងដើម្បីសម្រួលដល់អ្នកវិនិយោគនិងធុរជនក្នុងស្រុកក្នុងការធ្វើពាណិជ្ជកម្ម,17.10.1 The number of commercial legal norms and standards set up to facilitate local investors and investors in trading,1,1
+N_KH_171701_01,១៧.១៧.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការដែលត្រូវបានសន្យារផ្តល់ដល់ភាពជាដៃគូសង្គមស៊ីវិលធៀបនឹង ផ.ស.ស.,17.17.1 Amount of ODA disbursed to civil society partnerships (as % of GDP),1,1
+N_KH_171802_01,១៧.១៨.២ សមាមាត្រនៃចំណាយថវិកាសម្រាប់អនុវត្តផែនការយុទ្ធសាស្រ្តជាតិសម្រាប់អភិវឌ្ឍស្ថិតិ,17.18.2 Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS),1,1
+N_KH_180101_01,១៨.១.១ ផ្ទៃដីសរុបនៃការបោសសម្អាតមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាមប្រចាំឆ្នាំ,18.1.1 Total cumulated areas cleared of mines/ERW,1,1
+N_KH_180201_01,១៨.២.១ ចំនួននៃជនរងគ្រោះថ្នាក់ (ស្លាប់និងរបួស) ដោយគ្រាប់មីន និងសំណល់ជាតិផ្ទុះពីសង្គ្រាម,18.2.1 Number of civilian casualties from mines/ERW,1,1
+N_KH_180202_01,១៨.២.២ ចំនួនភូមិដែលរងការគំរាមកំហែង ដោយសារមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាមទទួលបានសារអប់រំគ្រោះថ្នាក់ដោយសារមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាម,18.2.2 The number of villages contaminated by mines / ERW to receive Mine Risk Educationmessages,1,1
+N_KH_180301_01,១៨.៣.១ ចំនួនជនពិការដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានការលើកកម្ពស់សិទ្ធិនិងគុណភាពជីវិត,18.3.1 The number of mine and ERW casualties received rights promotion,1,1
+N_KH_180302_01,១៨.៣.២ ចំនួនជនរងគ្រោះដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានសេវាស្តារលទ្ធភាពពលកម្ម,18.3.2 The number of mine and ERW casualties received rehabilitation service,1,1
+N_KH_180303_01,១៨.៣.៣ ចំនួនជនរងគ្រោះដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានសេវាឆ្លើយតបបន្ទាន់និងឆាប់រហ័សពីអាជ្ញាធរ មីន,18.3.3 The number of mine and ERW casualties received emergency  and rapid response from CMAA,1,1
+NY_GDP_PCAP,៨.១.១ កំណើនផលិតផលក្នុងស្រុកសរុបប្រចាំឆ្នាំគិតតាមថ្លៃថេរ,8.1.1 Annual GDP growth rate at constant prices,1,1
+SD_SDG_AVLB,១៧.១៨.១ សមាមាត្រនៃសូចនាកររអភិវឌ្ឍប្រកបដោយចីរភាពដែលបានបង្កើតឡើងនៅថ្នាក់ជាតិ បំបែកទៅតាមចំណុចដៅ ដោយផ្អែកលើមូលដ្ឋានស្ថិតិផ្លូវការ,"17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics",1,1
+SE_ACS_H2O,៤.ក.១ សមាមាត្រនៃសាលាមេត្តយ្យសិក្សា បឋមសិក្សា និងមធ្យមសិក្សាដែលមានឧបករណ៍ទឹកស្អាតសម្រាប់បរិភោគ,4.a.1 Proportion of schools with access to basic drinking water,1,1
+SE_ACS_SANIT,៤.ក.២ សមាមាត្រនៃសាលាមត្តេយ្យសិក្សា បឋមសិក្សា និងមធ្យមសិក្សា ដែលមានបង្គន់ អនាម័យប្រើប្រាស់,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities,1,1
+SE_INF_DSBL,៤.ក.៣ ភាគរយនៃសាលាបឋមសិក្សា និងមធ្យមសិក្សាដែលមានជម្រាលសម្រាប់សិស្សពិការ,4.a.3 Proportion of schools with access to adapted infrastructure and materials for students with disabilities,1,1
+SE_PRE_PARTN,៤.២.២ អត្រារួមនៃការសិក្សានៅមត្តេយ្យសិក្សា,4.2.2 Percentage ofchildren attended all aspects of ECE,1,1
+SE_TRA_GRDL,៤.គ.១ ភាគរយគ្រូបង្រៀននៅមត្តេយ្យសិក្សា បឋមសិក្សា មធ្យមសិក្សាបឋមភូមិ និងមធ្យមសិក្សាទុតិយភូមិ ដែលបានឆ្លងកាត់ការបណ្តុះបណ្តាលនិងវិកឹ្រតការ,"4.c.1 Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training",1,1
+SG_GEN_PARL,៥.៥.១ សមាមាត្រអាសនៈរបស់្រសី្តនៅក្នុងស្ថាប័ននីតិប្បញ្ញត្តិ,5.5.1 Proportion of seats held by women in legislative organs,1,1
+SG_REG_BRTH,១៦.៩.១ សមាមាត្រនៃកុមារដែលបានចុះបញ្ជីកំណើត ជាមួយអាជ្ញាធរស៊ីវិល,16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority,1,1
+SG_REG_CENSUSN,១៧.១៩.១ ជំរឿនប្រជាជនរៀងរាល់១០ឆ្នាំម្តង,17.19.1 Population Census in every 10 years,1,1
+SH_DTH_NCOM,៣.៥.១ អត្រាស្លាប់ដែលបណ្តាលមកពីជំងឺបេះដូង សរសៃឈាម មហារីក ទឹកនោមផ្អែម ឬជំងឺផ្លូវដង្ហើមរ៉ាំរ៉ៃក្នុងចំណោមប្រជាជនអាយុពី៣០ទៅ៧០ឆ្នាំ,"3.5.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",1,1
+SH_DYN_MORT,៣.៣.១ អត្រាមរណភាពកុមារអាយុក្រោម៥ឆ្នាំ,3.3.1 Under-five mortality rate (U5MR),33,1
+SH_DYN_NMRT,៣.៣.២ អត្រាមរណភាពទារកទើបកើត,3.3.2 Neonatal mortality rate,43,1
+SH_FPL_INFM,៥.៦.១ សមាមាត្រនៃស្តី្រអាយុពី១៥ដល់៤៩ឆ្នាំ ដែលសម្រេចចិត្តដោយខ្លួនឯងពាក់ព័ន្ធទៅនឹងការប្រើប្រាស់មធ្យាបាយពន្យារកំណើត និងការថែទាំសុខភាពបន្តពូជ,"5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",1,1
+SH_H2O_SAFE,៦.១.១ សមាមាត្រប្រជារាស្រ្តប្រើប្រភពទឹកស្អាតសម្រាប់ទទួលទាន,6.1.1 Proportion of population using an improved drinking water source,8,1
+SH_HIV_INCD,៣.៤.១ អត្រានៃករណីឆ្លងថ្មីនៃមេរោគអេដស៍ក្នុងចំណោមប្រជាជនដែលគ្មានផ្ទុកមេរោគអេដស៍ ១ ០០០នាក់,3.4.1 % of new HIV infection per 1000 uninfected population,1,1
+SH_MED_DEN,៣.គ.១ ផលធៀបវេជ្ជបណ្ឌិត/គិលានុប្បដ្ឋាក/យិកា/ឆ្មប លើប្រជាជន១ ០០០នាក់,"3.c.1 Ratio of physician/nurse/midwife per 1,000 population",1,1
+SH_PRV_SMOK,៣.a.១ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់ថ្នាំជក់ក្នុងចំណោមប្រជាជនអាយុ១៥ឆ្នាំឡើង,3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older,2,1
+SH_SAN_SAFE,៦.២.១ សមាមាត្រប្រជារាស្រ្តប្រើប្រាស់សេវាអនាម័យបានកែលម្អ,6.2.1 Proportion of population using an improved sanitation facility,6,1
+SH_STA_BRTC,៣.២.២ ភាគរយនៃការសម្រាលដោយបុគ្គលិកសុខាភិបាលមានជំនាញ,3.2.2 Proportion of births attended by skilled health personnel,26,1
+SH_STA_MALR,៣.៤.៣ អាំងស៊ីដង់(ករណីឆ្លងថ្មី)នៃជំងឺគ្រុនចាញ់,3.4.3 Malaria incidence,1,1
+SH_STA_MORT,៣.២.១ អត្រាមរណភាពមាតា,3.2.1 Maternal mortality ratio (MMR),25,1
+SH_STA_STNT,២.២.១ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពក្រិនមធ្យមឬធ្ងន់ធ្ងរ,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,33,1
+SH_STA_TRAF,៣.៧.១ របួសនិងស្លាប់ដោយគ្រោះថ្នាក់,3.7.1 Injury and death due to accident,1,1
+SH_STA_WAST,២.២.២ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពស្លេកស្លាំងមធ្យមឬធ្ងន់ធ្ងរ,2.2.2 Percent of children under 5 years old who are moderately or severely wasted,33,1
+SH_TBS_INCD,"៣.៤.២ អាំងស៊ីដង់ (ករណីឆ្លងថ្មី) នៃជំងឺរបេង ក្នុង ១០០,០០០ ប្រជាជន","3.4.2 Incidence of tuberculosis per 100,000 population",1,1
+SI_HEI_TOTL,១០.១.១ អត្រានៃការចំណាយ/ការប្រើប្រាស់ ឬចំណូលរបស់គ្រួសារសម្រាប់មនុស្សម្នាក់  ក្នុងចំណោមប្រជាជន៤០ភាគរយដែលមានចំណូលទាបជាងគេ ធៀបនឹងការចំណាយ/ការប្រើប្រាស់ ឬចំណូលមធ្យមរបស់ប្រជាជន,10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,1,1
+SI_POV_50MI,១០.២.១ សមាមាត្រនៃប្រជាជនដែលរស់នៅក្រោម ៥០ភាគរយ នៃមេដ្យានចំណូល តាម អាយុ ភេទ និងជនពិការ,10.2.1 Proportion of people living below 50 per cent of median income,1,1
+SI_POV_NAHC,១.២.១ សមាមាត្រប្រជារាស្រ្តនៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ,1.2.1 Proportion of population below national poverty line,4,1
+SI_POV_NMPI,១.២.២ សមាមាត្រ កុមារ ដែលរស់នៅក្នុងភាពក្រីក្រ  គ្រប់សមាសភាព ផ្អែកតាមនិយមន័យរបស់ជាតិ,1.2.2 Proportion of children living in poverty measured by multiple dimensions according to national definitions,1,1
+SL_TLF_MANF,៩.២.១ សមមាត្រនៃចំនួននិយោជិតកម្ពុជាក្នុងវិស័យ សហគ្រាសកម្មន្តសាល ធៀបនឹងចំនួនការងារសរុបក្នុងប្រទេស,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry,1,1
+SP_DYN_MRBF18,"៥.៣.១ សមាមាត្ររបស់ស្តី្រអាយុពី២០ដល់២៤ឆ្នាំដែលបានរៀបការឬរស់នៅជាមួយគ្នា
+មុនអាយុ១៨ឆ្នាំ",5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,1,1
+ST_GDP_ZS,៨.៩.១ ភាគរយនៃការរួមចំណែកដោយផ្ទាល់ពីវិស័យទេសចរណ៍ ទៅក្នុងផលិតផលក្នុងសុ្រកសរុប,8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate,1,1
+VC_VAW_MARR,៥.២.១ សមាមាត្ររបស់ស្តី្រនិងក្មេងសី្រ ដែលមានអាយុ១៥ឆ្នាំ ឡើងដែលធ្លាប់ទទួលរងនូវអំពើហិង្សាលើរាងកាយផ្លូវភេទ ឬផូ្លវចិត្ត ពីដៃគូបច្ចុប្បន្ន ឬអតីតក្នុងរយៈពេល១២ខែចុងក្រោយបែងចែកតាមទម្រង់នៃអំពើហិង្សា និងតាមអាយុ,"5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",1,1
+VC_VAW_NONMARR,៥.២.២ សមាមាត្ររបស់ស្តី្រនិង ក្មេងសី្រ ដែលមានអាយុ១៥ឆ្នាំឡើង ដែលធ្លាប់ទទួលរងនូវអំពើហឹង្សាលើផ្លូវភេទពីអ្នកមិនមែនជាដៃគូក្នុងរយៈពេល១២ខែ ចុងក្រោយបែងចែកតាមអាយុ,"5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",1,1

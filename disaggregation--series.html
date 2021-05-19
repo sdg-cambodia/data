@@ -1,0 +1,1530 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: SERIES - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="/data/index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: SERIES</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--series.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--series">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--series" class="download-info">Size: 47.8 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">141</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>km</th>
+      <th>en</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--ag-lnd-frst.html">AG_LND_FRST</a></td>
+      <td>១៥.១.១ ភាគរយនៃផ្ទៃដីគ្របដណ្តប់ដោយព្រៃឈើ ធៀបនឹងផ្ទៃដីសរុប</td>
+      <td>15.1.1 Proportion of land areas covered by forest</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ag-lnd-frstprct.html">AG_LND_FRSTPRCT</a></td>
+      <td>១៥.២.១ ភាគរយនៃតំបន់ព្រៃឈើដែលទទួលបានការការពារនិងគ្រប់គ្រងប្រកបដោយចីរភាព</td>
+      <td>15.2.1 Percentage of sustainable forest protection and management</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--dc-oda-bdvl.html">DC_ODA_BDVL</a></td>
+      <td>១៥.ខ.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការ សម្រាប់ការអភិរក្សនិងការប្រើប្រាស់ប្រកបដោយចីរភាពជីវៈចម្រុះនិងប្រព័ន្ធអេកូឡូស៊ី</td>
+      <td>15.b.1 Official development assistance for conservation and sustainable use of biodiversity and ecosystems</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--dc-tof-agrl.html">DC_TOF_AGRL</a></td>
+      <td>២.ក.១ លំហូរនៃហិរញ្ញប្បទានសរុប (ហិរញ្ញប្បទានសហប្រតិបត្តិការនិងលំហូរផ្សេងទៀត) ដល់វិស័យកសិកម្ម ធៀបនឹង ផ.ស.ស.</td>
+      <td>2.a.1 Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--dc-tof-infral.html">DC_TOF_INFRAL</a></td>
+      <td>៩.ក.១ ការគាំទ្រផូ្លវការសរុបពីអន្តរជាតិ(ជំនួយអភិវឌ្ឍន៍ផ្លូវការផ្សេងទៀត)ដល់ការកសាងនិងជួសជុលហេដ្ឋារចនាសម្ព័ន្ធ</td>
+      <td>9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--dc-trf-totl.html">DC_TRF_TOTL</a></td>
+      <td>១០.ខ.១.  បរិមាណហិរញ្ញប្បទានសហប្រតិបត្តិការសរុប សម្រាប់កម្ពុជា</td>
+      <td>10.b.1.  Total official development assistance for Cambodia</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--eg-acs-elec.html">EG_ACS_ELEC</a></td>
+      <td>៧.១.១ ប្រជាជនដែលទទួលបានអគ្គិសនីប្រើប្រាស់</td>
+      <td>7.1.1 Proportion of population with access to electricity</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--eg-egy-clean.html">EG_EGY_CLEAN</a></td>
+      <td>៧.១.២ សមាមាត្រនៃប្រជាជនដែលពឺងផ្អែកជាចម្បងលើបច្ចេកវិទ្យានិងឥន្ធនៈស្អាត</td>
+      <td>7.1.2 Proportion of population with primary reliance on clean fuels and technology</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--en-scp-fshgdp.html">EN_SCP_FSHGDP</a></td>
+      <td>១៤.៧.១ ភាគរយនៃតម្លៃរបស់ផលិតផលជលផលនិងវារីវប្បកម្មសមុទ្រធៀបនឹង ផ.ស.ស.</td>
+      <td>14.7.1 Value of sustainable fisheries production as a percentage of GDP</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--en-wwt-wwds.html">EN_WWT_WWDS</a></td>
+      <td>៦.៣.១ សមាមាត្រនៃសំណល់រាវដែលបានសម្អាតប្រកបដោយសុវត្ថិភាព</td>
+      <td>6.3.1 Proportion of wastewater safely treated</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--er-grf-plntstor.html">ER_GRF_PLNTSTOR</a></td>
+      <td>២.៥.១ ចំនួនធនធានពន្ធុរុក្ខជាតិសម្រាប់ស្បៀងអាហារនិងកសិកម្មបានធានាក្នុងគោលនយោបាយយុទ្ធសាស្ត្រនិងទីកន្លែងអភិរក្សរយៈពេលមធ្យមឬរយៈពេលវែង</td>
+      <td>2.5.1 Number of plant genetic resources for food and agriculture secured​ in policy, strategy and either medium or long-term conservation facilities</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--gb-xpd-rsdv.html">GB_XPD_RSDV</a></td>
+      <td>៩.៥.១ សមមាត្រនៃចំណាយលីការស្រាវជ្រាវនិងអភិវឌ្ឍធៀប នឹងផលិតផលក្នុងស្រុកសរុប</td>
+      <td>9.5.1 Research and development expenditure as a proportion of GDP</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--it-mob-2gntwk.html">IT_MOB_2GNTWK</a></td>
+      <td>៩.គ.១ សមមាត្រនៃប្រជជនប្រើប្រាស់បណ្តាញអ៊ិនធើណេត(ចល័តនិងអចល័ត)</td>
+      <td>9.c.1 Proportion of population covered by a mobile network, by technology</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--it-net-bbnd.html">IT_NET_BBND</a></td>
+      <td>១៧.៦.១ ភាគរយនៃប្រជាជន ដែលបានជាវអ៊ិនធើណែតអចល័តជាប្រចាំក្នុងចំណោមប្រជាជនសរុបបែងចែកតាមល្បឿននៃអ៊ិនធើណែត</td>
+      <td>17.6.1 Percentage of population connect to Fixed Internet broadband subscriptions, by speed</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--it-use-ii99.html">IT_USE_II99</a></td>
+      <td>១៧.៨.១ អ្នកប្រើប្រាស់អ៊ិនធើណែត</td>
+      <td>17.8.1 Internet users</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-010301-01.html">N_KH_010301_01</a></td>
+      <td>១.៣.១ សមាមាត្រនៃជនក្រីក្រ និងជនងាយរងគ្រោះដែលទទួលបានសេវាសង្រ្គោះសង្គម</td>
+      <td>1.3.1 Proportion of the poor and the vulnerable received social emergency relief services</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-010401-01.html">N_KH_010401_01</a></td>
+      <td>១.៤.១ ភាគរយនៃសមាជិកសហគមន៍នេសាទនិងព្រៃឈើដែលទទួលបានសិទ្ធិស្របច្បាប់ក្នុងការចូលរួមគ្រប់គ្រងធនធានជលផលនិងព្រៃឈើ តាមរយៈការចុះបញ្ជីនិងអភិវឌ្ឍសហគមន៍ប្រកបដោយប្រសិទ្ធភាព</td>
+      <td>1.4.1 Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-020301-01.html">N_KH_020301_01</a></td>
+      <td>២.៣.១ ទំហំផលិតកម្មកសិកម្មក្នុងកសិករម្នាក់ដែលប្រកបរបរកសិកម្ម(ស្រែចម្ការការចិញ្ចឹមសត្វនិងជលផល)</td>
+      <td>2.3.1 Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-020401-01.html">N_KH_020401_01</a></td>
+      <td>២.៤.១ ផលិតភាពដីកសិកម្មដែលបាននិងកំពុងប្រើប្រាស់ធ្វើកសិកម្មប្រកបដោយចីរភាព</td>
+      <td>2.4.1 Sustainable Agricultural Land Productivity</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-020502-01.html">N_KH_020502_01</a></td>
+      <td>២.៥.២ ចំនួនគ្រួសារក្នុងសហគមន៍តំបន់ការពារធម្មជាតិ ដែលត្រូវបានលើកកម្ពស់កម្រិតជីវភាព តាមរយៈការទទួលបានផលប្រយោជន៍ពី NTFP ការបញ្ចូលក្នុងវិស័យកសិកម្ម ទេសចរណ៍ធម្មជាតិនៅក្នុងតំបន់ការពារ</td>
+      <td>2.5.2 Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030101-01.html">N_KH_030101_01</a></td>
+      <td>៣.១.១ អាយុសង្ឃឹមរស់ពីកំណើត</td>
+      <td>3.1.1 Life expectancy at birth</td>
+      <td>81</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030102-01.html">N_KH_030102_01</a></td>
+      <td>៣.១.២ អត្រាលទ្ធភាពបង្កើតកូនសរុប (ចំនួនកូនកើតក្នុងស្រ្តីម្នាក់)</td>
+      <td>3.1.2 Total fertility rate</td>
+      <td>35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030502-01.html">N_KH_030502_01</a></td>
+      <td>៣.៥.២ ភាគរយនៃប្រជាជនពេញ វ័យមានជំងឺធ្លាក់ទឹកចិត្តបានទទួលសេវាព្យាបាល</td>
+      <td>3.5.2 Percentage of adult population with depression received treatment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030601-01.html">N_KH_030601_01</a></td>
+      <td>៣.៦.១ ភាគរយនៃប្រជាជនប្រើប្រាស់គ្រឿងញៀនបានទទួលសេវាព្យាបាល</td>
+      <td>3.6.1 Percentage of people with drug used received treatment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030602-01.html">N_KH_030602_01</a></td>
+      <td>៣.៦.២ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់សារជាតិអាល់កុលក្នុងចំណោមមនុស្សពេញវ័យ ចាប់ពីអាយុ១៨ឆ្នាំឡើង</td>
+      <td>3.6.2 Prevalence of alcohol use among among population above 18 years old</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030801-01.html">N_KH_030801_01</a></td>
+      <td>៣.៨.១ សមាមាត្រនៃស្រ្តីក្នុង  វ័យបន្តពូជ (១៥-៤៩ឆ្នាំ)ដែលត្រូវការសេវាផែនការគ្រួសារ បានពេញចិត្តនឹងវិធី ពន្យារកំណើតទំនើប</td>
+      <td>3.8.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030802-01.html">N_KH_030802_01</a></td>
+      <td>៣.៨.២ ភាគរយនៃស្ត្រីវ័យ ជំទង់អាយុ១៥-១៩ឆ្នាំ ដែលមានគភ៌</td>
+      <td>3.8.2 Teenage pregnancy 15 -19 years</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030901-01.html">N_KH_030901_01</a></td>
+      <td>៣.៩.១ % នៃប្រជាជនដែលគ្របដណ្តប់ដោយប្រព័ន្ធគាំពារសុខភាពសង្គម(មូលនិធិសមធម៌ និងការធានារ៉ាប់រងសុខភាព)</td>
+      <td>3.9.1 Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030902-01.html">N_KH_030902_01</a></td>
+      <td>៣.៩.២ ចំណាយថវិកាជាតិចរន្តលើសុខភាពគិតជា % នៃផលិតផលសរុបក្នុងស្រុក</td>
+      <td>3.9.2 Government Current expenditure on health as % of GDP)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-030a02-01.html">N_KH_030a02_01</a></td>
+      <td>៣.ក.២ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់ថ្នាំជក់ក្នុងចំណោមយុវវ័យអាយុពី១៣ដល់១៥ឆ្នាំ</td>
+      <td>3.a.2 Prevalence of tobacco use among youth aged 13-15</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-04010101-01.html">N_KH_04010101_01</a></td>
+      <td>៤.១.១.១ អត្រាបញ្ចប់ការសិក្សានៅបឋមសិក្សា</td>
+      <td>4.1.1.1 Completion rate Grade 6</td>
+      <td>87</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-04010102-01.html">N_KH_04010102_01</a></td>
+      <td>៤.១.១.២ អត្រាបញ្ចប់ការសិក្សានៅមធ្យមសិក្សាបឋមភូមិ</td>
+      <td>4.1.1.2 Completion rate Grade 9</td>
+      <td>87</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040201-01.html">N_KH_040201_01</a></td>
+      <td>៤.២.១ ភាគរយសិស្សថ្នាក់ទី១ បានឆ្លងកាត់កម្មវិធីអប់រំកុមារតូចគ្រប់រូបភាព</td>
+      <td>4.2.1 Proportion of grade 1 student passed through all ECE programs</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040301-01.html">N_KH_040301_01</a></td>
+      <td>៤.៣.១ អត្រារួមនៃការសិក្សានៅឧត្តមសិក្សា(អាយុពី១៨ ដល់២១ឆ្នាំ) បែងចែកតាមភេទ</td>
+      <td>4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040302-01.html">N_KH_040302_01</a></td>
+      <td>៤.៣.២ អត្រារួមនៃការសិក្សាក្នុងកម្មវិធីអប់រំបច្ចេកទេសនិងវិជ្ជាជីវៈ (១៥ ដល់ ២៤ឆ្នាំ)</td>
+      <td>4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040501-01.html">N_KH_040501_01</a></td>
+      <td>៤.៥.១ សន្ទស្សន៍យុគភាព យេនឌ័រនៃអត្រារួមនៃការសិក្សានៅមធ្យមសិក្សាបឋមភូមិ</td>
+      <td>4.5.1 Gender parity index in lower secondary education</td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040502-01.html">N_KH_040502_01</a></td>
+      <td>៤.៥.២ សន្ទស្សន៍យុគភាព យេនឌ័រនៃអត្រារួមនៃការសិក្សានៅមធ្យមសិក្សាទុតិយភូមិ</td>
+      <td>4.5.2 Gender parity index in upper secondary education</td>
+      <td>28</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040601-01.html">N_KH_040601_01</a></td>
+      <td>៤.៦.១ អត្រាអក្ខរជនតាមក្រុមអាយុ</td>
+      <td>4.6.1 Literacy rate by age group</td>
+      <td>33</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040c02-01.html">N_KH_040c02_01</a></td>
+      <td>៤.គ.២ ភាគរយគ្រូមេត្តយ្យសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ</td>
+      <td>4.c.2 Percentage of pre school teachers qualified according to national standards</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040c03-01.html">N_KH_040c03_01</a></td>
+      <td>៤.គ.៣ ភាគរយគូ្របឋមសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ</td>
+      <td>4.c.3 Percentage of primary teachers qualified according to national standards</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040c04-01.html">N_KH_040c04_01</a></td>
+      <td>៤.គ.៤ ភាគរយគូ្រមធ្យមសិក្សាដែលមានគុណវុឌ្ឍិស្របតាមស្តង់ដាជាតិ</td>
+      <td>4.c.4 Percentage of secondary teachers qualified according to national standards</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-040c05-01.html">N_KH_040c05_01</a></td>
+      <td>៤.គ.៥ ភាគរយគូ្របង្រៀនដែលបានទទួលការបណ្តុះបណ្តាលវិកឹ្រតការ</td>
+      <td>4.c.5Percentage of teachers who received in-service training</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050101-01.html">N_KH_050101_01</a></td>
+      <td>៥.១.១ ចំនួនច្បាប់គោលនយោបាយផែនការនិងក្របខ័ណ្ឌ គតិយុត្ត សម្រាប់លើកកម្ពស់ការអនុវត្តនិងតាមដានតួ្រតពិនិត្យកាលើកកម្ពស់សមភាពយេនឌ័រនិងការមិនរើសអើងភេទ</td>
+      <td>5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050401-01.html">N_KH_050401_01</a></td>
+      <td>៥.៤.១. ចំនួនវិធានការផូ្លវច្បាប់និងគោលនយោបាយដែលដោះស្រាយនិងទទួលទទួលស្គាល់នូវតុល្យភាពជីវិត និងការងារ (ការងារផ្ទះនិងការងារថែទាំដែលមិនមានកម្រៃ) និង លើកកម្ពស់ការទទួលបាន កាន់តែច្រើននូវការងារ សមរម្យសម្រាប់ស្តី្រ</td>
+      <td>5.4.1. Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050502-01.html">N_KH_050502_01</a></td>
+      <td>៥.៥.២ សមាមាត្រស្តី្រជា អនុរដ្ឋលេខាធិការ</td>
+      <td>5.5.2 Proportion of under secretary of state who are women</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050502-02.html">N_KH_050502_02</a></td>
+      <td>៥.៥.២ សមាមាត្រស្តី្រជា រដ្ឋលេខាធិការ</td>
+      <td>5.5.2 Proportion of secretary of state who are women</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050503-01.html">N_KH_050503_01</a></td>
+      <td>៥.៥.៣ សមាមាត្រនៃស្ដី្រជាសមាជិកក្រុមបឹ្រក្សាឃុំ សង្កាត់</td>
+      <td>5.5.3 Proportion of seats held by women in commune councils</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050602-01.html">N_KH_050602_01</a></td>
+      <td>៥.៦.២ ចំនួនច្បាប់គោលនយោបាយផែនការនិងលិខិតបទដ្ឋានគតិយុត្តដែលធានាឲ្យស្តី្រគ្រប់រូបមានលទ្ធភាពទទួលបានព័ត៌មានការអប់រំនិងសេវាសុខភាពបន្តពូជនិងសុខភាពផូវ្លភេទ</td>
+      <td>5.6.2 The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050c01-01.html">N_KH_050c01_01</a></td>
+      <td>៥.គ.១ ចំនួននៃក្រសួងស្ថាប័នដែលមានប្រព័ន្ធតាមដាន និងវិភាជថវិកាសម្រាប់លើកកម្ពស់សមភាពយេនឌ័រនិងការពងឹ្រងភាពអង់អាចដល់ស្តី្រ</td>
+      <td>5.c.1 Number of institutions with a system to track and allocate budget to promote  gender equality and empower women</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-050c02-01.html">N_KH_050c02_01</a></td>
+      <td>៥.គ.២ ចំនួនក្រសួងស្ថាប័ន ដែលបានអនុវត្តផែនការយុទ្ធសាស្រ្តបញ្រ្ជាបយេនឌ័រ</td>
+      <td>5.c.2 Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-060401-01.html">N_KH_060401_01</a></td>
+      <td>៦.៤.១ តឹ្រមឆ្នាំ២០២៥ប្រជាជនកម្ពុជាគ្រប់រូបនៅទីប្រជុំជនទទួលបានទឹកស្អាតប្រើប្រាស់ប្រកបដោយចីរភាពគុណភាពល្អ និងតម្លៃសមរម្យ</td>
+      <td>6.4.1 By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-060a01-01.html">N_KH_060a01_01</a></td>
+      <td>៦.ក.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការដែលពាក់ព័ន្ធទៅនឹងទឹកស្អាតនិងអនាម័យដែលជាផ្នែកនៃផែនការចំណាយសម្របសម្រួលដោយរដ្ឋាភិបាលធៀបនឹង ផ.ស.ស.</td>
+      <td>6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-070201-02.html">N_KH_070201_02</a></td>
+      <td>៧.២.១ ថាមពលកកើតឡើងវិញ</td>
+      <td>7.2.1 Renewable energy consumption</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-070301-01.html">N_KH_070301_01</a></td>
+      <td>៧.៣.១ សមាមាត្រនៃថាមពល បឋម ធៀបនឹងផលិតផលក្នុងស្រុកសរុប</td>
+      <td>7.3.1 Proption of primary energy with GDP</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-08020201-01.html">N_KH_08020201_01</a></td>
+      <td>៨.២.២.១ អត្រាកំណើននៃការចុះបញ្ជីពណិជ្ជកម្ម ដោយស័យ្វ ប្រវតិ្តកម្ម</td>
+      <td>8.2.2.1 Growth rate of online company registration</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-08020202-01.html">N_KH_08020202_01</a></td>
+      <td>៨.២.២.២ អត្រាកំណើននៃការចុះបញ្ជីម៉ាក ដោយស្វ័យប្រវត្តិកម្ម</td>
+      <td>8.2.2.2 Growth rate of online trade mark registration</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-08020203-01.html">N_KH_08020203_01</a></td>
+      <td>៨.២.២.៣ អត្រាកំណើននៃការចេញវិញ្ញាបនបត្របញ្ជាក់ប្រភពដើមទំនិញ ដោយស្វ័យប្រវត្តកម្ម</td>
+      <td>8.2.2.3 Growth Rate of online issuing the Cerficate of Origin</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-08020301-01.html">N_KH_08020301_01</a></td>
+      <td>៨.២.៣.១ ចំនួនប្រភេទផលិតផលទំនិញនិងសេវាកម្ម ដែលបានកែច្នៃឬអភិវឌ្ឍនិងបានបញ្ចូលទៅក្នុងការជំរុញចលនាភូម១ ផលិតផល១</td>
+      <td>8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-08020302-01.html">N_KH_08020302_01</a></td>
+      <td>៨.២.៣.២ ចំនួនប្រភេទផលិតផលទំនិញនិងសេវាកម្ម ដែលបានកែច្នៃឬអភិវឌ្ឍហើយត្រូវបានលើកកម្ពស់ស្តង់ដាតាមទស្សនទាន ភូមិ១ផលិតផល១ពីក្រមិតទាបទៅខ្ពស់</td>
+      <td>8.2.3.2 Number of types products both goods and services that have been processed or developed with OVOP standeard criteria</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-080902-01.html">N_KH_080902_01</a></td>
+      <td>៨.៩.២ សមាមាត្រនៃចំនួនកម្មករនិយោជិតេធ្វើការក្នុងវិស័យទេសចរណ៍និងចំនួនអ្នកធ្វើការសរុប</td>
+      <td>8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-080a01-01.html">N_KH_080a01_01</a></td>
+      <td>៨.ក.១ ការប្តេជ្ញា និងផ្តល់ហិរញ្ញប្បទានសហ្របតិបត្តិការសម្រាប់វិស័យពាណិជ្ជកម្ម</td>
+      <td>8.a.1 Aid for Trade Commitments and Disbursements</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-090101-01.html">N_KH_090101_01</a></td>
+      <td>៩.១.១ បរិមាណទំនិញឆ្លងកាត់ផែនិងផ្លូវរថភ្លើង</td>
+      <td>9.1.1 Freight volumes of ports and railway</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-090102-01.html">N_KH_090102_01</a></td>
+      <td>៩.១.២ ចំនួនអ្នកដំណើរតាមអាកាស (អន្តរជាតិ)</td>
+      <td>9.1.2 Air transport, international passengers carried</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-090102-02.html">N_KH_090102_02</a></td>
+      <td>៩.១.២ ចំនួនអ្នកដំណើរតាមអាកាស (ក្នុងស្រុក)</td>
+      <td>9.1.2 Air transport, domestic passengers carried</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-090103-01.html">N_KH_090103_01</a></td>
+      <td>៩.១.៣ បរិមាណទំនិញដឹកជញ្ជូន(អន្តរជាតិ)</td>
+      <td>9.1.3 Air transport, international freight</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-090103-02.html">N_KH_090103_02</a></td>
+      <td>៩.១.៣ បរិមាណទំនិញដឹកជញ្ជូន(ក្នុងស្រុក)</td>
+      <td>9.1.3 Air transport, domestic freight</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-100401-01.html">N_KH_100401_01</a></td>
+      <td>១០.៤.១ និវត្តជននិងជនបាត់បង់សម្បទាវិជ្ជាជីវៈ</td>
+      <td>10.4.1 Civil Servants Retirees and invalid people who receive pension benefits</td>
+      <td>25</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-100a01-01.html">N_KH_100a01_01</a></td>
+      <td>១០.ក.១ ចំនួនកិច្ចព្រមព្រៀងពាណិជ្ជកម្មជាមួយបរទេស</td>
+      <td>10.a.1 Number of Trade Related Agreement with other countries</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-110601-01.html">N_KH_110601_01</a></td>
+      <td>១១.៦.១ បរិមាណសម្រាមសំណល់រឹងដែលបានប្រមូលបានជាប្រចាំនៅតំបន់ទីប្រជុំជន ទីក្រុង និងត្រូវបានបញ្ចេញចោល ក្នុងតំបន់ទីប្រជុំជន និងនៅតាមទីក្រុង</td>
+      <td>11.6.1 Amount of urban solid waste regularly collected and with adequate final discharge</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-110602-01.html">N_KH_110602_01</a></td>
+      <td>១១.៦.២ ភាគរយនៃការកាត់បន្ថយការប្រើប្រាស់ថង់ប្លាស្ទិច</td>
+      <td>11.6.2 Percentage of the deduction plastic bag used</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-110603-01.html">N_KH_110603_01</a></td>
+      <td>១១.៦.៣ ភាគរយនៃសំណល់រឹងត្រូវបានគ្រប់គ្រងតាមគោលការណ៍បច្ចេកទេស</td>
+      <td>11.6.3 Percentage of the solid wasted will be segregate by technical guidance</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-110604-01.html">N_KH_110604_01</a></td>
+      <td>១១.៦.៤ កម្រិតជាមធ្យមប្រចាំឆ្នាំនៃប៉ារ៉ាម៉ែត្រ CO NO2  SO2 TSP  PM2.5 and PM10</td>
+      <td>11.6.4 Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-120401-01.html">N_KH_120401_01</a></td>
+      <td>១២.៤.១ អត្រានៃការសាយភាយសារធាតុ បំពុលសរីរាង្គមិនងាយបំបែកធាតុសាយភាយ ចូលទៅក្នុងបរិស្ថាន</td>
+      <td>12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-120402-01.html">N_KH_120402_01</a></td>
+      <td>១២.៤.២ ភាគរយនៃការកាត់បន្ថយការសាយភាយសារធាតុបារតសាយភាយចូលទៅក្នុងបរិស្ថាន</td>
+      <td>12.4.2 Percentage of release reduction of mercury (Hg) to the environment</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-120403-01.html">N_KH_120403_01</a></td>
+      <td>១២.៤.៣ ភាគរយនៃការ គ្រប់គ្រងសំណល់គ្រោះថ្នាក់ សំណល់ជីវសាស្រ្ត និងវិទ្យុសកម្ម</td>
+      <td>12.4.3 Effectiveness management of hazardous waste and biological and radioactive waste</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-120501-01.html">N_KH_120501_01</a></td>
+      <td>១២.៥.១ អត្រានៃការកែច្នៃឡើងវិញនូវវត្ថុធាតុដើមដែលបានប្រើប្រាស់</td>
+      <td>12.5.1 National recycling rate, tons of material recycled</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-130101-01.html">N_KH_130101_01</a></td>
+      <td>១៣.១.១ ភាគរយនៃឃុំ/សង្កាត់ងាយរងគ្រោះទៅនឹងការប្រែប្រួលអាកាសធាតុ</td>
+      <td>13.1.1 Percentage of communes/Sangkats vulnerable to climate change</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-130201-01.html">N_KH_130201_01</a></td>
+      <td>១៣.២.១ ភាគរយនៃការបញ្ចេញឧស្ម័នផ្ទះកញ្ចក់ពីសកម្មភាពកាត់បន្ថយ នៅពេលដែលប្រៀបធៀបចំហាក (សេណារ៉ូ)បញ្ចេញឧស្ម័នតាមទម្លាប់</td>
+      <td>13.2.1 Pecentage of Green-House Gas emission through reduced activities when comparing to the projection (scenario) of usual gas emission</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-130202-01.html">N_KH_130202_01</a></td>
+      <td>១៣.២.២ ភាគរយនៃការប្រែប្រួលចំណាយសាធារណៈសម្រាប់ការប្រែប្រួលអាកាសធាតុ</td>
+      <td>13.2.2 Percentage of increase in public expenditure for climate change</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-130301-01.html">N_KH_130301_01</a></td>
+      <td>១៣.៣.១ កម្រិតស្ថាប័នដែលបានត្រៀមសម្រាប់ការឆ្លើយតបនឹងការប្រែប្រួលអាកាសធាតុ ដោយបង្ហាញជាភាគរយនៃសមត្ថភាពស្ថាប័នដែលបានបញ្ជ្រាបផ្នែកទាំងប្រាំនៃការប្រែប្រួលអាកាសធាតុ</td>
+      <td>13.3.1 Intitution level that prepared for response to Climate Change indicated as percentage of institutional capacities mainstreamed on 5 components of Climate Change</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-130302-01.html">N_KH_130302_01</a></td>
+      <td>១៣.៣.២ ភាគរយនៃគ្រួសារកសិករដាំដុះដំណាំចិញ្ចឹមសត្វចិញ្ចឹមត្រីអ្នកនេសាទនិងប្រជាសហគមន៍មូលដ្ឋានដែលទទួលការផ្សព្វផ្សាយនិងបណ្តុះបណ្តាលទាក់ទងនឹងការប្រែប្រួលអាកាសធាតុ</td>
+      <td>13.3.2 Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-140101-01.html">N_KH_140101_01</a></td>
+      <td>១៤.១.១ ភាគយនៃការកាត់បន្ថយការបំពុល សមុទ្រតាម រយៈសកម្មភាពអភិរក្សសមុទ្រ</td>
+      <td>14.1.1 Percentage of the reduction of the sea pollution by the conservation activities</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-140202-01.html">N_KH_140202_01</a></td>
+      <td>១៤.២.១ មុខងារនិងសេវាសំខាន់ៗរបស់ប្រព័ន្ធអេកូឡូស៊ីសមុទ្រនិងតំបន់ឆ្នេរត្រូវបានថែរក្សានិងស្តារតាមការចាំបាច់</td>
+      <td>14.2.1 Key ecosystem function and service of marine and coast area maintained and restore as necessary</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-140b01-01.html">N_KH_140b01_01</a></td>
+      <td>១៤.ខ.១ ភាគរយនៃធនធានសមុទ្រដែលអ្នកនេសាទខ្នាតតូចទទួលបាននិងលក់លើទីផ្សារមានស្ថិរភាព</td>
+      <td>14.b.1 Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-141501-01.html">N_KH_141501_01</a></td>
+      <td>១៤.៥.១ ភាគរយនៃទំហំតំបន់អភិរក្សជលផលទាំងតំបន់ឆ្នេរ និងទឹកសាប ដែលបានការពារ</td>
+      <td>14.5.1 Percentage of coverage of marine and inland fisheries conservation areas protected</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-141502-01.html">N_KH_141502_01</a></td>
+      <td>១៤.២.២ ភាគរយនៃផ្ទៃដីព្រៃលិចទឹក និងព្រៃកោងកាង ដែលត្រូវបានដាំឡើងវិញនិងការពារ</td>
+      <td>14.2.2 Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150102-01.html">N_KH_150102_01</a></td>
+      <td>១៥.១.២ ភាគរយនៃតំបន់ដែលមានជីវៈចម្រុះក្នុងទឹកនិងលើដីគោក ដែលគ្របដណ្តប់ដោយតំបន់ការពារនិងតំបន់អភិរក្សជលផល បែងចែកតាមប្រភេទនៃប្រព័ន្ធអេកូឡូស៊ី</td>
+      <td>15.1.2 Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150103-01.html">N_KH_150103_01</a></td>
+      <td>១៥.១.៣ ផ្ទៃដីព្រៃឈើ និងប្រព័ន្ធអេកូឡូស៊ី ដែលត្រូវបានប្រើប្រាស់ប្រកបដោយចីរភាព</td>
+      <td>15.1.3 Forest areas and ecosystems sustainably utilized</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150301-01.html">N_KH_150301_01</a></td>
+      <td>១៥.៣.១ ផ្ទៃដីតំបន់ទេសភាពព្រៃឈើដែលបានស្តារពីផលប៉ះពាល់ដោយសារភាពរាំងស្ងួត ទឹកជំនន់ និងដែលបានបោះបង់ចោល</td>
+      <td>15.3.1 Area of forest landscape restoration for areas affected by desertification, drought and floods</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150501-01.html">N_KH_150501_01</a></td>
+      <td>១៥.៥.១ ចំនួនផែនការសកម្មភាពសម្រាប់អភិរក្សប្រភេទសត្វព្រៃនិងរុក្ខជាតិជិតផុតពូជនិងមានដោយកម្រ ដែលត្រូវបានរៀបចំនិងអនុវត្ត</td>
+      <td>15.5.1 Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150701-01.html">N_KH_150701_01</a></td>
+      <td>១៥.៧.១ ចំនួនករណីល្មើសច្បាប់ក្នុងការបរបាញ់ ការជួញដូរ ប្រភេទសត្វព្រៃ និងប្រភេទរុក្ខជាតិខុសច្បាប់ ដែលត្រូវបានកាត់បន្ថយ</td>
+      <td>15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-150902-01.html">N_KH_150902_01</a></td>
+      <td>១៥.៩.២ ចំនួនគោលនយោបាយយុទ្ធសាស្រ្ត និងលិខិតយុទ្ធោបករណ៍ស្តីពីសេវាកម្មប្រពន័្ធ អេកូឡូស៊ីត្រូវបានតាក់តែង និងអនុវត្ត</td>
+      <td>15.9.2 Number of policies, strategies and regulations on ecosystem services is established and implemented</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-160301-01.html">N_KH_160301_01</a></td>
+      <td>១៦.៣.១ សមាមាត្រនៃប្រជាជនដែលបានចូលរួមក្នុងការផ្សព្វផ្សាយច្បាប់</td>
+      <td>16.3.1 Proportion of people involved in disseminating laws</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-160701-01.html">N_KH_160701_01</a></td>
+      <td>១៦.៧.១ សមាមាត្រនៃស្តី្រ ជាមន្ត្រីរាជការស៊ីវិលនៅតាមក្រសួងស្ថាប័ននានា</td>
+      <td>16.7.1 Proportion of female in civil servant</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-170301-01.html">N_KH_170301_01</a></td>
+      <td>១៧.៣.១ សមាមាត្រនៃហិរញ្ញប្បទានចម្រុះធៀបនឹង ផ.ស.ស.</td>
+      <td>17.3.1 Official development assistance as % of GDP</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-170901-01.html">N_KH_170901_01</a></td>
+      <td>១៧.៩.១ ទំហំហិរញ្ញប្បទានកិច្ចសហប្រតិបត្តិការបច្ចេកទេស (រួមទាំងកិច្ចសហប្រតិបត្តិការជើង-ត្បូង ត្បូង-ត្បូង និងកិច្ចសហប្រតិបត្តិការត្រីកោណ) ដែលបានសន្យាផ្តល់ដល់កម្ពុជា</td>
+      <td>17.9.1 Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-170902-01.html">N_KH_170902_01</a></td>
+      <td>១៧.៩.២ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការ ដែលគាំទ្រគោលនយោបាយសេដ្ខកិច្ចនិងការអភិវឌ្ឍដែលបានប្តេជ្ញាផ្តល់ឲ្យកម្ពុជាធៀបនឹង ផ.ស.ស</td>
+      <td>17.9.2 Amount of ODA to Economic and Development Policy/Planning (as % of GDP)​​​ committed to Cambodia</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-171001-01.html">N_KH_171001_01</a></td>
+      <td>១៧.១០.១ ចំនួនច្បាប់និងបទដ្ឋានគតិយុត្តពាណិជ្ជកម្ម ដែលបានរៀបចំឡើងដើម្បីសម្រួលដល់អ្នកវិនិយោគនិងធុរជនក្នុងស្រុកក្នុងការធ្វើពាណិជ្ជកម្ម</td>
+      <td>17.10.1 The number of commercial legal norms and standards set up to facilitate local investors and investors in trading</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-171701-01.html">N_KH_171701_01</a></td>
+      <td>១៧.១៧.១ ទំហំហិរញ្ញប្បទានសហប្រតិបត្តិការដែលត្រូវបានសន្យារផ្តល់ដល់ភាពជាដៃគូសង្គមស៊ីវិលធៀបនឹង ផ.ស.ស.</td>
+      <td>17.17.1 Amount of ODA disbursed to civil society partnerships (as % of GDP)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-171802-01.html">N_KH_171802_01</a></td>
+      <td>១៧.១៨.២ សមាមាត្រនៃចំណាយថវិកាសម្រាប់អនុវត្តផែនការយុទ្ធសាស្រ្តជាតិសម្រាប់អភិវឌ្ឍស្ថិតិ</td>
+      <td>17.18.2 Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS)</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180101-01.html">N_KH_180101_01</a></td>
+      <td>១៨.១.១ ផ្ទៃដីសរុបនៃការបោសសម្អាតមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាមប្រចាំឆ្នាំ</td>
+      <td>18.1.1 Total cumulated areas cleared of mines/ERW</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180201-01.html">N_KH_180201_01</a></td>
+      <td>១៨.២.១ ចំនួននៃជនរងគ្រោះថ្នាក់ (ស្លាប់និងរបួស) ដោយគ្រាប់មីន និងសំណល់ជាតិផ្ទុះពីសង្គ្រាម</td>
+      <td>18.2.1 Number of civilian casualties from mines/ERW</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180202-01.html">N_KH_180202_01</a></td>
+      <td>១៨.២.២ ចំនួនភូមិដែលរងការគំរាមកំហែង ដោយសារមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាមទទួលបានសារអប់រំគ្រោះថ្នាក់ដោយសារមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាម</td>
+      <td>18.2.2 The number of villages contaminated by mines / ERW to receive Mine Risk Educationmessages</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180301-01.html">N_KH_180301_01</a></td>
+      <td>១៨.៣.១ ចំនួនជនពិការដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានការលើកកម្ពស់សិទ្ធិនិងគុណភាពជីវិត</td>
+      <td>18.3.1 The number of mine and ERW casualties received rights promotion</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180302-01.html">N_KH_180302_01</a></td>
+      <td>១៨.៣.២ ចំនួនជនរងគ្រោះដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានសេវាស្តារលទ្ធភាពពលកម្ម</td>
+      <td>18.3.2 The number of mine and ERW casualties received rehabilitation service</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--n-kh-180303-01.html">N_KH_180303_01</a></td>
+      <td>១៨.៣.៣ ចំនួនជនរងគ្រោះដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានសេវាឆ្លើយតបបន្ទាន់និងឆាប់រហ័សពីអាជ្ញាធរ មីន</td>
+      <td>18.3.3 The number of mine and ERW casualties received emergency  and rapid response from CMAA</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ny-gdp-pcap.html">NY_GDP_PCAP</a></td>
+      <td>៨.១.១ កំណើនផលិតផលក្នុងស្រុកសរុបប្រចាំឆ្នាំគិតតាមថ្លៃថេរ</td>
+      <td>8.1.1 Annual GDP growth rate at constant prices</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sd-sdg-avlb.html">SD_SDG_AVLB</a></td>
+      <td>១៧.១៨.១ សមាមាត្រនៃសូចនាកររអភិវឌ្ឍប្រកបដោយចីរភាពដែលបានបង្កើតឡើងនៅថ្នាក់ជាតិ បំបែកទៅតាមចំណុចដៅ ដោយផ្អែកលើមូលដ្ឋានស្ថិតិផ្លូវការ</td>
+      <td>17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--se-acs-h2o.html">SE_ACS_H2O</a></td>
+      <td>៤.ក.១ សមាមាត្រនៃសាលាមេត្តយ្យសិក្សា បឋមសិក្សា និងមធ្យមសិក្សាដែលមានឧបករណ៍ទឹកស្អាតសម្រាប់បរិភោគ</td>
+      <td>4.a.1 Proportion of schools with access to basic drinking water</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--se-acs-sanit.html">SE_ACS_SANIT</a></td>
+      <td>៤.ក.២ សមាមាត្រនៃសាលាមត្តេយ្យសិក្សា បឋមសិក្សា និងមធ្យមសិក្សា ដែលមានបង្គន់ អនាម័យប្រើប្រាស់</td>
+      <td>4.a.2 Proportion of schools with access to single-sex basic sanitation facilities</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--se-inf-dsbl.html">SE_INF_DSBL</a></td>
+      <td>៤.ក.៣ ភាគរយនៃសាលាបឋមសិក្សា និងមធ្យមសិក្សាដែលមានជម្រាលសម្រាប់សិស្សពិការ</td>
+      <td>4.a.3 Proportion of schools with access to adapted infrastructure and materials for students with disabilities</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--se-pre-partn.html">SE_PRE_PARTN</a></td>
+      <td>៤.២.២ អត្រារួមនៃការសិក្សានៅមត្តេយ្យសិក្សា</td>
+      <td>4.2.2 Percentage ofchildren attended all aspects of ECE</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--se-tra-grdl.html">SE_TRA_GRDL</a></td>
+      <td>៤.គ.១ ភាគរយគ្រូបង្រៀននៅមត្តេយ្យសិក្សា បឋមសិក្សា មធ្យមសិក្សាបឋមភូមិ និងមធ្យមសិក្សាទុតិយភូមិ ដែលបានឆ្លងកាត់ការបណ្តុះបណ្តាលនិងវិកឹ្រតការ</td>
+      <td>4.c.1 Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sg-gen-parl.html">SG_GEN_PARL</a></td>
+      <td>៥.៥.១ សមាមាត្រអាសនៈរបស់្រសី្តនៅក្នុងស្ថាប័ននីតិប្បញ្ញត្តិ</td>
+      <td>5.5.1 Proportion of seats held by women in legislative organs</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sg-reg-brth.html">SG_REG_BRTH</a></td>
+      <td>១៦.៩.១ សមាមាត្រនៃកុមារដែលបានចុះបញ្ជីកំណើត ជាមួយអាជ្ញាធរស៊ីវិល</td>
+      <td>16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sg-reg-censusn.html">SG_REG_CENSUSN</a></td>
+      <td>១៧.១៩.១ ជំរឿនប្រជាជនរៀងរាល់១០ឆ្នាំម្តង</td>
+      <td>17.19.1 Population Census in every 10 years</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-dth-ncom.html">SH_DTH_NCOM</a></td>
+      <td>៣.៥.១ អត្រាស្លាប់ដែលបណ្តាលមកពីជំងឺបេះដូង សរសៃឈាម មហារីក ទឹកនោមផ្អែម ឬជំងឺផ្លូវដង្ហើមរ៉ាំរ៉ៃក្នុងចំណោមប្រជាជនអាយុពី៣០ទៅ៧០ឆ្នាំ</td>
+      <td>3.5.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-dyn-mort.html">SH_DYN_MORT</a></td>
+      <td>៣.៣.១ អត្រាមរណភាពកុមារអាយុក្រោម៥ឆ្នាំ</td>
+      <td>3.3.1 Under-five mortality rate (U5MR)</td>
+      <td>33</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-dyn-nmrt.html">SH_DYN_NMRT</a></td>
+      <td>៣.៣.២ អត្រាមរណភាពទារកទើបកើត</td>
+      <td>3.3.2 Neonatal mortality rate</td>
+      <td>43</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-fpl-infm.html">SH_FPL_INFM</a></td>
+      <td>៥.៦.១ សមាមាត្រនៃស្តី្រអាយុពី១៥ដល់៤៩ឆ្នាំ ដែលសម្រេចចិត្តដោយខ្លួនឯងពាក់ព័ន្ធទៅនឹងការប្រើប្រាស់មធ្យាបាយពន្យារកំណើត និងការថែទាំសុខភាពបន្តពូជ</td>
+      <td>5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-h2o-safe.html">SH_H2O_SAFE</a></td>
+      <td>៦.១.១ សមាមាត្រប្រជារាស្រ្តប្រើប្រភពទឹកស្អាតសម្រាប់ទទួលទាន</td>
+      <td>6.1.1 Proportion of population using an improved drinking water source</td>
+      <td>8</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-hiv-incd.html">SH_HIV_INCD</a></td>
+      <td>៣.៤.១ អត្រានៃករណីឆ្លងថ្មីនៃមេរោគអេដស៍ក្នុងចំណោមប្រជាជនដែលគ្មានផ្ទុកមេរោគអេដស៍ ១ ០០០នាក់</td>
+      <td>3.4.1 % of new HIV infection per 1000 uninfected population</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-med-den.html">SH_MED_DEN</a></td>
+      <td>៣.គ.១ ផលធៀបវេជ្ជបណ្ឌិត/គិលានុប្បដ្ឋាក/យិកា/ឆ្មប លើប្រជាជន១ ០០០នាក់</td>
+      <td>3.c.1 Ratio of physician/nurse/midwife per 1,000 population</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-prv-smok.html">SH_PRV_SMOK</a></td>
+      <td>៣.a.១ ប្រេវ៉ាឡង់នៃការប្រើប្រាស់ថ្នាំជក់ក្នុងចំណោមប្រជាជនអាយុ១៥ឆ្នាំឡើង</td>
+      <td>3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-san-safe.html">SH_SAN_SAFE</a></td>
+      <td>៦.២.១ សមាមាត្រប្រជារាស្រ្តប្រើប្រាស់សេវាអនាម័យបានកែលម្អ</td>
+      <td>6.2.1 Proportion of population using an improved sanitation facility</td>
+      <td>6</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-brtc.html">SH_STA_BRTC</a></td>
+      <td>៣.២.២ ភាគរយនៃការសម្រាលដោយបុគ្គលិកសុខាភិបាលមានជំនាញ</td>
+      <td>3.2.2 Proportion of births attended by skilled health personnel</td>
+      <td>26</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-malr.html">SH_STA_MALR</a></td>
+      <td>៣.៤.៣ អាំងស៊ីដង់(ករណីឆ្លងថ្មី)នៃជំងឺគ្រុនចាញ់</td>
+      <td>3.4.3 Malaria incidence</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-mort.html">SH_STA_MORT</a></td>
+      <td>៣.២.១ អត្រាមរណភាពមាតា</td>
+      <td>3.2.1 Maternal mortality ratio (MMR)</td>
+      <td>25</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-stnt.html">SH_STA_STNT</a></td>
+      <td>២.២.១ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពក្រិនមធ្យមឬធ្ងន់ធ្ងរ</td>
+      <td>2.2.1 Percent of children under 5 years old who are moderately or severely stunted</td>
+      <td>33</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-traf.html">SH_STA_TRAF</a></td>
+      <td>៣.៧.១ របួសនិងស្លាប់ដោយគ្រោះថ្នាក់</td>
+      <td>3.7.1 Injury and death due to accident</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-sta-wast.html">SH_STA_WAST</a></td>
+      <td>២.២.២ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពស្លេកស្លាំងមធ្យមឬធ្ងន់ធ្ងរ</td>
+      <td>2.2.2 Percent of children under 5 years old who are moderately or severely wasted</td>
+      <td>33</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sh-tbs-incd.html">SH_TBS_INCD</a></td>
+      <td>៣.៤.២ អាំងស៊ីដង់ (ករណីឆ្លងថ្មី) នៃជំងឺរបេង ក្នុង ១០០,០០០ ប្រជាជន</td>
+      <td>3.4.2 Incidence of tuberculosis per 100,000 population</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--si-hei-totl.html">SI_HEI_TOTL</a></td>
+      <td>១០.១.១ អត្រានៃការចំណាយ/ការប្រើប្រាស់ ឬចំណូលរបស់គ្រួសារសម្រាប់មនុស្សម្នាក់  ក្នុងចំណោមប្រជាជន៤០ភាគរយដែលមានចំណូលទាបជាងគេ ធៀបនឹងការចំណាយ/ការប្រើប្រាស់ ឬចំណូលមធ្យមរបស់ប្រជាជន</td>
+      <td>10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--si-pov-50mi.html">SI_POV_50MI</a></td>
+      <td>១០.២.១ សមាមាត្រនៃប្រជាជនដែលរស់នៅក្រោម ៥០ភាគរយ នៃមេដ្យានចំណូល តាម អាយុ ភេទ និងជនពិការ</td>
+      <td>10.2.1 Proportion of people living below 50 per cent of median income</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--si-pov-nahc.html">SI_POV_NAHC</a></td>
+      <td>១.២.១ សមាមាត្រប្រជារាស្រ្តនៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ</td>
+      <td>1.2.1 Proportion of population below national poverty line</td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--si-pov-nmpi.html">SI_POV_NMPI</a></td>
+      <td>១.២.២ សមាមាត្រ កុមារ ដែលរស់នៅក្នុងភាពក្រីក្រ  គ្រប់សមាសភាព ផ្អែកតាមនិយមន័យរបស់ជាតិ</td>
+      <td>1.2.2 Proportion of children living in poverty measured by multiple dimensions according to national definitions</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sl-tlf-manf.html">SL_TLF_MANF</a></td>
+      <td>៩.២.១ សមមាត្រនៃចំនួននិយោជិតកម្ពុជាក្នុងវិស័យ សហគ្រាសកម្មន្តសាល ធៀបនឹងចំនួនការងារសរុបក្នុងប្រទេស</td>
+      <td>9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--sp-dyn-mrbf18.html">SP_DYN_MRBF18</a></td>
+      <td>៥.៣.១ សមាមាត្ររបស់ស្តី្រអាយុពី២០ដល់២៤ឆ្នាំដែលបានរៀបការឬរស់នៅជាមួយគ្នា\nមុនអាយុ១៨ឆ្នាំ</td>
+      <td>5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--st-gdp-zs.html">ST_GDP_ZS</a></td>
+      <td>៨.៩.១ ភាគរយនៃការរួមចំណែកដោយផ្ទាល់ពីវិស័យទេសចរណ៍ ទៅក្នុងផលិតផលក្នុងសុ្រកសរុប</td>
+      <td>8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--vc-vaw-marr.html">VC_VAW_MARR</a></td>
+      <td>៥.២.១ សមាមាត្ររបស់ស្តី្រនិងក្មេងសី្រ ដែលមានអាយុ១៥ឆ្នាំ ឡើងដែលធ្លាប់ទទួលរងនូវអំពើហិង្សាលើរាងកាយផ្លូវភេទ ឬផូ្លវចិត្ត ពីដៃគូបច្ចុប្បន្ន ឬអតីតក្នុងរយៈពេល១២ខែចុងក្រោយបែងចែកតាមទម្រង់នៃអំពើហិង្សា និងតាមអាយុ</td>
+      <td>5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--vc-vaw-nonmarr.html">VC_VAW_NONMARR</a></td>
+      <td>៥.២.២ សមាមាត្ររបស់ស្តី្រនិង ក្មេងសី្រ ដែលមានអាយុ១៥ឆ្នាំឡើង ដែលធ្លាប់ទទួលរងនូវអំពើហឹង្សាលើផ្លូវភេទពីអ្នកមិនមែនជាដៃគូក្នុងរយៈពេល១២ខែ ចុងក្រោយបែងចែកតាមអាយុ</td>
+      <td>5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--ag-lnd-frst.html\">AG_LND_FRST<\/a>","km":"\u17e1\u17e5.\u17e1.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1795\u17d2\u1791\u17c3\u178a\u17b8\u1782\u17d2\u179a\u1794\u178a\u178e\u17d2\u178f\u1794\u17cb\u178a\u17c4\u1799\u1796\u17d2\u179a\u17c3\u1788\u17be \u1792\u17c0\u1794\u1793\u17b9\u1784\u1795\u17d2\u1791\u17c3\u178a\u17b8\u179f\u179a\u17bb\u1794","en":"15.1.1 Proportion of land areas covered by forest","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ag-lnd-frstprct.html\">AG_LND_FRSTPRCT<\/a>","km":"\u17e1\u17e5.\u17e2.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u178f\u17c6\u1794\u1793\u17cb\u1796\u17d2\u179a\u17c3\u1788\u17be\u178a\u17c2\u179b\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1780\u17b6\u179a\u1780\u17b6\u179a\u1796\u17b6\u179a\u1793\u17b7\u1784\u1782\u17d2\u179a\u1794\u17cb\u1782\u17d2\u179a\u1784\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796","en":"15.2.1 Percentage of sustainable forest protection and management","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dc-oda-bdvl.html\">DC_ODA_BDVL<\/a>","km":"\u17e1\u17e5.\u1781.\u17e1 \u1791\u17c6\u17a0\u17c6\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a \u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1780\u17b6\u179a\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u1793\u17b7\u1784\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796\u1787\u17b8\u179c\u17c8\u1785\u1798\u17d2\u179a\u17bb\u17c7\u1793\u17b7\u1784\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u17a2\u17c1\u1780\u17bc\u17a1\u17bc\u179f\u17ca\u17b8","en":"15.b.1 Official development assistance for conservation and sustainable use of biodiversity and ecosystems","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dc-tof-agrl.html\">DC_TOF_AGRL<\/a>","km":"\u17e2.\u1780.\u17e1 \u179b\u17c6\u17a0\u17bc\u179a\u1793\u17c3\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u179a\u17bb\u1794 (\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u1793\u17b7\u1784\u179b\u17c6\u17a0\u17bc\u179a\u1795\u17d2\u179f\u17c1\u1784\u1791\u17c0\u178f) \u178a\u179b\u17cb\u179c\u17b7\u179f\u17d0\u1799\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798 \u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f.","en":"2.a.1 Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dc-tof-infral.html\">DC_TOF_INFRAL<\/a>","km":"\u17e9.\u1780.\u17e1 \u1780\u17b6\u179a\u1782\u17b6\u17c6\u1791\u17d2\u179a\u1795\u17bc\u17d2\u179b\u179c\u1780\u17b6\u179a\u179f\u179a\u17bb\u1794\u1796\u17b8\u17a2\u1793\u17d2\u178f\u179a\u1787\u17b6\u178f\u17b7(\u1787\u17c6\u1793\u17bd\u1799\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u1793\u17cd\u1795\u17d2\u179b\u17bc\u179c\u1780\u17b6\u179a\u1795\u17d2\u179f\u17c1\u1784\u1791\u17c0\u178f)\u178a\u179b\u17cb\u1780\u17b6\u179a\u1780\u179f\u17b6\u1784\u1793\u17b7\u1784\u1787\u17bd\u179f\u1787\u17bb\u179b\u17a0\u17c1\u178a\u17d2\u178b\u17b6\u179a\u1785\u1793\u17b6\u179f\u1798\u17d2\u1796\u17d0\u1793\u17d2\u1792","en":"9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--dc-trf-totl.html\">DC_TRF_TOTL<\/a>","km":"\u17e1\u17e0.\u1781.\u17e1.  \u1794\u179a\u17b7\u1798\u17b6\u178e\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u179f\u179a\u17bb\u1794 \u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6","en":"10.b.1.  Total official development assistance for Cambodia","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--eg-acs-elec.html\">EG_ACS_ELEC<\/a>","km":"\u17e7.\u17e1.\u17e1 \u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u17a2\u1782\u17d2\u1782\u17b7\u179f\u1793\u17b8\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb","en":"7.1.1 Proportion of population with access to electricity","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--eg-egy-clean.html\">EG_EGY_CLEAN<\/a>","km":"\u17e7.\u17e1.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u1796\u17ba\u1784\u1795\u17d2\u17a2\u17c2\u1780\u1787\u17b6\u1785\u1798\u17d2\u1794\u1784\u179b\u17be\u1794\u1785\u17d2\u1785\u17c1\u1780\u179c\u17b7\u1791\u17d2\u1799\u17b6\u1793\u17b7\u1784\u17a5\u1793\u17d2\u1792\u1793\u17c8\u179f\u17d2\u17a2\u17b6\u178f","en":"7.1.2 Proportion of population with primary reliance on clean fuels and technology","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--en-scp-fshgdp.html\">EN_SCP_FSHGDP<\/a>","km":"\u17e1\u17e4.\u17e7.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u178f\u1798\u17d2\u179b\u17c3\u179a\u1794\u179f\u17cb\u1795\u179b\u17b7\u178f\u1795\u179b\u1787\u179b\u1795\u179b\u1793\u17b7\u1784\u179c\u17b6\u179a\u17b8\u179c\u1794\u17d2\u1794\u1780\u1798\u17d2\u1798\u179f\u1798\u17bb\u1791\u17d2\u179a\u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f.","en":"14.7.1 Value of sustainable fisheries production as a percentage of GDP","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--en-wwt-wwds.html\">EN_WWT_WWDS<\/a>","km":"\u17e6.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17c6\u178e\u179b\u17cb\u179a\u17b6\u179c\u178a\u17c2\u179b\u1794\u17b6\u1793\u179f\u1798\u17d2\u17a2\u17b6\u178f\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u179f\u17bb\u179c\u178f\u17d2\u1790\u17b7\u1797\u17b6\u1796","en":"6.3.1 Proportion of wastewater safely treated","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--er-grf-plntstor.html\">ER_GRF_PLNTSTOR<\/a>","km":"\u17e2.\u17e5.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1792\u1793\u1792\u17b6\u1793\u1796\u1793\u17d2\u1792\u17bb\u179a\u17bb\u1780\u17d2\u1781\u1787\u17b6\u178f\u17b7\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179f\u17d2\u1794\u17c0\u1784\u17a2\u17b6\u17a0\u17b6\u179a\u1793\u17b7\u1784\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798\u1794\u17b6\u1793\u1792\u17b6\u1793\u17b6\u1780\u17d2\u1793\u17bb\u1784\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u1799\u17bb\u1791\u17d2\u1792\u179f\u17b6\u179f\u17d2\u178f\u17d2\u179a\u1793\u17b7\u1784\u1791\u17b8\u1780\u1793\u17d2\u179b\u17c2\u1784\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u179a\u1799\u17c8\u1796\u17c1\u179b\u1798\u1792\u17d2\u1799\u1798\u17ac\u179a\u1799\u17c8\u1796\u17c1\u179b\u179c\u17c2\u1784","en":"2.5.1 Number of plant genetic resources for food and agriculture secured\u200b in policy, strategy and either medium or long-term conservation facilities","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--gb-xpd-rsdv.html\">GB_XPD_RSDV<\/a>","km":"\u17e9.\u17e5.\u17e1 \u179f\u1798\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1785\u17c6\u178e\u17b6\u1799\u179b\u17b8\u1780\u17b6\u179a\u179f\u17d2\u179a\u17b6\u179c\u1787\u17d2\u179a\u17b6\u179c\u1793\u17b7\u1784\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u1792\u17c0\u1794 \u1793\u17b9\u1784\u1795\u179b\u17b7\u178f\u1795\u179b\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780\u179f\u179a\u17bb\u1794","en":"9.5.1 Research and development expenditure as a proportion of GDP","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--it-mob-2gntwk.html\">IT_MOB_2GNTWK<\/a>","km":"\u17e9.\u1782.\u17e1 \u179f\u1798\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1794\u17d2\u179a\u1787\u1787\u1793\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1794\u178e\u17d2\u178f\u17b6\u1789\u17a2\u17ca\u17b7\u1793\u1792\u17be\u178e\u17c1\u178f(\u1785\u179b\u17d0\u178f\u1793\u17b7\u1784\u17a2\u1785\u179b\u17d0\u178f)","en":"9.c.1 Proportion of population covered by a mobile network, by technology","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--it-net-bbnd.html\">IT_NET_BBND<\/a>","km":"\u17e1\u17e7.\u17e6.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793 \u178a\u17c2\u179b\u1794\u17b6\u1793\u1787\u17b6\u179c\u17a2\u17ca\u17b7\u1793\u1792\u17be\u178e\u17c2\u178f\u17a2\u1785\u179b\u17d0\u178f\u1787\u17b6\u1794\u17d2\u179a\u1785\u17b6\u17c6\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u179f\u179a\u17bb\u1794\u1794\u17c2\u1784\u1785\u17c2\u1780\u178f\u17b6\u1798\u179b\u17d2\u1794\u17bf\u1793\u1793\u17c3\u17a2\u17ca\u17b7\u1793\u1792\u17be\u178e\u17c2\u178f","en":"17.6.1 Percentage of population connect to Fixed Internet broadband subscriptions, by speed","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--it-use-ii99.html\">IT_USE_II99<\/a>","km":"\u17e1\u17e7.\u17e8.\u17e1 \u17a2\u17d2\u1793\u1780\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u17a2\u17ca\u17b7\u1793\u1792\u17be\u178e\u17c2\u178f","en":"17.8.1 Internet users","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-010301-01.html\">N_KH_010301_01<\/a>","km":"\u17e1.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1787\u1793\u1780\u17d2\u179a\u17b8\u1780\u17d2\u179a \u1793\u17b7\u1784\u1787\u1793\u1784\u17b6\u1799\u179a\u1784\u1782\u17d2\u179a\u17c4\u17c7\u178a\u17c2\u179b\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u179f\u17c1\u179c\u17b6\u179f\u1784\u17d2\u179a\u17d2\u1782\u17c4\u17c7\u179f\u1784\u17d2\u1782\u1798","en":"1.3.1 Proportion of the poor and the vulnerable received social emergency relief services","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-010401-01.html\">N_KH_010401_01<\/a>","km":"\u17e1.\u17e4.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u179f\u1798\u17b6\u1787\u17b7\u1780\u179f\u17a0\u1782\u1798\u1793\u17cd\u1793\u17c1\u179f\u17b6\u1791\u1793\u17b7\u1784\u1796\u17d2\u179a\u17c3\u1788\u17be\u178a\u17c2\u179b\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u179f\u17b7\u1791\u17d2\u1792\u17b7\u179f\u17d2\u179a\u1794\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u1785\u17bc\u179b\u179a\u17bd\u1798\u1782\u17d2\u179a\u1794\u17cb\u1782\u17d2\u179a\u1784\u1792\u1793\u1792\u17b6\u1793\u1787\u179b\u1795\u179b\u1793\u17b7\u1784\u1796\u17d2\u179a\u17c3\u1788\u17be \u178f\u17b6\u1798\u179a\u1799\u17c8\u1780\u17b6\u179a\u1785\u17bb\u17c7\u1794\u1789\u17d2\u1787\u17b8\u1793\u17b7\u1784\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u179f\u17a0\u1782\u1798\u1793\u17cd\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1794\u17d2\u179a\u179f\u17b7\u1791\u17d2\u1792\u1797\u17b6\u1796","en":"1.4.1 Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-020301-01.html\">N_KH_020301_01<\/a>","km":"\u17e2.\u17e3.\u17e1 \u1791\u17c6\u17a0\u17c6\u1795\u179b\u17b7\u178f\u1780\u1798\u17d2\u1798\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798\u1780\u17d2\u1793\u17bb\u1784\u1780\u179f\u17b7\u1780\u179a\u1798\u17d2\u1793\u17b6\u1780\u17cb\u178a\u17c2\u179b\u1794\u17d2\u179a\u1780\u1794\u179a\u1794\u179a\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798(\u179f\u17d2\u179a\u17c2\u1785\u1798\u17d2\u1780\u17b6\u179a\u1780\u17b6\u179a\u1785\u17b7\u1789\u17d2\u1785\u17b9\u1798\u179f\u178f\u17d2\u179c\u1793\u17b7\u1784\u1787\u179b\u1795\u179b)","en":"2.3.1 Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-020401-01.html\">N_KH_020401_01<\/a>","km":"\u17e2.\u17e4.\u17e1 \u1795\u179b\u17b7\u178f\u1797\u17b6\u1796\u178a\u17b8\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798\u178a\u17c2\u179b\u1794\u17b6\u1793\u1793\u17b7\u1784\u1780\u17c6\u1796\u17bb\u1784\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1792\u17d2\u179c\u17be\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796","en":"2.4.1 Sustainable Agricultural Land Productivity","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-020502-01.html\">N_KH_020502_01<\/a>","km":"\u17e2.\u17e5.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1782\u17d2\u179a\u17bd\u179f\u17b6\u179a\u1780\u17d2\u1793\u17bb\u1784\u179f\u17a0\u1782\u1798\u1793\u17cd\u178f\u17c6\u1794\u1793\u17cb\u1780\u17b6\u179a\u1796\u17b6\u179a\u1792\u1798\u17d2\u1798\u1787\u17b6\u178f\u17b7 \u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u1780\u1798\u17d2\u179a\u17b7\u178f\u1787\u17b8\u179c\u1797\u17b6\u1796 \u178f\u17b6\u1798\u179a\u1799\u17c8\u1780\u17b6\u179a\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1795\u179b\u1794\u17d2\u179a\u1799\u17c4\u1787\u1793\u17cd\u1796\u17b8 NTFP \u1780\u17b6\u179a\u1794\u1789\u17d2\u1785\u17bc\u179b\u1780\u17d2\u1793\u17bb\u1784\u179c\u17b7\u179f\u17d0\u1799\u1780\u179f\u17b7\u1780\u1798\u17d2\u1798 \u1791\u17c1\u179f\u1785\u179a\u178e\u17cd\u1792\u1798\u17d2\u1798\u1787\u17b6\u178f\u17b7\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784\u178f\u17c6\u1794\u1793\u17cb\u1780\u17b6\u179a\u1796\u17b6\u179a","en":"2.5.2 Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030101-01.html\">N_KH_030101_01<\/a>","km":"\u17e3.\u17e1.\u17e1 \u17a2\u17b6\u1799\u17bb\u179f\u1784\u17d2\u1783\u17b9\u1798\u179a\u179f\u17cb\u1796\u17b8\u1780\u17c6\u178e\u17be\u178f","en":"3.1.1 Life expectancy at birth","Disaggregation combinations using this value":81,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030102-01.html\">N_KH_030102_01<\/a>","km":"\u17e3.\u17e1.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u179b\u1791\u17d2\u1792\u1797\u17b6\u1796\u1794\u1784\u17d2\u1780\u17be\u178f\u1780\u17bc\u1793\u179f\u179a\u17bb\u1794 (\u1785\u17c6\u1793\u17bd\u1793\u1780\u17bc\u1793\u1780\u17be\u178f\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17d2\u178f\u17b8\u1798\u17d2\u1793\u17b6\u1780\u17cb)","en":"3.1.2 Total fertility rate","Disaggregation combinations using this value":35,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030502-01.html\">N_KH_030502_01<\/a>","km":"\u17e3.\u17e5.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u1796\u17c1\u1789 \u179c\u17d0\u1799\u1798\u17b6\u1793\u1787\u17c6\u1784\u17ba\u1792\u17d2\u179b\u17b6\u1780\u17cb\u1791\u17b9\u1780\u1785\u17b7\u178f\u17d2\u178f\u1794\u17b6\u1793\u1791\u1791\u17bd\u179b\u179f\u17c1\u179c\u17b6\u1796\u17d2\u1799\u17b6\u1794\u17b6\u179b","en":"3.5.2 Percentage of adult population with depression received treatment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030601-01.html\">N_KH_030601_01<\/a>","km":"\u17e3.\u17e6.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1782\u17d2\u179a\u17bf\u1784\u1789\u17c0\u1793\u1794\u17b6\u1793\u1791\u1791\u17bd\u179b\u179f\u17c1\u179c\u17b6\u1796\u17d2\u1799\u17b6\u1794\u17b6\u179b","en":"3.6.1 Percentage of people with drug used received treatment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030602-01.html\">N_KH_030602_01<\/a>","km":"\u17e3.\u17e6.\u17e2 \u1794\u17d2\u179a\u17c1\u179c\u17c9\u17b6\u17a1\u1784\u17cb\u1793\u17c3\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u179f\u17b6\u179a\u1787\u17b6\u178f\u17b7\u17a2\u17b6\u179b\u17cb\u1780\u17bb\u179b\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1798\u1793\u17bb\u179f\u17d2\u179f\u1796\u17c1\u1789\u179c\u17d0\u1799 \u1785\u17b6\u1794\u17cb\u1796\u17b8\u17a2\u17b6\u1799\u17bb\u17e1\u17e8\u1786\u17d2\u1793\u17b6\u17c6\u17a1\u17be\u1784","en":"3.6.2 Prevalence of alcohol use among among population above 18 years old","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030801-01.html\">N_KH_030801_01<\/a>","km":"\u17e3.\u17e8.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17d2\u179a\u17d2\u178f\u17b8\u1780\u17d2\u1793\u17bb\u1784  \u179c\u17d0\u1799\u1794\u1793\u17d2\u178f\u1796\u17bc\u1787 (\u17e1\u17e5-\u17e4\u17e9\u1786\u17d2\u1793\u17b6\u17c6)\u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1780\u17b6\u179a\u179f\u17c1\u179c\u17b6\u1795\u17c2\u1793\u1780\u17b6\u179a\u1782\u17d2\u179a\u17bd\u179f\u17b6\u179a \u1794\u17b6\u1793\u1796\u17c1\u1789\u1785\u17b7\u178f\u17d2\u178f\u1793\u17b9\u1784\u179c\u17b7\u1792\u17b8 \u1796\u1793\u17d2\u1799\u17b6\u179a\u1780\u17c6\u178e\u17be\u178f\u1791\u17c6\u1793\u17be\u1794","en":"3.8.1 Proportion of women of reproductive age (aged 15\u201349\u00a0years) who have their need for family planning satisfied with modern methods","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030802-01.html\">N_KH_030802_01<\/a>","km":"\u17e3.\u17e8.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u179f\u17d2\u178f\u17d2\u179a\u17b8\u179c\u17d0\u1799 \u1787\u17c6\u1791\u1784\u17cb\u17a2\u17b6\u1799\u17bb\u17e1\u17e5-\u17e1\u17e9\u1786\u17d2\u1793\u17b6\u17c6 \u178a\u17c2\u179b\u1798\u17b6\u1793\u1782\u1797\u17cc","en":"3.8.2 Teenage pregnancy 15 -19 years","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030901-01.html\">N_KH_030901_01<\/a>","km":"\u17e3.\u17e9.\u17e1 % \u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u1782\u17d2\u179a\u1794\u178a\u178e\u17d2\u178f\u1794\u17cb\u178a\u17c4\u1799\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u1782\u17b6\u17c6\u1796\u17b6\u179a\u179f\u17bb\u1781\u1797\u17b6\u1796\u179f\u1784\u17d2\u1782\u1798(\u1798\u17bc\u179b\u1793\u17b7\u1792\u17b7\u179f\u1798\u1792\u1798\u17cc \u1793\u17b7\u1784\u1780\u17b6\u179a\u1792\u17b6\u1793\u17b6\u179a\u17c9\u17b6\u1794\u17cb\u179a\u1784\u179f\u17bb\u1781\u1797\u17b6\u1796)","en":"3.9.1 Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030902-01.html\">N_KH_030902_01<\/a>","km":"\u17e3.\u17e9.\u17e2 \u1785\u17c6\u178e\u17b6\u1799\u1790\u179c\u17b7\u1780\u17b6\u1787\u17b6\u178f\u17b7\u1785\u179a\u1793\u17d2\u178f\u179b\u17be\u179f\u17bb\u1781\u1797\u17b6\u1796\u1782\u17b7\u178f\u1787\u17b6 % \u1793\u17c3\u1795\u179b\u17b7\u178f\u1795\u179b\u179f\u179a\u17bb\u1794\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780","en":"3.9.2 Government Current expenditure on health as % of GDP)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-030a02-01.html\">N_KH_030a02_01<\/a>","km":"\u17e3.\u1780.\u17e2 \u1794\u17d2\u179a\u17c1\u179c\u17c9\u17b6\u17a1\u1784\u17cb\u1793\u17c3\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1790\u17d2\u1793\u17b6\u17c6\u1787\u1780\u17cb\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1799\u17bb\u179c\u179c\u17d0\u1799\u17a2\u17b6\u1799\u17bb\u1796\u17b8\u17e1\u17e3\u178a\u179b\u17cb\u17e1\u17e5\u1786\u17d2\u1793\u17b6\u17c6","en":"3.a.2 Prevalence of tobacco use among youth aged 13-15","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-04010101-01.html\">N_KH_04010101_01<\/a>","km":"\u17e4.\u17e1.\u17e1.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1794\u1789\u17d2\u1785\u1794\u17cb\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6","en":"4.1.1.1 Completion rate Grade 6","Disaggregation combinations using this value":87,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-04010102-01.html\">N_KH_04010102_01<\/a>","km":"\u17e4.\u17e1.\u17e1.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u1794\u1789\u17d2\u1785\u1794\u17cb\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1794\u178b\u1798\u1797\u17bc\u1798\u17b7","en":"4.1.1.2 Completion rate Grade 9","Disaggregation combinations using this value":87,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040201-01.html\">N_KH_040201_01<\/a>","km":"\u17e4.\u17e2.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u179f\u17b7\u179f\u17d2\u179f\u1790\u17d2\u1793\u17b6\u1780\u17cb\u1791\u17b8\u17e1 \u1794\u17b6\u1793\u1786\u17d2\u179b\u1784\u1780\u17b6\u178f\u17cb\u1780\u1798\u17d2\u1798\u179c\u17b7\u1792\u17b8\u17a2\u1794\u17cb\u179a\u17c6\u1780\u17bb\u1798\u17b6\u179a\u178f\u17bc\u1785\u1782\u17d2\u179a\u1794\u17cb\u179a\u17bc\u1794\u1797\u17b6\u1796","en":"4.2.1 Proportion of grade 1 student passed through all ECE programs","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040301-01.html\">N_KH_040301_01<\/a>","km":"\u17e4.\u17e3.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u179a\u17bd\u1798\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u17a7\u178f\u17d2\u178f\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6(\u17a2\u17b6\u1799\u17bb\u1796\u17b8\u17e1\u17e8 \u178a\u179b\u17cb\u17e2\u17e1\u1786\u17d2\u1793\u17b6\u17c6) \u1794\u17c2\u1784\u1785\u17c2\u1780\u178f\u17b6\u1798\u1797\u17c1\u1791","en":"4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040302-01.html\">N_KH_040302_01<\/a>","km":"\u17e4.\u17e3.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u179a\u17bd\u1798\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1780\u17d2\u1793\u17bb\u1784\u1780\u1798\u17d2\u1798\u179c\u17b7\u1792\u17b8\u17a2\u1794\u17cb\u179a\u17c6\u1794\u1785\u17d2\u1785\u17c1\u1780\u1791\u17c1\u179f\u1793\u17b7\u1784\u179c\u17b7\u1787\u17d2\u1787\u17b6\u1787\u17b8\u179c\u17c8 (\u17e1\u17e5 \u178a\u179b\u17cb \u17e2\u17e4\u1786\u17d2\u1793\u17b6\u17c6)","en":"4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040501-01.html\">N_KH_040501_01<\/a>","km":"\u17e4.\u17e5.\u17e1 \u179f\u1793\u17d2\u1791\u179f\u17d2\u179f\u1793\u17cd\u1799\u17bb\u1782\u1797\u17b6\u1796 \u1799\u17c1\u1793\u178c\u17d0\u179a\u1793\u17c3\u17a2\u178f\u17d2\u179a\u17b6\u179a\u17bd\u1798\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1794\u178b\u1798\u1797\u17bc\u1798\u17b7","en":"4.5.1 Gender parity index in lower secondary education","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040502-01.html\">N_KH_040502_01<\/a>","km":"\u17e4.\u17e5.\u17e2 \u179f\u1793\u17d2\u1791\u179f\u17d2\u179f\u1793\u17cd\u1799\u17bb\u1782\u1797\u17b6\u1796 \u1799\u17c1\u1793\u178c\u17d0\u179a\u1793\u17c3\u17a2\u178f\u17d2\u179a\u17b6\u179a\u17bd\u1798\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1791\u17bb\u178f\u17b7\u1799\u1797\u17bc\u1798\u17b7","en":"4.5.2 Gender parity index in upper secondary education","Disaggregation combinations using this value":28,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040601-01.html\">N_KH_040601_01<\/a>","km":"\u17e4.\u17e6.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u17a2\u1780\u17d2\u1781\u179a\u1787\u1793\u178f\u17b6\u1798\u1780\u17d2\u179a\u17bb\u1798\u17a2\u17b6\u1799\u17bb","en":"4.6.1 Literacy rate by age group","Disaggregation combinations using this value":33,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040c02-01.html\">N_KH_040c02_01<\/a>","km":"\u17e4.\u1782.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1782\u17d2\u179a\u17bc\u1798\u17c1\u178f\u17d2\u178f\u1799\u17d2\u1799\u179f\u17b7\u1780\u17d2\u179f\u17b6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1782\u17bb\u178e\u179c\u17bb\u178c\u17d2\u178d\u17b7\u179f\u17d2\u179a\u1794\u178f\u17b6\u1798\u179f\u17d2\u178f\u1784\u17cb\u178a\u17b6\u1787\u17b6\u178f\u17b7","en":"4.c.2 Percentage of pre school teachers qualified according to national standards","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040c03-01.html\">N_KH_040c03_01<\/a>","km":"\u17e4.\u1782.\u17e3 \u1797\u17b6\u1782\u179a\u1799\u1782\u17bc\u17d2\u179a\u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1782\u17bb\u178e\u179c\u17bb\u178c\u17d2\u178d\u17b7\u179f\u17d2\u179a\u1794\u178f\u17b6\u1798\u179f\u17d2\u178f\u1784\u17cb\u178a\u17b6\u1787\u17b6\u178f\u17b7","en":"4.c.3 Percentage of primary teachers qualified according to national standards","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040c04-01.html\">N_KH_040c04_01<\/a>","km":"\u17e4.\u1782.\u17e4 \u1797\u17b6\u1782\u179a\u1799\u1782\u17bc\u17d2\u179a\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1782\u17bb\u178e\u179c\u17bb\u178c\u17d2\u178d\u17b7\u179f\u17d2\u179a\u1794\u178f\u17b6\u1798\u179f\u17d2\u178f\u1784\u17cb\u178a\u17b6\u1787\u17b6\u178f\u17b7","en":"4.c.4 Percentage of secondary teachers qualified according to national standards","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-040c05-01.html\">N_KH_040c05_01<\/a>","km":"\u17e4.\u1782.\u17e5 \u1797\u17b6\u1782\u179a\u1799\u1782\u17bc\u17d2\u179a\u1794\u1784\u17d2\u179a\u17c0\u1793\u178a\u17c2\u179b\u1794\u17b6\u1793\u1791\u1791\u17bd\u179b\u1780\u17b6\u179a\u1794\u178e\u17d2\u178f\u17bb\u17c7\u1794\u178e\u17d2\u178f\u17b6\u179b\u179c\u17b7\u1780\u17b9\u17d2\u179a\u178f\u1780\u17b6\u179a","en":"4.c.5Percentage of teachers who received in-service training","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050101-01.html\">N_KH_050101_01<\/a>","km":"\u17e5.\u17e1.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u1795\u17c2\u1793\u1780\u17b6\u179a\u1793\u17b7\u1784\u1780\u17d2\u179a\u1794\u1781\u17d0\u178e\u17d2\u178c \u1782\u178f\u17b7\u1799\u17bb\u178f\u17d2\u178f \u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u1780\u17b6\u179a\u17a2\u1793\u17bb\u179c\u178f\u17d2\u178f\u1793\u17b7\u1784\u178f\u17b6\u1798\u178a\u17b6\u1793\u178f\u17bd\u17d2\u179a\u178f\u1796\u17b7\u1793\u17b7\u178f\u17d2\u1799\u1780\u17b6\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u179f\u1798\u1797\u17b6\u1796\u1799\u17c1\u1793\u178c\u17d0\u179a\u1793\u17b7\u1784\u1780\u17b6\u179a\u1798\u17b7\u1793\u179a\u17be\u179f\u17a2\u17be\u1784\u1797\u17c1\u1791","en":"5.1.1 Whether or not legal frameworks are in place to\u00a0promote, enforce and monitor equality and non\u2011discrimination on the basis of sex","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050401-01.html\">N_KH_050401_01<\/a>","km":"\u17e5.\u17e4.\u17e1. \u1785\u17c6\u1793\u17bd\u1793\u179c\u17b7\u1792\u17b6\u1793\u1780\u17b6\u179a\u1795\u17bc\u17d2\u179b\u179c\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1793\u17b7\u1784\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u178a\u17c2\u179b\u178a\u17c4\u17c7\u179f\u17d2\u179a\u17b6\u1799\u1793\u17b7\u1784\u1791\u1791\u17bd\u179b\u1791\u1791\u17bd\u179b\u179f\u17d2\u1782\u17b6\u179b\u17cb\u1793\u17bc\u179c\u178f\u17bb\u179b\u17d2\u1799\u1797\u17b6\u1796\u1787\u17b8\u179c\u17b7\u178f \u1793\u17b7\u1784\u1780\u17b6\u179a\u1784\u17b6\u179a (\u1780\u17b6\u179a\u1784\u17b6\u179a\u1795\u17d2\u1791\u17c7\u1793\u17b7\u1784\u1780\u17b6\u179a\u1784\u17b6\u179a\u1790\u17c2\u1791\u17b6\u17c6\u178a\u17c2\u179b\u1798\u17b7\u1793\u1798\u17b6\u1793\u1780\u1798\u17d2\u179a\u17c3) \u1793\u17b7\u1784 \u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u1780\u17b6\u179a\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793 \u1780\u17b6\u1793\u17cb\u178f\u17c2\u1785\u17d2\u179a\u17be\u1793\u1793\u17bc\u179c\u1780\u17b6\u179a\u1784\u17b6\u179a \u179f\u1798\u179a\u1798\u17d2\u1799\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179f\u17d2\u178f\u17b8\u17d2\u179a","en":"5.4.1. Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050502-01.html\">N_KH_050502_01<\/a>","km":"\u17e5.\u17e5.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u179f\u17d2\u178f\u17b8\u17d2\u179a\u1787\u17b6 \u17a2\u1793\u17bb\u179a\u178a\u17d2\u178b\u179b\u17c1\u1781\u17b6\u1792\u17b7\u1780\u17b6\u179a","en":"5.5.2 Proportion of under secretary of state who are women","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050502-02.html\">N_KH_050502_02<\/a>","km":"\u17e5.\u17e5.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u179f\u17d2\u178f\u17b8\u17d2\u179a\u1787\u17b6 \u179a\u178a\u17d2\u178b\u179b\u17c1\u1781\u17b6\u1792\u17b7\u1780\u17b6\u179a","en":"5.5.2 Proportion of secretary of state who are women","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050503-01.html\">N_KH_050503_01<\/a>","km":"\u17e5.\u17e5.\u17e3 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17d2\u178a\u17b8\u17d2\u179a\u1787\u17b6\u179f\u1798\u17b6\u1787\u17b7\u1780\u1780\u17d2\u179a\u17bb\u1798\u1794\u17b9\u17d2\u179a\u1780\u17d2\u179f\u17b6\u1783\u17bb\u17c6 \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb","en":"5.5.3 Proportion of seats held by women in commune councils","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050602-01.html\">N_KH_050602_01<\/a>","km":"\u17e5.\u17e6.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u1795\u17c2\u1793\u1780\u17b6\u179a\u1793\u17b7\u1784\u179b\u17b7\u1781\u17b7\u178f\u1794\u1791\u178a\u17d2\u178b\u17b6\u1793\u1782\u178f\u17b7\u1799\u17bb\u178f\u17d2\u178f\u178a\u17c2\u179b\u1792\u17b6\u1793\u17b6\u17b2\u17d2\u1799\u179f\u17d2\u178f\u17b8\u17d2\u179a\u1782\u17d2\u179a\u1794\u17cb\u179a\u17bc\u1794\u1798\u17b6\u1793\u179b\u1791\u17d2\u1792\u1797\u17b6\u1796\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1796\u17d0\u178f\u17cc\u1798\u17b6\u1793\u1780\u17b6\u179a\u17a2\u1794\u17cb\u179a\u17c6\u1793\u17b7\u1784\u179f\u17c1\u179c\u17b6\u179f\u17bb\u1781\u1797\u17b6\u1796\u1794\u1793\u17d2\u178f\u1796\u17bc\u1787\u1793\u17b7\u1784\u179f\u17bb\u1781\u1797\u17b6\u1796\u1795\u17bc\u179c\u17d2\u179b\u1797\u17c1\u1791","en":"5.6.2 The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050c01-01.html\">N_KH_050c01_01<\/a>","km":"\u17e5.\u1782.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1793\u17c3\u1780\u17d2\u179a\u179f\u17bd\u1784\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793\u178a\u17c2\u179b\u1798\u17b6\u1793\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u178f\u17b6\u1798\u178a\u17b6\u1793 \u1793\u17b7\u1784\u179c\u17b7\u1797\u17b6\u1787\u1790\u179c\u17b7\u1780\u17b6\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u179f\u1798\u1797\u17b6\u1796\u1799\u17c1\u1793\u178c\u17d0\u179a\u1793\u17b7\u1784\u1780\u17b6\u179a\u1796\u1784\u17b9\u17d2\u179a\u1784\u1797\u17b6\u1796\u17a2\u1784\u17cb\u17a2\u17b6\u1785\u178a\u179b\u17cb\u179f\u17d2\u178f\u17b8\u17d2\u179a","en":"5.c.1 Number of institutions with a system to track and allocate budget to promote  gender equality and empower women","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-050c02-01.html\">N_KH_050c02_01<\/a>","km":"\u17e5.\u1782.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1780\u17d2\u179a\u179f\u17bd\u1784\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793 \u178a\u17c2\u179b\u1794\u17b6\u1793\u17a2\u1793\u17bb\u179c\u178f\u17d2\u178f\u1795\u17c2\u1793\u1780\u17b6\u179a\u1799\u17bb\u1791\u17d2\u1792\u179f\u17b6\u179f\u17d2\u179a\u17d2\u178f\u1794\u1789\u17d2\u179a\u17d2\u1787\u17b6\u1794\u1799\u17c1\u1793\u178c\u17d0\u179a","en":"5.c.2 Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-060401-01.html\">N_KH_060401_01<\/a>","km":"\u17e6.\u17e4.\u17e1 \u178f\u17b9\u17d2\u179a\u1798\u1786\u17d2\u1793\u17b6\u17c6\u17e2\u17e0\u17e2\u17e5\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6\u1782\u17d2\u179a\u1794\u17cb\u179a\u17bc\u1794\u1793\u17c5\u1791\u17b8\u1794\u17d2\u179a\u1787\u17bb\u17c6\u1787\u1793\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1791\u17b9\u1780\u179f\u17d2\u17a2\u17b6\u178f\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796\u1782\u17bb\u178e\u1797\u17b6\u1796\u179b\u17d2\u17a2 \u1793\u17b7\u1784\u178f\u1798\u17d2\u179b\u17c3\u179f\u1798\u179a\u1798\u17d2\u1799","en":"6.4.1 By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-060a01-01.html\">N_KH_060a01_01<\/a>","km":"\u17e6.\u1780.\u17e1 \u1791\u17c6\u17a0\u17c6\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u178a\u17c2\u179b\u1796\u17b6\u1780\u17cb\u1796\u17d0\u1793\u17d2\u1792\u1791\u17c5\u1793\u17b9\u1784\u1791\u17b9\u1780\u179f\u17d2\u17a2\u17b6\u178f\u1793\u17b7\u1784\u17a2\u1793\u17b6\u1798\u17d0\u1799\u178a\u17c2\u179b\u1787\u17b6\u1795\u17d2\u1793\u17c2\u1780\u1793\u17c3\u1795\u17c2\u1793\u1780\u17b6\u179a\u1785\u17c6\u178e\u17b6\u1799\u179f\u1798\u17d2\u179a\u1794\u179f\u1798\u17d2\u179a\u17bd\u179b\u178a\u17c4\u1799\u179a\u178a\u17d2\u178b\u17b6\u1797\u17b7\u1794\u17b6\u179b\u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f.","en":"6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-070201-02.html\">N_KH_070201_02<\/a>","km":"\u17e7.\u17e2.\u17e1 \u1790\u17b6\u1798\u1796\u179b\u1780\u1780\u17be\u178f\u17a1\u17be\u1784\u179c\u17b7\u1789","en":"7.2.1 Renewable energy consumption","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-070301-01.html\">N_KH_070301_01<\/a>","km":"\u17e7.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1790\u17b6\u1798\u1796\u179b \u1794\u178b\u1798 \u1792\u17c0\u1794\u1793\u17b9\u1784\u1795\u179b\u17b7\u178f\u1795\u179b\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780\u179f\u179a\u17bb\u1794","en":"7.3.1 Proption of primary energy with GDP","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-08020201-01.html\">N_KH_08020201_01<\/a>","km":"\u17e8.\u17e2.\u17e2.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1780\u17c6\u178e\u17be\u1793\u1793\u17c3\u1780\u17b6\u179a\u1785\u17bb\u17c7\u1794\u1789\u17d2\u1787\u17b8\u1796\u178e\u17b7\u1787\u17d2\u1787\u1780\u1798\u17d2\u1798 \u178a\u17c4\u1799\u179f\u17d0\u1799\u17d2\u179c \u1794\u17d2\u179a\u179c\u178f\u17b7\u17d2\u178f\u1780\u1798\u17d2\u1798","en":"8.2.2.1 Growth rate of online company registration","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-08020202-01.html\">N_KH_08020202_01<\/a>","km":"\u17e8.\u17e2.\u17e2.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u1780\u17c6\u178e\u17be\u1793\u1793\u17c3\u1780\u17b6\u179a\u1785\u17bb\u17c7\u1794\u1789\u17d2\u1787\u17b8\u1798\u17c9\u17b6\u1780 \u178a\u17c4\u1799\u179f\u17d2\u179c\u17d0\u1799\u1794\u17d2\u179a\u179c\u178f\u17d2\u178f\u17b7\u1780\u1798\u17d2\u1798","en":"8.2.2.2 Growth rate of online trade mark registration","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-08020203-01.html\">N_KH_08020203_01<\/a>","km":"\u17e8.\u17e2.\u17e2.\u17e3 \u17a2\u178f\u17d2\u179a\u17b6\u1780\u17c6\u178e\u17be\u1793\u1793\u17c3\u1780\u17b6\u179a\u1785\u17c1\u1789\u179c\u17b7\u1789\u17d2\u1789\u17b6\u1794\u1793\u1794\u178f\u17d2\u179a\u1794\u1789\u17d2\u1787\u17b6\u1780\u17cb\u1794\u17d2\u179a\u1797\u1796\u178a\u17be\u1798\u1791\u17c6\u1793\u17b7\u1789 \u178a\u17c4\u1799\u179f\u17d2\u179c\u17d0\u1799\u1794\u17d2\u179a\u179c\u178f\u17d2\u178f\u1780\u1798\u17d2\u1798","en":"8.2.2.3 Growth Rate of online issuing the Cerficate of Origin","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-08020301-01.html\">N_KH_08020301_01<\/a>","km":"\u17e8.\u17e2.\u17e3.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1794\u17d2\u179a\u1797\u17c1\u1791\u1795\u179b\u17b7\u178f\u1795\u179b\u1791\u17c6\u1793\u17b7\u1789\u1793\u17b7\u1784\u179f\u17c1\u179c\u17b6\u1780\u1798\u17d2\u1798 \u178a\u17c2\u179b\u1794\u17b6\u1793\u1780\u17c2\u1785\u17d2\u1793\u17c3\u17ac\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u1793\u17b7\u1784\u1794\u17b6\u1793\u1794\u1789\u17d2\u1785\u17bc\u179b\u1791\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u1787\u17c6\u179a\u17bb\u1789\u1785\u179b\u1793\u17b6\u1797\u17bc\u1798\u17e1 \u1795\u179b\u17b7\u178f\u1795\u179b\u17e1","en":"8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-08020302-01.html\">N_KH_08020302_01<\/a>","km":"\u17e8.\u17e2.\u17e3.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1794\u17d2\u179a\u1797\u17c1\u1791\u1795\u179b\u17b7\u178f\u1795\u179b\u1791\u17c6\u1793\u17b7\u1789\u1793\u17b7\u1784\u179f\u17c1\u179c\u17b6\u1780\u1798\u17d2\u1798 \u178a\u17c2\u179b\u1794\u17b6\u1793\u1780\u17c2\u1785\u17d2\u1793\u17c3\u17ac\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u17a0\u17be\u1799\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u179f\u17d2\u178f\u1784\u17cb\u178a\u17b6\u178f\u17b6\u1798\u1791\u179f\u17d2\u179f\u1793\u1791\u17b6\u1793 \u1797\u17bc\u1798\u17b7\u17e1\u1795\u179b\u17b7\u178f\u1795\u179b\u17e1\u1796\u17b8\u1780\u17d2\u179a\u1798\u17b7\u178f\u1791\u17b6\u1794\u1791\u17c5\u1781\u17d2\u1796\u179f\u17cb","en":"8.2.3.2 Number of types products both goods and services that have been processed or developed with OVOP standeard criteria","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-080902-01.html\">N_KH_080902_01<\/a>","km":"\u17e8.\u17e9.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1785\u17c6\u1793\u17bd\u1793\u1780\u1798\u17d2\u1798\u1780\u179a\u1793\u17b7\u1799\u17c4\u1787\u17b7\u178f\u17c1\u1792\u17d2\u179c\u17be\u1780\u17b6\u179a\u1780\u17d2\u1793\u17bb\u1784\u179c\u17b7\u179f\u17d0\u1799\u1791\u17c1\u179f\u1785\u179a\u178e\u17cd\u1793\u17b7\u1784\u1785\u17c6\u1793\u17bd\u1793\u17a2\u17d2\u1793\u1780\u1792\u17d2\u179c\u17be\u1780\u17b6\u179a\u179f\u179a\u17bb\u1794","en":"8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-080a01-01.html\">N_KH_080a01_01<\/a>","km":"\u17e8.\u1780.\u17e1 \u1780\u17b6\u179a\u1794\u17d2\u178f\u17c1\u1787\u17d2\u1789\u17b6 \u1793\u17b7\u1784\u1795\u17d2\u178f\u179b\u17cb\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u17d2\u179a\u1794\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179c\u17b7\u179f\u17d0\u1799\u1796\u17b6\u178e\u17b7\u1787\u17d2\u1787\u1780\u1798\u17d2\u1798","en":"8.a.1 Aid for Trade Commitments and Disbursements","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-090101-01.html\">N_KH_090101_01<\/a>","km":"\u17e9.\u17e1.\u17e1 \u1794\u179a\u17b7\u1798\u17b6\u178e\u1791\u17c6\u1793\u17b7\u1789\u1786\u17d2\u179b\u1784\u1780\u17b6\u178f\u17cb\u1795\u17c2\u1793\u17b7\u1784\u1795\u17d2\u179b\u17bc\u179c\u179a\u1790\u1797\u17d2\u179b\u17be\u1784","en":"9.1.1 Freight volumes of ports and railway","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-090102-01.html\">N_KH_090102_01<\/a>","km":"\u17e9.\u17e1.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u17a2\u17d2\u1793\u1780\u178a\u17c6\u178e\u17be\u179a\u178f\u17b6\u1798\u17a2\u17b6\u1780\u17b6\u179f (\u17a2\u1793\u17d2\u178f\u179a\u1787\u17b6\u178f\u17b7)","en":"9.1.2 Air transport, international passengers carried","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-090102-02.html\">N_KH_090102_02<\/a>","km":"\u17e9.\u17e1.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u17a2\u17d2\u1793\u1780\u178a\u17c6\u178e\u17be\u179a\u178f\u17b6\u1798\u17a2\u17b6\u1780\u17b6\u179f (\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780)","en":"9.1.2 Air transport, domestic passengers carried","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-090103-01.html\">N_KH_090103_01<\/a>","km":"\u17e9.\u17e1.\u17e3 \u1794\u179a\u17b7\u1798\u17b6\u178e\u1791\u17c6\u1793\u17b7\u1789\u178a\u17b9\u1780\u1787\u1789\u17d2\u1787\u17bc\u1793(\u17a2\u1793\u17d2\u178f\u179a\u1787\u17b6\u178f\u17b7)","en":"9.1.3 Air transport, international freight","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-090103-02.html\">N_KH_090103_02<\/a>","km":"\u17e9.\u17e1.\u17e3 \u1794\u179a\u17b7\u1798\u17b6\u178e\u1791\u17c6\u1793\u17b7\u1789\u178a\u17b9\u1780\u1787\u1789\u17d2\u1787\u17bc\u1793(\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780)","en":"9.1.3 Air transport, domestic freight","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-100401-01.html\">N_KH_100401_01<\/a>","km":"\u17e1\u17e0.\u17e4.\u17e1 \u1793\u17b7\u179c\u178f\u17d2\u178f\u1787\u1793\u1793\u17b7\u1784\u1787\u1793\u1794\u17b6\u178f\u17cb\u1794\u1784\u17cb\u179f\u1798\u17d2\u1794\u1791\u17b6\u179c\u17b7\u1787\u17d2\u1787\u17b6\u1787\u17b8\u179c\u17c8","en":"10.4.1 Civil Servants Retirees and invalid people who receive pension benefits","Disaggregation combinations using this value":25,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-100a01-01.html\">N_KH_100a01_01<\/a>","km":"\u17e1\u17e0.\u1780.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1780\u17b7\u1785\u17d2\u1785\u1796\u17d2\u179a\u1798\u1796\u17d2\u179a\u17c0\u1784\u1796\u17b6\u178e\u17b7\u1787\u17d2\u1787\u1780\u1798\u17d2\u1798\u1787\u17b6\u1798\u17bd\u1799\u1794\u179a\u1791\u17c1\u179f","en":"10.a.1 Number of Trade Related Agreement with other countries","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-110601-01.html\">N_KH_110601_01<\/a>","km":"\u17e1\u17e1.\u17e6.\u17e1 \u1794\u179a\u17b7\u1798\u17b6\u178e\u179f\u1798\u17d2\u179a\u17b6\u1798\u179f\u17c6\u178e\u179b\u17cb\u179a\u17b9\u1784\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u17d2\u179a\u1798\u17bc\u179b\u1794\u17b6\u1793\u1787\u17b6\u1794\u17d2\u179a\u1785\u17b6\u17c6\u1793\u17c5\u178f\u17c6\u1794\u1793\u17cb\u1791\u17b8\u1794\u17d2\u179a\u1787\u17bb\u17c6\u1787\u1793 \u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784 \u1793\u17b7\u1784\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1794\u1789\u17d2\u1785\u17c1\u1789\u1785\u17c4\u179b \u1780\u17d2\u1793\u17bb\u1784\u178f\u17c6\u1794\u1793\u17cb\u1791\u17b8\u1794\u17d2\u179a\u1787\u17bb\u17c6\u1787\u1793 \u1793\u17b7\u1784\u1793\u17c5\u178f\u17b6\u1798\u1791\u17b8\u1780\u17d2\u179a\u17bb\u1784","en":"11.6.1 Amount of urban solid waste regularly collected and with adequate final discharge","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-110602-01.html\">N_KH_110602_01<\/a>","km":"\u17e1\u17e1.\u17e6.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u1780\u17b6\u178f\u17cb\u1794\u1793\u17d2\u1790\u1799\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1790\u1784\u17cb\u1794\u17d2\u179b\u17b6\u179f\u17d2\u1791\u17b7\u1785","en":"11.6.2 Percentage of the deduction plastic bag used","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-110603-01.html\">N_KH_110603_01<\/a>","km":"\u17e1\u17e1.\u17e6.\u17e3 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u179f\u17c6\u178e\u179b\u17cb\u179a\u17b9\u1784\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1782\u17d2\u179a\u1794\u17cb\u1782\u17d2\u179a\u1784\u178f\u17b6\u1798\u1782\u17c4\u179b\u1780\u17b6\u179a\u178e\u17cd\u1794\u1785\u17d2\u1785\u17c1\u1780\u1791\u17c1\u179f","en":"11.6.3 Percentage of the solid wasted will be segregate by technical guidance","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-110604-01.html\">N_KH_110604_01<\/a>","km":"\u17e1\u17e1.\u17e6.\u17e4 \u1780\u1798\u17d2\u179a\u17b7\u178f\u1787\u17b6\u1798\u1792\u17d2\u1799\u1798\u1794\u17d2\u179a\u1785\u17b6\u17c6\u1786\u17d2\u1793\u17b6\u17c6\u1793\u17c3\u1794\u17c9\u17b6\u179a\u17c9\u17b6\u1798\u17c9\u17c2\u178f\u17d2\u179a CO NO2  SO2 TSP  PM2.5 and PM10","en":"11.6.4 Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-120401-01.html\">N_KH_120401_01<\/a>","km":"\u17e1\u17e2.\u17e4.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b6\u1799\u1797\u17b6\u1799\u179f\u17b6\u179a\u1792\u17b6\u178f\u17bb \u1794\u17c6\u1796\u17bb\u179b\u179f\u179a\u17b8\u179a\u17b6\u1784\u17d2\u1782\u1798\u17b7\u1793\u1784\u17b6\u1799\u1794\u17c6\u1794\u17c2\u1780\u1792\u17b6\u178f\u17bb\u179f\u17b6\u1799\u1797\u17b6\u1799 \u1785\u17bc\u179b\u1791\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1794\u179a\u17b7\u179f\u17d2\u1790\u17b6\u1793","en":"12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-120402-01.html\">N_KH_120402_01<\/a>","km":"\u17e1\u17e2.\u17e4.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u1780\u17b6\u178f\u17cb\u1794\u1793\u17d2\u1790\u1799\u1780\u17b6\u179a\u179f\u17b6\u1799\u1797\u17b6\u1799\u179f\u17b6\u179a\u1792\u17b6\u178f\u17bb\u1794\u17b6\u179a\u178f\u179f\u17b6\u1799\u1797\u17b6\u1799\u1785\u17bc\u179b\u1791\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1794\u179a\u17b7\u179f\u17d2\u1790\u17b6\u1793","en":"12.4.2 Percentage of release reduction of mercury (Hg) to the environment","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-120403-01.html\">N_KH_120403_01<\/a>","km":"\u17e1\u17e2.\u17e4.\u17e3 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a \u1782\u17d2\u179a\u1794\u17cb\u1782\u17d2\u179a\u1784\u179f\u17c6\u178e\u179b\u17cb\u1782\u17d2\u179a\u17c4\u17c7\u1790\u17d2\u1793\u17b6\u1780\u17cb \u179f\u17c6\u178e\u179b\u17cb\u1787\u17b8\u179c\u179f\u17b6\u179f\u17d2\u179a\u17d2\u178f \u1793\u17b7\u1784\u179c\u17b7\u1791\u17d2\u1799\u17bb\u179f\u1780\u1798\u17d2\u1798","en":"12.4.3 Effectiveness management of hazardous waste and biological and radioactive waste","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-120501-01.html\">N_KH_120501_01<\/a>","km":"\u17e1\u17e2.\u17e5.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1793\u17c3\u1780\u17b6\u179a\u1780\u17c2\u1785\u17d2\u1793\u17c3\u17a1\u17be\u1784\u179c\u17b7\u1789\u1793\u17bc\u179c\u179c\u178f\u17d2\u1790\u17bb\u1792\u17b6\u178f\u17bb\u178a\u17be\u1798\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb","en":"12.5.1 National recycling rate, tons of material recycled","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-130101-01.html\">N_KH_130101_01<\/a>","km":"\u17e1\u17e3.\u17e1.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1783\u17bb\u17c6\/\u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1784\u17b6\u1799\u179a\u1784\u1782\u17d2\u179a\u17c4\u17c7\u1791\u17c5\u1793\u17b9\u1784\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u17a2\u17b6\u1780\u17b6\u179f\u1792\u17b6\u178f\u17bb","en":"13.1.1 Percentage of communes\/Sangkats vulnerable to climate change","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-130201-01.html\">N_KH_130201_01<\/a>","km":"\u17e1\u17e3.\u17e2.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u1794\u1789\u17d2\u1785\u17c1\u1789\u17a7\u179f\u17d2\u1798\u17d0\u1793\u1795\u17d2\u1791\u17c7\u1780\u1789\u17d2\u1785\u1780\u17cb\u1796\u17b8\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u1780\u17b6\u178f\u17cb\u1794\u1793\u17d2\u1790\u1799 \u1793\u17c5\u1796\u17c1\u179b\u178a\u17c2\u179b\u1794\u17d2\u179a\u17c0\u1794\u1792\u17c0\u1794\u1785\u17c6\u17a0\u17b6\u1780 (\u179f\u17c1\u178e\u17b6\u179a\u17c9\u17bc)\u1794\u1789\u17d2\u1785\u17c1\u1789\u17a7\u179f\u17d2\u1798\u17d0\u1793\u178f\u17b6\u1798\u1791\u1798\u17d2\u179b\u17b6\u1794\u17cb","en":"13.2.1 Pecentage of Green-House Gas emission through reduced activities when comparing to the projection (scenario) of usual gas emission","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-130202-01.html\">N_KH_130202_01<\/a>","km":"\u17e1\u17e3.\u17e2.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u1785\u17c6\u178e\u17b6\u1799\u179f\u17b6\u1792\u17b6\u179a\u178e\u17c8\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u17a2\u17b6\u1780\u17b6\u179f\u1792\u17b6\u178f\u17bb","en":"13.2.2 Percentage of increase in public expenditure for climate change","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-130301-01.html\">N_KH_130301_01<\/a>","km":"\u17e1\u17e3.\u17e3.\u17e1 \u1780\u1798\u17d2\u179a\u17b7\u178f\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793\u178a\u17c2\u179b\u1794\u17b6\u1793\u178f\u17d2\u179a\u17c0\u1798\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1780\u17b6\u179a\u1786\u17d2\u179b\u17be\u1799\u178f\u1794\u1793\u17b9\u1784\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u17a2\u17b6\u1780\u17b6\u179f\u1792\u17b6\u178f\u17bb \u178a\u17c4\u1799\u1794\u1784\u17d2\u17a0\u17b6\u1789\u1787\u17b6\u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u179f\u1798\u178f\u17d2\u1790\u1797\u17b6\u1796\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u1789\u17d2\u1787\u17d2\u179a\u17b6\u1794\u1795\u17d2\u1793\u17c2\u1780\u1791\u17b6\u17c6\u1784\u1794\u17d2\u179a\u17b6\u17c6\u1793\u17c3\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u17a2\u17b6\u1780\u17b6\u179f\u1792\u17b6\u178f\u17bb","en":"13.3.1 Intitution level that prepared for response to Climate Change indicated as percentage of institutional capacities mainstreamed on 5 components of Climate Change","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-130302-01.html\">N_KH_130302_01<\/a>","km":"\u17e1\u17e3.\u17e3.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1782\u17d2\u179a\u17bd\u179f\u17b6\u179a\u1780\u179f\u17b7\u1780\u179a\u178a\u17b6\u17c6\u178a\u17bb\u17c7\u178a\u17c6\u178e\u17b6\u17c6\u1785\u17b7\u1789\u17d2\u1785\u17b9\u1798\u179f\u178f\u17d2\u179c\u1785\u17b7\u1789\u17d2\u1785\u17b9\u1798\u178f\u17d2\u179a\u17b8\u17a2\u17d2\u1793\u1780\u1793\u17c1\u179f\u17b6\u1791\u1793\u17b7\u1784\u1794\u17d2\u179a\u1787\u17b6\u179f\u17a0\u1782\u1798\u1793\u17cd\u1798\u17bc\u179b\u178a\u17d2\u178b\u17b6\u1793\u178a\u17c2\u179b\u1791\u1791\u17bd\u179b\u1780\u17b6\u179a\u1795\u17d2\u179f\u1796\u17d2\u179c\u1795\u17d2\u179f\u17b6\u1799\u1793\u17b7\u1784\u1794\u178e\u17d2\u178f\u17bb\u17c7\u1794\u178e\u17d2\u178f\u17b6\u179b\u1791\u17b6\u1780\u17cb\u1791\u1784\u1793\u17b9\u1784\u1780\u17b6\u179a\u1794\u17d2\u179a\u17c2\u1794\u17d2\u179a\u17bd\u179b\u17a2\u17b6\u1780\u17b6\u179f\u1792\u17b6\u178f\u17bb","en":"13.3.2 Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-140101-01.html\">N_KH_140101_01<\/a>","km":"\u17e1\u17e4.\u17e1.\u17e1 \u1797\u17b6\u1782\u1799\u1793\u17c3\u1780\u17b6\u179a\u1780\u17b6\u178f\u17cb\u1794\u1793\u17d2\u1790\u1799\u1780\u17b6\u179a\u1794\u17c6\u1796\u17bb\u179b \u179f\u1798\u17bb\u1791\u17d2\u179a\u178f\u17b6\u1798 \u179a\u1799\u17c8\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u179f\u1798\u17bb\u1791\u17d2\u179a","en":"14.1.1 Percentage of the reduction of the sea pollution by the conservation activities","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-140202-01.html\">N_KH_140202_01<\/a>","km":"\u17e1\u17e4.\u17e2.\u17e1 \u1798\u17bb\u1781\u1784\u17b6\u179a\u1793\u17b7\u1784\u179f\u17c1\u179c\u17b6\u179f\u17c6\u1781\u17b6\u1793\u17cb\u17d7\u179a\u1794\u179f\u17cb\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u17a2\u17c1\u1780\u17bc\u17a1\u17bc\u179f\u17ca\u17b8\u179f\u1798\u17bb\u1791\u17d2\u179a\u1793\u17b7\u1784\u178f\u17c6\u1794\u1793\u17cb\u1786\u17d2\u1793\u17c1\u179a\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1790\u17c2\u179a\u1780\u17d2\u179f\u17b6\u1793\u17b7\u1784\u179f\u17d2\u178f\u17b6\u179a\u178f\u17b6\u1798\u1780\u17b6\u179a\u1785\u17b6\u17c6\u1794\u17b6\u1785\u17cb","en":"14.2.1 Key ecosystem function and service of marine and coast area maintained and restore as necessary","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-140b01-01.html\">N_KH_140b01_01<\/a>","km":"\u17e1\u17e4.\u1781.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1792\u1793\u1792\u17b6\u1793\u179f\u1798\u17bb\u1791\u17d2\u179a\u178a\u17c2\u179b\u17a2\u17d2\u1793\u1780\u1793\u17c1\u179f\u17b6\u1791\u1781\u17d2\u1793\u17b6\u178f\u178f\u17bc\u1785\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1793\u17b7\u1784\u179b\u1780\u17cb\u179b\u17be\u1791\u17b8\u1795\u17d2\u179f\u17b6\u179a\u1798\u17b6\u1793\u179f\u17d2\u1790\u17b7\u179a\u1797\u17b6\u1796","en":"14.b.1 Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-141501-01.html\">N_KH_141501_01<\/a>","km":"\u17e1\u17e4.\u17e5.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1791\u17c6\u17a0\u17c6\u178f\u17c6\u1794\u1793\u17cb\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u1787\u179b\u1795\u179b\u1791\u17b6\u17c6\u1784\u178f\u17c6\u1794\u1793\u17cb\u1786\u17d2\u1793\u17c1\u179a \u1793\u17b7\u1784\u1791\u17b9\u1780\u179f\u17b6\u1794 \u178a\u17c2\u179b\u1794\u17b6\u1793\u1780\u17b6\u179a\u1796\u17b6\u179a","en":"14.5.1 Percentage of coverage of marine and inland fisheries conservation areas protected","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-141502-01.html\">N_KH_141502_01<\/a>","km":"\u17e1\u17e4.\u17e2.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1795\u17d2\u1791\u17c3\u178a\u17b8\u1796\u17d2\u179a\u17c3\u179b\u17b7\u1785\u1791\u17b9\u1780 \u1793\u17b7\u1784\u1796\u17d2\u179a\u17c3\u1780\u17c4\u1784\u1780\u17b6\u1784 \u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u178a\u17b6\u17c6\u17a1\u17be\u1784\u179c\u17b7\u1789\u1793\u17b7\u1784\u1780\u17b6\u179a\u1796\u17b6\u179a","en":"14.2.2 Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150102-01.html\">N_KH_150102_01<\/a>","km":"\u17e1\u17e5.\u17e1.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u178f\u17c6\u1794\u1793\u17cb\u178a\u17c2\u179b\u1798\u17b6\u1793\u1787\u17b8\u179c\u17c8\u1785\u1798\u17d2\u179a\u17bb\u17c7\u1780\u17d2\u1793\u17bb\u1784\u1791\u17b9\u1780\u1793\u17b7\u1784\u179b\u17be\u178a\u17b8\u1782\u17c4\u1780 \u178a\u17c2\u179b\u1782\u17d2\u179a\u1794\u178a\u178e\u17d2\u178f\u1794\u17cb\u178a\u17c4\u1799\u178f\u17c6\u1794\u1793\u17cb\u1780\u17b6\u179a\u1796\u17b6\u179a\u1793\u17b7\u1784\u178f\u17c6\u1794\u1793\u17cb\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u1787\u179b\u1795\u179b \u1794\u17c2\u1784\u1785\u17c2\u1780\u178f\u17b6\u1798\u1794\u17d2\u179a\u1797\u17c1\u1791\u1793\u17c3\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u17a2\u17c1\u1780\u17bc\u17a1\u17bc\u179f\u17ca\u17b8","en":"15.1.2 Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150103-01.html\">N_KH_150103_01<\/a>","km":"\u17e1\u17e5.\u17e1.\u17e3 \u1795\u17d2\u1791\u17c3\u178a\u17b8\u1796\u17d2\u179a\u17c3\u1788\u17be \u1793\u17b7\u1784\u1794\u17d2\u179a\u1796\u17d0\u1793\u17d2\u1792\u17a2\u17c1\u1780\u17bc\u17a1\u17bc\u179f\u17ca\u17b8 \u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796","en":"15.1.3 Forest areas and ecosystems sustainably utilized","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150301-01.html\">N_KH_150301_01<\/a>","km":"\u17e1\u17e5.\u17e3.\u17e1 \u1795\u17d2\u1791\u17c3\u178a\u17b8\u178f\u17c6\u1794\u1793\u17cb\u1791\u17c1\u179f\u1797\u17b6\u1796\u1796\u17d2\u179a\u17c3\u1788\u17be\u178a\u17c2\u179b\u1794\u17b6\u1793\u179f\u17d2\u178f\u17b6\u179a\u1796\u17b8\u1795\u179b\u1794\u17c9\u17c7\u1796\u17b6\u179b\u17cb\u178a\u17c4\u1799\u179f\u17b6\u179a\u1797\u17b6\u1796\u179a\u17b6\u17c6\u1784\u179f\u17d2\u1784\u17bd\u178f \u1791\u17b9\u1780\u1787\u17c6\u1793\u1793\u17cb \u1793\u17b7\u1784\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u17c4\u17c7\u1794\u1784\u17cb\u1785\u17c4\u179b","en":"15.3.1 Area of forest landscape restoration for areas affected by desertification, drought and floods","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150501-01.html\">N_KH_150501_01<\/a>","km":"\u17e1\u17e5.\u17e5.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1795\u17c2\u1793\u1780\u17b6\u179a\u179f\u1780\u1798\u17d2\u1798\u1797\u17b6\u1796\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u17a2\u1797\u17b7\u179a\u1780\u17d2\u179f\u1794\u17d2\u179a\u1797\u17c1\u1791\u179f\u178f\u17d2\u179c\u1796\u17d2\u179a\u17c3\u1793\u17b7\u1784\u179a\u17bb\u1780\u17d2\u1781\u1787\u17b6\u178f\u17b7\u1787\u17b7\u178f\u1795\u17bb\u178f\u1796\u17bc\u1787\u1793\u17b7\u1784\u1798\u17b6\u1793\u178a\u17c4\u1799\u1780\u1798\u17d2\u179a \u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u179a\u17c0\u1794\u1785\u17c6\u1793\u17b7\u1784\u17a2\u1793\u17bb\u179c\u178f\u17d2\u178f","en":"15.5.1 Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150701-01.html\">N_KH_150701_01<\/a>","km":"\u17e1\u17e5.\u17e7.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1780\u179a\u178e\u17b8\u179b\u17d2\u1798\u17be\u179f\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u1794\u179a\u1794\u17b6\u1789\u17cb \u1780\u17b6\u179a\u1787\u17bd\u1789\u178a\u17bc\u179a \u1794\u17d2\u179a\u1797\u17c1\u1791\u179f\u178f\u17d2\u179c\u1796\u17d2\u179a\u17c3 \u1793\u17b7\u1784\u1794\u17d2\u179a\u1797\u17c1\u1791\u179a\u17bb\u1780\u17d2\u1781\u1787\u17b6\u178f\u17b7\u1781\u17bb\u179f\u1785\u17d2\u1794\u17b6\u1794\u17cb \u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u1780\u17b6\u178f\u17cb\u1794\u1793\u17d2\u1790\u1799","en":"15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-150902-01.html\">N_KH_150902_01<\/a>","km":"\u17e1\u17e5.\u17e9.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u1799\u17bb\u1791\u17d2\u1792\u179f\u17b6\u179f\u17d2\u179a\u17d2\u178f \u1793\u17b7\u1784\u179b\u17b7\u1781\u17b7\u178f\u1799\u17bb\u1791\u17d2\u1792\u17c4\u1794\u1780\u179a\u178e\u17cd\u179f\u17d2\u178f\u17b8\u1796\u17b8\u179f\u17c1\u179c\u17b6\u1780\u1798\u17d2\u1798\u1794\u17d2\u179a\u1796\u1793\u17d0\u17d2\u1792 \u17a2\u17c1\u1780\u17bc\u17a1\u17bc\u179f\u17ca\u17b8\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u178f\u17b6\u1780\u17cb\u178f\u17c2\u1784 \u1793\u17b7\u1784\u17a2\u1793\u17bb\u179c\u178f\u17d2\u178f","en":"15.9.2 Number of policies, strategies and regulations on ecosystem services is established and implemented","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-160301-01.html\">N_KH_160301_01<\/a>","km":"\u17e1\u17e6.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u1794\u17b6\u1793\u1785\u17bc\u179b\u179a\u17bd\u1798\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u1795\u17d2\u179f\u1796\u17d2\u179c\u1795\u17d2\u179f\u17b6\u1799\u1785\u17d2\u1794\u17b6\u1794\u17cb","en":"16.3.1 Proportion of people involved in disseminating laws","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-160701-01.html\">N_KH_160701_01<\/a>","km":"\u17e1\u17e6.\u17e7.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17d2\u178f\u17b8\u17d2\u179a \u1787\u17b6\u1798\u1793\u17d2\u178f\u17d2\u179a\u17b8\u179a\u17b6\u1787\u1780\u17b6\u179a\u179f\u17ca\u17b8\u179c\u17b7\u179b\u1793\u17c5\u178f\u17b6\u1798\u1780\u17d2\u179a\u179f\u17bd\u1784\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793\u1793\u17b6\u1793\u17b6","en":"16.7.1 Proportion of female in civil servant","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-170301-01.html\">N_KH_170301_01<\/a>","km":"\u17e1\u17e7.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u1785\u1798\u17d2\u179a\u17bb\u17c7\u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f.","en":"17.3.1 Official development assistance as % of GDP","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-170901-01.html\">N_KH_170901_01<\/a>","km":"\u17e1\u17e7.\u17e9.\u17e1 \u1791\u17c6\u17a0\u17c6\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u1780\u17b7\u1785\u17d2\u1785\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u1794\u1785\u17d2\u1785\u17c1\u1780\u1791\u17c1\u179f (\u179a\u17bd\u1798\u1791\u17b6\u17c6\u1784\u1780\u17b7\u1785\u17d2\u1785\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u1787\u17be\u1784-\u178f\u17d2\u1794\u17bc\u1784 \u178f\u17d2\u1794\u17bc\u1784-\u178f\u17d2\u1794\u17bc\u1784 \u1793\u17b7\u1784\u1780\u17b7\u1785\u17d2\u1785\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u178f\u17d2\u179a\u17b8\u1780\u17c4\u178e) \u178a\u17c2\u179b\u1794\u17b6\u1793\u179f\u1793\u17d2\u1799\u17b6\u1795\u17d2\u178f\u179b\u17cb\u178a\u179b\u17cb\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6","en":"17.9.1 Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-170902-01.html\">N_KH_170902_01<\/a>","km":"\u17e1\u17e7.\u17e9.\u17e2 \u1791\u17c6\u17a0\u17c6\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a \u178a\u17c2\u179b\u1782\u17b6\u17c6\u1791\u17d2\u179a\u1782\u17c4\u179b\u1793\u1799\u17c4\u1794\u17b6\u1799\u179f\u17c1\u178a\u17d2\u1781\u1780\u17b7\u1785\u17d2\u1785\u1793\u17b7\u1784\u1780\u17b6\u179a\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u17d2\u178f\u17c1\u1787\u17d2\u1789\u17b6\u1795\u17d2\u178f\u179b\u17cb\u17b2\u17d2\u1799\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6\u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f","en":"17.9.2 Amount of ODA to Economic and Development Policy\/Planning (as % of GDP)\u200b\u200b\u200b committed to Cambodia","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-171001-01.html\">N_KH_171001_01<\/a>","km":"\u17e1\u17e7.\u17e1\u17e0.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1785\u17d2\u1794\u17b6\u1794\u17cb\u1793\u17b7\u1784\u1794\u1791\u178a\u17d2\u178b\u17b6\u1793\u1782\u178f\u17b7\u1799\u17bb\u178f\u17d2\u178f\u1796\u17b6\u178e\u17b7\u1787\u17d2\u1787\u1780\u1798\u17d2\u1798 \u178a\u17c2\u179b\u1794\u17b6\u1793\u179a\u17c0\u1794\u1785\u17c6\u17a1\u17be\u1784\u178a\u17be\u1798\u17d2\u1794\u17b8\u179f\u1798\u17d2\u179a\u17bd\u179b\u178a\u179b\u17cb\u17a2\u17d2\u1793\u1780\u179c\u17b7\u1793\u17b7\u1799\u17c4\u1782\u1793\u17b7\u1784\u1792\u17bb\u179a\u1787\u1793\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780\u1780\u17d2\u1793\u17bb\u1784\u1780\u17b6\u179a\u1792\u17d2\u179c\u17be\u1796\u17b6\u178e\u17b7\u1787\u17d2\u1787\u1780\u1798\u17d2\u1798","en":"17.10.1 The number of commercial legal norms and standards set up to facilitate local investors and investors in trading","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-171701-01.html\">N_KH_171701_01<\/a>","km":"\u17e1\u17e7.\u17e1\u17e7.\u17e1 \u1791\u17c6\u17a0\u17c6\u17a0\u17b7\u179a\u1789\u17d2\u1789\u1794\u17d2\u1794\u1791\u17b6\u1793\u179f\u17a0\u1794\u17d2\u179a\u178f\u17b7\u1794\u178f\u17d2\u178f\u17b7\u1780\u17b6\u179a\u178a\u17c2\u179b\u178f\u17d2\u179a\u17bc\u179c\u1794\u17b6\u1793\u179f\u1793\u17d2\u1799\u17b6\u179a\u1795\u17d2\u178f\u179b\u17cb\u178a\u179b\u17cb\u1797\u17b6\u1796\u1787\u17b6\u178a\u17c3\u1782\u17bc\u179f\u1784\u17d2\u1782\u1798\u179f\u17ca\u17b8\u179c\u17b7\u179b\u1792\u17c0\u1794\u1793\u17b9\u1784 \u1795.\u179f.\u179f.","en":"17.17.1 Amount of ODA disbursed to civil society partnerships (as % of GDP)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-171802-01.html\">N_KH_171802_01<\/a>","km":"\u17e1\u17e7.\u17e1\u17e8.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1785\u17c6\u178e\u17b6\u1799\u1790\u179c\u17b7\u1780\u17b6\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u17a2\u1793\u17bb\u179c\u178f\u17d2\u178f\u1795\u17c2\u1793\u1780\u17b6\u179a\u1799\u17bb\u1791\u17d2\u1792\u179f\u17b6\u179f\u17d2\u179a\u17d2\u178f\u1787\u17b6\u178f\u17b7\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u179f\u17d2\u1790\u17b7\u178f\u17b7","en":"17.18.2 Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS)","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180101-01.html\">N_KH_180101_01<\/a>","km":"\u17e1\u17e8.\u17e1.\u17e1 \u1795\u17d2\u1791\u17c3\u178a\u17b8\u179f\u179a\u17bb\u1794\u1793\u17c3\u1780\u17b6\u179a\u1794\u17c4\u179f\u179f\u1798\u17d2\u17a2\u17b6\u178f\u1798\u17b8\u1793\u1793\u17b7\u1784\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u1782\u17d2\u179a\u17b6\u1798\u1794\u17d2\u179a\u1785\u17b6\u17c6\u1786\u17d2\u1793\u17b6\u17c6","en":"18.1.1 Total cumulated areas cleared of mines\/ERW","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180201-01.html\">N_KH_180201_01<\/a>","km":"\u17e1\u17e8.\u17e2.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1793\u17c3\u1787\u1793\u179a\u1784\u1782\u17d2\u179a\u17c4\u17c7\u1790\u17d2\u1793\u17b6\u1780\u17cb (\u179f\u17d2\u179b\u17b6\u1794\u17cb\u1793\u17b7\u1784\u179a\u1794\u17bd\u179f) \u178a\u17c4\u1799\u1782\u17d2\u179a\u17b6\u1794\u17cb\u1798\u17b8\u1793 \u1793\u17b7\u1784\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u1782\u17d2\u179a\u17b6\u1798","en":"18.2.1 Number of civilian casualties from mines\/ERW","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180202-01.html\">N_KH_180202_01<\/a>","km":"\u17e1\u17e8.\u17e2.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1797\u17bc\u1798\u17b7\u178a\u17c2\u179b\u179a\u1784\u1780\u17b6\u179a\u1782\u17c6\u179a\u17b6\u1798\u1780\u17c6\u17a0\u17c2\u1784 \u178a\u17c4\u1799\u179f\u17b6\u179a\u1798\u17b8\u1793\u1793\u17b7\u1784\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u1782\u17d2\u179a\u17b6\u1798\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u179f\u17b6\u179a\u17a2\u1794\u17cb\u179a\u17c6\u1782\u17d2\u179a\u17c4\u17c7\u1790\u17d2\u1793\u17b6\u1780\u17cb\u178a\u17c4\u1799\u179f\u17b6\u179a\u1798\u17b8\u1793\u1793\u17b7\u1784\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u1782\u17d2\u179a\u17b6\u1798","en":"18.2.2 The number of villages contaminated by mines \/ ERW to receive Mine Risk Educationmessages","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180301-01.html\">N_KH_180301_01<\/a>","km":"\u17e1\u17e8.\u17e3.\u17e1 \u1785\u17c6\u1793\u17bd\u1793\u1787\u1793\u1796\u17b7\u1780\u17b6\u179a\u178a\u17c4\u1799\u179f\u17b6\u179a\u1798\u17b8\u1793\/\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u179a\u17d2\u1782\u17b6\u1798\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u1780\u17b6\u179a\u179b\u17be\u1780\u1780\u1798\u17d2\u1796\u179f\u17cb\u179f\u17b7\u1791\u17d2\u1792\u17b7\u1793\u17b7\u1784\u1782\u17bb\u178e\u1797\u17b6\u1796\u1787\u17b8\u179c\u17b7\u178f","en":"18.3.1 The number of mine and ERW casualties received rights promotion","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180302-01.html\">N_KH_180302_01<\/a>","km":"\u17e1\u17e8.\u17e3.\u17e2 \u1785\u17c6\u1793\u17bd\u1793\u1787\u1793\u179a\u1784\u1782\u17d2\u179a\u17c4\u17c7\u178a\u17c4\u1799\u179f\u17b6\u179a\u1798\u17b8\u1793\/\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u179a\u17d2\u1782\u17b6\u1798\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u179f\u17c1\u179c\u17b6\u179f\u17d2\u178f\u17b6\u179a\u179b\u1791\u17d2\u1792\u1797\u17b6\u1796\u1796\u179b\u1780\u1798\u17d2\u1798","en":"18.3.2 The number of mine and ERW casualties received rehabilitation service","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--n-kh-180303-01.html\">N_KH_180303_01<\/a>","km":"\u17e1\u17e8.\u17e3.\u17e3 \u1785\u17c6\u1793\u17bd\u1793\u1787\u1793\u179a\u1784\u1782\u17d2\u179a\u17c4\u17c7\u178a\u17c4\u1799\u179f\u17b6\u179a\u1798\u17b8\u1793\/\u179f\u17c6\u178e\u179b\u17cb\u1787\u17b6\u178f\u17b7\u1795\u17d2\u1791\u17bb\u17c7\u1796\u17b8\u179f\u1784\u17d2\u179a\u17d2\u1782\u17b6\u1798\u1791\u1791\u17bd\u179b\u1794\u17b6\u1793\u179f\u17c1\u179c\u17b6\u1786\u17d2\u179b\u17be\u1799\u178f\u1794\u1794\u1793\u17d2\u1791\u17b6\u1793\u17cb\u1793\u17b7\u1784\u1786\u17b6\u1794\u17cb\u179a\u17a0\u17d0\u179f\u1796\u17b8\u17a2\u17b6\u1787\u17d2\u1789\u17b6\u1792\u179a \u1798\u17b8\u1793","en":"18.3.3 The number of mine and ERW casualties received emergency  and rapid response from CMAA","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ny-gdp-pcap.html\">NY_GDP_PCAP<\/a>","km":"\u17e8.\u17e1.\u17e1 \u1780\u17c6\u178e\u17be\u1793\u1795\u179b\u17b7\u178f\u1795\u179b\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u179a\u17bb\u1780\u179f\u179a\u17bb\u1794\u1794\u17d2\u179a\u1785\u17b6\u17c6\u1786\u17d2\u1793\u17b6\u17c6\u1782\u17b7\u178f\u178f\u17b6\u1798\u1790\u17d2\u179b\u17c3\u1790\u17c1\u179a","en":"8.1.1 Annual GDP growth rate at constant prices","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sd-sdg-avlb.html\">SD_SDG_AVLB<\/a>","km":"\u17e1\u17e7.\u17e1\u17e8.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17bc\u1785\u1793\u17b6\u1780\u179a\u179a\u17a2\u1797\u17b7\u179c\u178c\u17d2\u178d\u1794\u17d2\u179a\u1780\u1794\u178a\u17c4\u1799\u1785\u17b8\u179a\u1797\u17b6\u1796\u178a\u17c2\u179b\u1794\u17b6\u1793\u1794\u1784\u17d2\u1780\u17be\u178f\u17a1\u17be\u1784\u1793\u17c5\u1790\u17d2\u1793\u17b6\u1780\u17cb\u1787\u17b6\u178f\u17b7 \u1794\u17c6\u1794\u17c2\u1780\u1791\u17c5\u178f\u17b6\u1798\u1785\u17c6\u178e\u17bb\u1785\u178a\u17c5 \u178a\u17c4\u1799\u1795\u17d2\u17a2\u17c2\u1780\u179b\u17be\u1798\u17bc\u179b\u178a\u17d2\u178b\u17b6\u1793\u179f\u17d2\u1790\u17b7\u178f\u17b7\u1795\u17d2\u179b\u17bc\u179c\u1780\u17b6\u179a","en":"17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--se-acs-h2o.html\">SE_ACS_H2O<\/a>","km":"\u17e4.\u1780.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17b6\u179b\u17b6\u1798\u17c1\u178f\u17d2\u178f\u1799\u17d2\u1799\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1793\u17b7\u1784\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u178a\u17c2\u179b\u1798\u17b6\u1793\u17a7\u1794\u1780\u179a\u178e\u17cd\u1791\u17b9\u1780\u179f\u17d2\u17a2\u17b6\u178f\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1794\u179a\u17b7\u1797\u17c4\u1782","en":"4.a.1 Proportion of schools with access to basic drinking water","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--se-acs-sanit.html\">SE_ACS_SANIT<\/a>","km":"\u17e4.\u1780.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17b6\u179b\u17b6\u1798\u178f\u17d2\u178f\u17c1\u1799\u17d2\u1799\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1793\u17b7\u1784\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u178a\u17c2\u179b\u1798\u17b6\u1793\u1794\u1784\u17d2\u1782\u1793\u17cb \u17a2\u1793\u17b6\u1798\u17d0\u1799\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb","en":"4.a.2 Proportion of schools with access to single-sex basic sanitation facilities","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--se-inf-dsbl.html\">SE_INF_DSBL<\/a>","km":"\u17e4.\u1780.\u17e3 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u179f\u17b6\u179b\u17b6\u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1793\u17b7\u1784\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1787\u1798\u17d2\u179a\u17b6\u179b\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u179f\u17b7\u179f\u17d2\u179f\u1796\u17b7\u1780\u17b6\u179a","en":"4.a.3 Proportion of schools with access to\u00a0adapted infrastructure and materials for students with disabilities","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--se-pre-partn.html\">SE_PRE_PARTN<\/a>","km":"\u17e4.\u17e2.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u179a\u17bd\u1798\u1793\u17c3\u1780\u17b6\u179a\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1793\u17c5\u1798\u178f\u17d2\u178f\u17c1\u1799\u17d2\u1799\u179f\u17b7\u1780\u17d2\u179f\u17b6","en":"4.2.2 Percentage ofchildren attended all aspects of ECE","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--se-tra-grdl.html\">SE_TRA_GRDL<\/a>","km":"\u17e4.\u1782.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1782\u17d2\u179a\u17bc\u1794\u1784\u17d2\u179a\u17c0\u1793\u1793\u17c5\u1798\u178f\u17d2\u178f\u17c1\u1799\u17d2\u1799\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1794\u178b\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6 \u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1794\u178b\u1798\u1797\u17bc\u1798\u17b7 \u1793\u17b7\u1784\u1798\u1792\u17d2\u1799\u1798\u179f\u17b7\u1780\u17d2\u179f\u17b6\u1791\u17bb\u178f\u17b7\u1799\u1797\u17bc\u1798\u17b7 \u178a\u17c2\u179b\u1794\u17b6\u1793\u1786\u17d2\u179b\u1784\u1780\u17b6\u178f\u17cb\u1780\u17b6\u179a\u1794\u178e\u17d2\u178f\u17bb\u17c7\u1794\u178e\u17d2\u178f\u17b6\u179b\u1793\u17b7\u1784\u179c\u17b7\u1780\u17b9\u17d2\u179a\u178f\u1780\u17b6\u179a","en":"4.c.1 Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sg-gen-parl.html\">SG_GEN_PARL<\/a>","km":"\u17e5.\u17e5.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u17a2\u17b6\u179f\u1793\u17c8\u179a\u1794\u179f\u17cb\u17d2\u179a\u179f\u17b8\u17d2\u178f\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u1790\u17b6\u1794\u17d0\u1793\u1793\u17b8\u178f\u17b7\u1794\u17d2\u1794\u1789\u17d2\u1789\u178f\u17d2\u178f\u17b7","en":"5.5.1 Proportion of seats held by women in legislative organs","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sg-reg-brth.html\">SG_REG_BRTH<\/a>","km":"\u17e1\u17e6.\u17e9.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1780\u17bb\u1798\u17b6\u179a\u178a\u17c2\u179b\u1794\u17b6\u1793\u1785\u17bb\u17c7\u1794\u1789\u17d2\u1787\u17b8\u1780\u17c6\u178e\u17be\u178f \u1787\u17b6\u1798\u17bd\u1799\u17a2\u17b6\u1787\u17d2\u1789\u17b6\u1792\u179a\u179f\u17ca\u17b8\u179c\u17b7\u179b","en":"16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sg-reg-censusn.html\">SG_REG_CENSUSN<\/a>","km":"\u17e1\u17e7.\u17e1\u17e9.\u17e1 \u1787\u17c6\u179a\u17bf\u1793\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u179a\u17c0\u1784\u179a\u17b6\u179b\u17cb\u17e1\u17e0\u1786\u17d2\u1793\u17b6\u17c6\u1798\u17d2\u178f\u1784","en":"17.19.1 Population Census in every 10 years","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-dth-ncom.html\">SH_DTH_NCOM<\/a>","km":"\u17e3.\u17e5.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u179f\u17d2\u179b\u17b6\u1794\u17cb\u178a\u17c2\u179b\u1794\u178e\u17d2\u178f\u17b6\u179b\u1798\u1780\u1796\u17b8\u1787\u17c6\u1784\u17ba\u1794\u17c1\u17c7\u178a\u17bc\u1784 \u179f\u179a\u179f\u17c3\u1788\u17b6\u1798 \u1798\u17a0\u17b6\u179a\u17b8\u1780 \u1791\u17b9\u1780\u1793\u17c4\u1798\u1795\u17d2\u17a2\u17c2\u1798 \u17ac\u1787\u17c6\u1784\u17ba\u1795\u17d2\u179b\u17bc\u179c\u178a\u1784\u17d2\u17a0\u17be\u1798\u179a\u17c9\u17b6\u17c6\u179a\u17c9\u17c3\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u17a2\u17b6\u1799\u17bb\u1796\u17b8\u17e3\u17e0\u1791\u17c5\u17e7\u17e0\u1786\u17d2\u1793\u17b6\u17c6","en":"3.5.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-dyn-mort.html\">SH_DYN_MORT<\/a>","km":"\u17e3.\u17e3.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1798\u179a\u178e\u1797\u17b6\u1796\u1780\u17bb\u1798\u17b6\u179a\u17a2\u17b6\u1799\u17bb\u1780\u17d2\u179a\u17c4\u1798\u17e5\u1786\u17d2\u1793\u17b6\u17c6","en":"3.3.1 Under-five mortality rate (U5MR)","Disaggregation combinations using this value":33,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-dyn-nmrt.html\">SH_DYN_NMRT<\/a>","km":"\u17e3.\u17e3.\u17e2 \u17a2\u178f\u17d2\u179a\u17b6\u1798\u179a\u178e\u1797\u17b6\u1796\u1791\u17b6\u179a\u1780\u1791\u17be\u1794\u1780\u17be\u178f","en":"3.3.2 Neonatal mortality rate","Disaggregation combinations using this value":43,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-fpl-infm.html\">SH_FPL_INFM<\/a>","km":"\u17e5.\u17e6.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u179f\u17d2\u178f\u17b8\u17d2\u179a\u17a2\u17b6\u1799\u17bb\u1796\u17b8\u17e1\u17e5\u178a\u179b\u17cb\u17e4\u17e9\u1786\u17d2\u1793\u17b6\u17c6 \u178a\u17c2\u179b\u179f\u1798\u17d2\u179a\u17c1\u1785\u1785\u17b7\u178f\u17d2\u178f\u178a\u17c4\u1799\u1781\u17d2\u179b\u17bd\u1793\u17af\u1784\u1796\u17b6\u1780\u17cb\u1796\u17d0\u1793\u17d2\u1792\u1791\u17c5\u1793\u17b9\u1784\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1798\u1792\u17d2\u1799\u17b6\u1794\u17b6\u1799\u1796\u1793\u17d2\u1799\u17b6\u179a\u1780\u17c6\u178e\u17be\u178f \u1793\u17b7\u1784\u1780\u17b6\u179a\u1790\u17c2\u1791\u17b6\u17c6\u179f\u17bb\u1781\u1797\u17b6\u1796\u1794\u1793\u17d2\u178f\u1796\u17bc\u1787","en":"5.6.1 Proportion of women aged 15\u201349\u00a0years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-h2o-safe.html\">SH_H2O_SAFE<\/a>","km":"\u17e6.\u17e1.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1794\u17d2\u179a\u1787\u17b6\u179a\u17b6\u179f\u17d2\u179a\u17d2\u178f\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u1797\u1796\u1791\u17b9\u1780\u179f\u17d2\u17a2\u17b6\u178f\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1791\u1791\u17bd\u179b\u1791\u17b6\u1793","en":"6.1.1 Proportion of population using an improved drinking water source","Disaggregation combinations using this value":8,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-hiv-incd.html\">SH_HIV_INCD<\/a>","km":"\u17e3.\u17e4.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1793\u17c3\u1780\u179a\u178e\u17b8\u1786\u17d2\u179b\u1784\u1790\u17d2\u1798\u17b8\u1793\u17c3\u1798\u17c1\u179a\u17c4\u1782\u17a2\u17c1\u178a\u179f\u17cd\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u1782\u17d2\u1798\u17b6\u1793\u1795\u17d2\u1791\u17bb\u1780\u1798\u17c1\u179a\u17c4\u1782\u17a2\u17c1\u178a\u179f\u17cd \u17e1 \u17e0\u17e0\u17e0\u1793\u17b6\u1780\u17cb","en":"3.4.1 % of new HIV infection per 1000 uninfected population","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-med-den.html\">SH_MED_DEN<\/a>","km":"\u17e3.\u1782.\u17e1 \u1795\u179b\u1792\u17c0\u1794\u179c\u17c1\u1787\u17d2\u1787\u1794\u178e\u17d2\u178c\u17b7\u178f\/\u1782\u17b7\u179b\u17b6\u1793\u17bb\u1794\u17d2\u1794\u178a\u17d2\u178b\u17b6\u1780\/\u1799\u17b7\u1780\u17b6\/\u1786\u17d2\u1798\u1794 \u179b\u17be\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u17e1 \u17e0\u17e0\u17e0\u1793\u17b6\u1780\u17cb","en":"3.c.1 Ratio of physician\/nurse\/midwife per 1,000 population","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-prv-smok.html\">SH_PRV_SMOK<\/a>","km":"\u17e3.a.\u17e1 \u1794\u17d2\u179a\u17c1\u179c\u17c9\u17b6\u17a1\u1784\u17cb\u1793\u17c3\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u1790\u17d2\u1793\u17b6\u17c6\u1787\u1780\u17cb\u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u17a2\u17b6\u1799\u17bb\u17e1\u17e5\u1786\u17d2\u1793\u17b6\u17c6\u17a1\u17be\u1784","en":"3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15\u00a0years and older","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-san-safe.html\">SH_SAN_SAFE<\/a>","km":"\u17e6.\u17e2.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1794\u17d2\u179a\u1787\u17b6\u179a\u17b6\u179f\u17d2\u179a\u17d2\u178f\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb\u179f\u17c1\u179c\u17b6\u17a2\u1793\u17b6\u1798\u17d0\u1799\u1794\u17b6\u1793\u1780\u17c2\u179b\u1798\u17d2\u17a2","en":"6.2.1 Proportion of population using an improved sanitation facility","Disaggregation combinations using this value":6,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-brtc.html\">SH_STA_BRTC<\/a>","km":"\u17e3.\u17e2.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u179f\u1798\u17d2\u179a\u17b6\u179b\u178a\u17c4\u1799\u1794\u17bb\u1782\u17d2\u1782\u179b\u17b7\u1780\u179f\u17bb\u1781\u17b6\u1797\u17b7\u1794\u17b6\u179b\u1798\u17b6\u1793\u1787\u17c6\u1793\u17b6\u1789","en":"3.2.2 Proportion of births attended by skilled health personnel","Disaggregation combinations using this value":26,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-malr.html\">SH_STA_MALR<\/a>","km":"\u17e3.\u17e4.\u17e3 \u17a2\u17b6\u17c6\u1784\u179f\u17ca\u17b8\u178a\u1784\u17cb(\u1780\u179a\u178e\u17b8\u1786\u17d2\u179b\u1784\u1790\u17d2\u1798\u17b8)\u1793\u17c3\u1787\u17c6\u1784\u17ba\u1782\u17d2\u179a\u17bb\u1793\u1785\u17b6\u1789\u17cb","en":"3.4.3 Malaria incidence","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-mort.html\">SH_STA_MORT<\/a>","km":"\u17e3.\u17e2.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1798\u179a\u178e\u1797\u17b6\u1796\u1798\u17b6\u178f\u17b6","en":"3.2.1 Maternal mortality ratio (MMR)","Disaggregation combinations using this value":25,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-stnt.html\">SH_STA_STNT<\/a>","km":"\u17e2.\u17e2.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1780\u17bb\u1798\u17b6\u179a\u17a2\u17b6\u1799\u17bb\u1780\u17d2\u179a\u17c4\u1798\u17e5\u1786\u17d2\u1793\u17b6\u17c6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1797\u17b6\u1796\u1780\u17d2\u179a\u17b7\u1793\u1798\u1792\u17d2\u1799\u1798\u17ac\u1792\u17d2\u1784\u1793\u17cb\u1792\u17d2\u1784\u179a","en":"2.2.1 Percent of children under 5 years old who are moderately or severely stunted","Disaggregation combinations using this value":33,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-traf.html\">SH_STA_TRAF<\/a>","km":"\u17e3.\u17e7.\u17e1 \u179a\u1794\u17bd\u179f\u1793\u17b7\u1784\u179f\u17d2\u179b\u17b6\u1794\u17cb\u178a\u17c4\u1799\u1782\u17d2\u179a\u17c4\u17c7\u1790\u17d2\u1793\u17b6\u1780\u17cb","en":"3.7.1 Injury and death due to accident","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-sta-wast.html\">SH_STA_WAST<\/a>","km":"\u17e2.\u17e2.\u17e2 \u1797\u17b6\u1782\u179a\u1799\u1780\u17bb\u1798\u17b6\u179a\u17a2\u17b6\u1799\u17bb\u1780\u17d2\u179a\u17c4\u1798\u17e5\u1786\u17d2\u1793\u17b6\u17c6\u178a\u17c2\u179b\u1798\u17b6\u1793\u1797\u17b6\u1796\u179f\u17d2\u179b\u17c1\u1780\u179f\u17d2\u179b\u17b6\u17c6\u1784\u1798\u1792\u17d2\u1799\u1798\u17ac\u1792\u17d2\u1784\u1793\u17cb\u1792\u17d2\u1784\u179a","en":"2.2.2 Percent of children under 5 years old who are moderately or severely wasted","Disaggregation combinations using this value":33,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sh-tbs-incd.html\">SH_TBS_INCD<\/a>","km":"\u17e3.\u17e4.\u17e2 \u17a2\u17b6\u17c6\u1784\u179f\u17ca\u17b8\u178a\u1784\u17cb (\u1780\u179a\u178e\u17b8\u1786\u17d2\u179b\u1784\u1790\u17d2\u1798\u17b8) \u1793\u17c3\u1787\u17c6\u1784\u17ba\u179a\u1794\u17c1\u1784 \u1780\u17d2\u1793\u17bb\u1784 \u17e1\u17e0\u17e0,\u17e0\u17e0\u17e0 \u1794\u17d2\u179a\u1787\u17b6\u1787\u1793","en":"3.4.2 Incidence of tuberculosis per 100,000 population","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--si-hei-totl.html\">SI_HEI_TOTL<\/a>","km":"\u17e1\u17e0.\u17e1.\u17e1 \u17a2\u178f\u17d2\u179a\u17b6\u1793\u17c3\u1780\u17b6\u179a\u1785\u17c6\u178e\u17b6\u1799\/\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb \u17ac\u1785\u17c6\u178e\u17bc\u179b\u179a\u1794\u179f\u17cb\u1782\u17d2\u179a\u17bd\u179f\u17b6\u179a\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1798\u1793\u17bb\u179f\u17d2\u179f\u1798\u17d2\u1793\u17b6\u1780\u17cb  \u1780\u17d2\u1793\u17bb\u1784\u1785\u17c6\u178e\u17c4\u1798\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u17e4\u17e0\u1797\u17b6\u1782\u179a\u1799\u178a\u17c2\u179b\u1798\u17b6\u1793\u1785\u17c6\u178e\u17bc\u179b\u1791\u17b6\u1794\u1787\u17b6\u1784\u1782\u17c1 \u1792\u17c0\u1794\u1793\u17b9\u1784\u1780\u17b6\u179a\u1785\u17c6\u178e\u17b6\u1799\/\u1780\u17b6\u179a\u1794\u17d2\u179a\u17be\u1794\u17d2\u179a\u17b6\u179f\u17cb \u17ac\u1785\u17c6\u178e\u17bc\u179b\u1798\u1792\u17d2\u1799\u1798\u179a\u1794\u179f\u17cb\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793","en":"10.1.1 Growth rates of household expenditure or income per capita among the bottom 40\u00a0per\u00a0cent of the population and the total population","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--si-pov-50mi.html\">SI_POV_50MI<\/a>","km":"\u17e1\u17e0.\u17e2.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793\u178a\u17c2\u179b\u179a\u179f\u17cb\u1793\u17c5\u1780\u17d2\u179a\u17c4\u1798 \u17e5\u17e0\u1797\u17b6\u1782\u179a\u1799 \u1793\u17c3\u1798\u17c1\u178a\u17d2\u1799\u17b6\u1793\u1785\u17c6\u178e\u17bc\u179b \u178f\u17b6\u1798 \u17a2\u17b6\u1799\u17bb \u1797\u17c1\u1791 \u1793\u17b7\u1784\u1787\u1793\u1796\u17b7\u1780\u17b6\u179a","en":"10.2.1 Proportion of people living below 50\u00a0per\u00a0cent of median income","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--si-pov-nahc.html\">SI_POV_NAHC<\/a>","km":"\u17e1.\u17e2.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u1794\u17d2\u179a\u1787\u17b6\u179a\u17b6\u179f\u17d2\u179a\u17d2\u178f\u1793\u17c5\u1780\u17d2\u179a\u17c4\u1798\u1794\u1793\u17d2\u1791\u17b6\u178f\u17cb\u1797\u17b6\u1796\u1780\u17d2\u179a\u17b8\u1780\u17d2\u179a\u1790\u17d2\u1793\u17b6\u1780\u17cb\u1787\u17b6\u178f\u17b7","en":"1.2.1 Proportion of population below national poverty line","Disaggregation combinations using this value":4,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--si-pov-nmpi.html\">SI_POV_NMPI<\/a>","km":"\u17e1.\u17e2.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a \u1780\u17bb\u1798\u17b6\u179a \u178a\u17c2\u179b\u179a\u179f\u17cb\u1793\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1797\u17b6\u1796\u1780\u17d2\u179a\u17b8\u1780\u17d2\u179a  \u1782\u17d2\u179a\u1794\u17cb\u179f\u1798\u17b6\u179f\u1797\u17b6\u1796 \u1795\u17d2\u17a2\u17c2\u1780\u178f\u17b6\u1798\u1793\u17b7\u1799\u1798\u1793\u17d0\u1799\u179a\u1794\u179f\u17cb\u1787\u17b6\u178f\u17b7","en":"1.2.2 Proportion of children living in poverty measured by multiple dimensions according to national definitions","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sl-tlf-manf.html\">SL_TLF_MANF<\/a>","km":"\u17e9.\u17e2.\u17e1 \u179f\u1798\u1798\u17b6\u178f\u17d2\u179a\u1793\u17c3\u1785\u17c6\u1793\u17bd\u1793\u1793\u17b7\u1799\u17c4\u1787\u17b7\u178f\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6\u1780\u17d2\u1793\u17bb\u1784\u179c\u17b7\u179f\u17d0\u1799 \u179f\u17a0\u1782\u17d2\u179a\u17b6\u179f\u1780\u1798\u17d2\u1798\u1793\u17d2\u178f\u179f\u17b6\u179b \u1792\u17c0\u1794\u1793\u17b9\u1784\u1785\u17c6\u1793\u17bd\u1793\u1780\u17b6\u179a\u1784\u17b6\u179a\u179f\u179a\u17bb\u1794\u1780\u17d2\u1793\u17bb\u1784\u1794\u17d2\u179a\u1791\u17c1\u179f","en":"9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sp-dyn-mrbf18.html\">SP_DYN_MRBF18<\/a>","km":"\u17e5.\u17e3.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u179a\u1794\u179f\u17cb\u179f\u17d2\u178f\u17b8\u17d2\u179a\u17a2\u17b6\u1799\u17bb\u1796\u17b8\u17e2\u17e0\u178a\u179b\u17cb\u17e2\u17e4\u1786\u17d2\u1793\u17b6\u17c6\u178a\u17c2\u179b\u1794\u17b6\u1793\u179a\u17c0\u1794\u1780\u17b6\u179a\u17ac\u179a\u179f\u17cb\u1793\u17c5\u1787\u17b6\u1798\u17bd\u1799\u1782\u17d2\u1793\u17b6\n\u1798\u17bb\u1793\u17a2\u17b6\u1799\u17bb\u17e1\u17e8\u1786\u17d2\u1793\u17b6\u17c6","en":"5.3.1 Proportion of women aged 20\u201324\u00a0years who were married or in a union before age 15 and before age 18","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--st-gdp-zs.html\">ST_GDP_ZS<\/a>","km":"\u17e8.\u17e9.\u17e1 \u1797\u17b6\u1782\u179a\u1799\u1793\u17c3\u1780\u17b6\u179a\u179a\u17bd\u1798\u1785\u17c6\u178e\u17c2\u1780\u178a\u17c4\u1799\u1795\u17d2\u1791\u17b6\u179b\u17cb\u1796\u17b8\u179c\u17b7\u179f\u17d0\u1799\u1791\u17c1\u179f\u1785\u179a\u178e\u17cd \u1791\u17c5\u1780\u17d2\u1793\u17bb\u1784\u1795\u179b\u17b7\u178f\u1795\u179b\u1780\u17d2\u1793\u17bb\u1784\u179f\u17bb\u17d2\u179a\u1780\u179f\u179a\u17bb\u1794","en":"8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vc-vaw-marr.html\">VC_VAW_MARR<\/a>","km":"\u17e5.\u17e2.\u17e1 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u179a\u1794\u179f\u17cb\u179f\u17d2\u178f\u17b8\u17d2\u179a\u1793\u17b7\u1784\u1780\u17d2\u1798\u17c1\u1784\u179f\u17b8\u17d2\u179a \u178a\u17c2\u179b\u1798\u17b6\u1793\u17a2\u17b6\u1799\u17bb\u17e1\u17e5\u1786\u17d2\u1793\u17b6\u17c6 \u17a1\u17be\u1784\u178a\u17c2\u179b\u1792\u17d2\u179b\u17b6\u1794\u17cb\u1791\u1791\u17bd\u179b\u179a\u1784\u1793\u17bc\u179c\u17a2\u17c6\u1796\u17be\u17a0\u17b7\u1784\u17d2\u179f\u17b6\u179b\u17be\u179a\u17b6\u1784\u1780\u17b6\u1799\u1795\u17d2\u179b\u17bc\u179c\u1797\u17c1\u1791 \u17ac\u1795\u17bc\u17d2\u179b\u179c\u1785\u17b7\u178f\u17d2\u178f \u1796\u17b8\u178a\u17c3\u1782\u17bc\u1794\u1785\u17d2\u1785\u17bb\u1794\u17d2\u1794\u1793\u17d2\u1793 \u17ac\u17a2\u178f\u17b8\u178f\u1780\u17d2\u1793\u17bb\u1784\u179a\u1799\u17c8\u1796\u17c1\u179b\u17e1\u17e2\u1781\u17c2\u1785\u17bb\u1784\u1780\u17d2\u179a\u17c4\u1799\u1794\u17c2\u1784\u1785\u17c2\u1780\u178f\u17b6\u1798\u1791\u1798\u17d2\u179a\u1784\u17cb\u1793\u17c3\u17a2\u17c6\u1796\u17be\u17a0\u17b7\u1784\u17d2\u179f\u17b6 \u1793\u17b7\u1784\u178f\u17b6\u1798\u17a2\u17b6\u1799\u17bb","en":"5.2.1 Proportion of ever-partnered women and girls aged 15\u00a0years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vc-vaw-nonmarr.html\">VC_VAW_NONMARR<\/a>","km":"\u17e5.\u17e2.\u17e2 \u179f\u1798\u17b6\u1798\u17b6\u178f\u17d2\u179a\u179a\u1794\u179f\u17cb\u179f\u17d2\u178f\u17b8\u17d2\u179a\u1793\u17b7\u1784 \u1780\u17d2\u1798\u17c1\u1784\u179f\u17b8\u17d2\u179a \u178a\u17c2\u179b\u1798\u17b6\u1793\u17a2\u17b6\u1799\u17bb\u17e1\u17e5\u1786\u17d2\u1793\u17b6\u17c6\u17a1\u17be\u1784 \u178a\u17c2\u179b\u1792\u17d2\u179b\u17b6\u1794\u17cb\u1791\u1791\u17bd\u179b\u179a\u1784\u1793\u17bc\u179c\u17a2\u17c6\u1796\u17be\u17a0\u17b9\u1784\u17d2\u179f\u17b6\u179b\u17be\u1795\u17d2\u179b\u17bc\u179c\u1797\u17c1\u1791\u1796\u17b8\u17a2\u17d2\u1793\u1780\u1798\u17b7\u1793\u1798\u17c2\u1793\u1787\u17b6\u178a\u17c3\u1782\u17bc\u1780\u17d2\u1793\u17bb\u1784\u179a\u1799\u17c8\u1796\u17c1\u179b\u17e1\u17e2\u1781\u17c2 \u1785\u17bb\u1784\u1780\u17d2\u179a\u17c4\u1799\u1794\u17c2\u1784\u1785\u17c2\u1780\u178f\u17b6\u1798\u17a2\u17b6\u1799\u17bb","en":"5.2.2 Proportion of women and girls aged 15\u00a0years and older subjected to sexual violence by persons other than an\u00a0intimate partner in the previous 12\u00a0months, by age and place of occurrence","Disaggregation combinations using this value":1,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--series.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--series">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--series" class="download-info">Size: 1.1 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">138</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-2-1</td>
+    </tr>
+    <tr>
+      <td>#1-2-2</td>
+    </tr>
+    <tr>
+      <td>#1-3-1</td>
+    </tr>
+    <tr>
+      <td>#1-4-1</td>
+    </tr>
+    <tr>
+      <td>#10-1-1</td>
+    </tr>
+    <tr>
+      <td>#10-2-1</td>
+    </tr>
+    <tr>
+      <td>#10-4-1</td>
+    </tr>
+    <tr>
+      <td>#10-a-1</td>
+    </tr>
+    <tr>
+      <td>#10-b-1</td>
+    </tr>
+    <tr>
+      <td>#11-6-1</td>
+    </tr>
+    <tr>
+      <td>#11-6-2</td>
+    </tr>
+    <tr>
+      <td>#11-6-3</td>
+    </tr>
+    <tr>
+      <td>#11-6-4</td>
+    </tr>
+    <tr>
+      <td>#12-4-1</td>
+    </tr>
+    <tr>
+      <td>#12-4-2</td>
+    </tr>
+    <tr>
+      <td>#12-4-3</td>
+    </tr>
+    <tr>
+      <td>#12-5-1</td>
+    </tr>
+    <tr>
+      <td>#13-1-1</td>
+    </tr>
+    <tr>
+      <td>#13-2-1</td>
+    </tr>
+    <tr>
+      <td>#13-2-2</td>
+    </tr>
+    <tr>
+      <td>#13-3-1</td>
+    </tr>
+    <tr>
+      <td>#13-3-2</td>
+    </tr>
+    <tr>
+      <td>#14-1-1</td>
+    </tr>
+    <tr>
+      <td>#14-2-1</td>
+    </tr>
+    <tr>
+      <td>#14-2-2</td>
+    </tr>
+    <tr>
+      <td>#14-5-1</td>
+    </tr>
+    <tr>
+      <td>#14-7-1</td>
+    </tr>
+    <tr>
+      <td>#14-b-1</td>
+    </tr>
+    <tr>
+      <td>#15-1-1</td>
+    </tr>
+    <tr>
+      <td>#15-1-2</td>
+    </tr>
+    <tr>
+      <td>#15-1-3</td>
+    </tr>
+    <tr>
+      <td>#15-2-1</td>
+    </tr>
+    <tr>
+      <td>#15-3-1</td>
+    </tr>
+    <tr>
+      <td>#15-5-1</td>
+    </tr>
+    <tr>
+      <td>#15-7-1</td>
+    </tr>
+    <tr>
+      <td>#15-9-2</td>
+    </tr>
+    <tr>
+      <td>#15-b-1</td>
+    </tr>
+    <tr>
+      <td>#16-3-1</td>
+    </tr>
+    <tr>
+      <td>#16-7-1</td>
+    </tr>
+    <tr>
+      <td>#16-9-1</td>
+    </tr>
+    <tr>
+      <td>#17-10-1</td>
+    </tr>
+    <tr>
+      <td>#17-17-1</td>
+    </tr>
+    <tr>
+      <td>#17-18-1</td>
+    </tr>
+    <tr>
+      <td>#17-18-2</td>
+    </tr>
+    <tr>
+      <td>#17-19-1</td>
+    </tr>
+    <tr>
+      <td>#17-3-1</td>
+    </tr>
+    <tr>
+      <td>#17-6-1</td>
+    </tr>
+    <tr>
+      <td>#17-8-1</td>
+    </tr>
+    <tr>
+      <td>#17-9-1</td>
+    </tr>
+    <tr>
+      <td>#17-9-2</td>
+    </tr>
+    <tr>
+      <td>#18-1-1</td>
+    </tr>
+    <tr>
+      <td>#18-2-1</td>
+    </tr>
+    <tr>
+      <td>#18-2-2</td>
+    </tr>
+    <tr>
+      <td>#18-3-1</td>
+    </tr>
+    <tr>
+      <td>#18-3-2</td>
+    </tr>
+    <tr>
+      <td>#18-3-3</td>
+    </tr>
+    <tr>
+      <td>#2-2-1</td>
+    </tr>
+    <tr>
+      <td>#2-2-2</td>
+    </tr>
+    <tr>
+      <td>#2-3-1</td>
+    </tr>
+    <tr>
+      <td>#2-4-1</td>
+    </tr>
+    <tr>
+      <td>#2-5-1</td>
+    </tr>
+    <tr>
+      <td>#2-5-2</td>
+    </tr>
+    <tr>
+      <td>#2-a-1</td>
+    </tr>
+    <tr>
+      <td>#3-1-1</td>
+    </tr>
+    <tr>
+      <td>#3-1-2</td>
+    </tr>
+    <tr>
+      <td>#3-2-1</td>
+    </tr>
+    <tr>
+      <td>#3-2-2</td>
+    </tr>
+    <tr>
+      <td>#3-3-1</td>
+    </tr>
+    <tr>
+      <td>#3-3-2</td>
+    </tr>
+    <tr>
+      <td>#3-4-1</td>
+    </tr>
+    <tr>
+      <td>#3-4-2</td>
+    </tr>
+    <tr>
+      <td>#3-4-3</td>
+    </tr>
+    <tr>
+      <td>#3-5-1</td>
+    </tr>
+    <tr>
+      <td>#3-5-2</td>
+    </tr>
+    <tr>
+      <td>#3-6-1</td>
+    </tr>
+    <tr>
+      <td>#3-6-2</td>
+    </tr>
+    <tr>
+      <td>#3-7-1</td>
+    </tr>
+    <tr>
+      <td>#3-8-1</td>
+    </tr>
+    <tr>
+      <td>#3-8-2</td>
+    </tr>
+    <tr>
+      <td>#3-9-1</td>
+    </tr>
+    <tr>
+      <td>#3-9-2</td>
+    </tr>
+    <tr>
+      <td>#3-a-1</td>
+    </tr>
+    <tr>
+      <td>#3-a-2</td>
+    </tr>
+    <tr>
+      <td>#3-c-1</td>
+    </tr>
+    <tr>
+      <td>#4-1-1-1</td>
+    </tr>
+    <tr>
+      <td>#4-1-1-2</td>
+    </tr>
+    <tr>
+      <td>#4-2-1</td>
+    </tr>
+    <tr>
+      <td>#4-2-2</td>
+    </tr>
+    <tr>
+      <td>#4-3-1</td>
+    </tr>
+    <tr>
+      <td>#4-3-2</td>
+    </tr>
+    <tr>
+      <td>#4-5-1</td>
+    </tr>
+    <tr>
+      <td>#4-5-2</td>
+    </tr>
+    <tr>
+      <td>#4-6-1</td>
+    </tr>
+    <tr>
+      <td>#4-a-1</td>
+    </tr>
+    <tr>
+      <td>#4-a-2</td>
+    </tr>
+    <tr>
+      <td>#4-a-3</td>
+    </tr>
+    <tr>
+      <td>#4-c-1</td>
+    </tr>
+    <tr>
+      <td>#4-c-2</td>
+    </tr>
+    <tr>
+      <td>#4-c-3</td>
+    </tr>
+    <tr>
+      <td>#4-c-4</td>
+    </tr>
+    <tr>
+      <td>#4-c-5Percentage</td>
+    </tr>
+    <tr>
+      <td>#5-1-1</td>
+    </tr>
+    <tr>
+      <td>#5-2-1</td>
+    </tr>
+    <tr>
+      <td>#5-2-2</td>
+    </tr>
+    <tr>
+      <td>#5-3-1</td>
+    </tr>
+    <tr>
+      <td>#5-4-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-2</td>
+    </tr>
+    <tr>
+      <td>#5-5-3</td>
+    </tr>
+    <tr>
+      <td>#5-6-1</td>
+    </tr>
+    <tr>
+      <td>#5-6-2</td>
+    </tr>
+    <tr>
+      <td>#5-c-1</td>
+    </tr>
+    <tr>
+      <td>#5-c-2</td>
+    </tr>
+    <tr>
+      <td>#6-1-1</td>
+    </tr>
+    <tr>
+      <td>#6-2-1</td>
+    </tr>
+    <tr>
+      <td>#6-3-1</td>
+    </tr>
+    <tr>
+      <td>#6-4-1</td>
+    </tr>
+    <tr>
+      <td>#6-a-1</td>
+    </tr>
+    <tr>
+      <td>#7-1-1</td>
+    </tr>
+    <tr>
+      <td>#7-1-2</td>
+    </tr>
+    <tr>
+      <td>#7-2-1</td>
+    </tr>
+    <tr>
+      <td>#7-3-1</td>
+    </tr>
+    <tr>
+      <td>#8-1-1</td>
+    </tr>
+    <tr>
+      <td>#8-2-2-1</td>
+    </tr>
+    <tr>
+      <td>#8-2-2-2</td>
+    </tr>
+    <tr>
+      <td>#8-2-2-3</td>
+    </tr>
+    <tr>
+      <td>#8-2-3-1</td>
+    </tr>
+    <tr>
+      <td>#8-2-3-2</td>
+    </tr>
+    <tr>
+      <td>#8-9-1</td>
+    </tr>
+    <tr>
+      <td>#8-9-2</td>
+    </tr>
+    <tr>
+      <td>#8-a-1</td>
+    </tr>
+    <tr>
+      <td>#9-1-1</td>
+    </tr>
+    <tr>
+      <td>#9-1-2</td>
+    </tr>
+    <tr>
+      <td>#9-1-3</td>
+    </tr>
+    <tr>
+      <td>#9-2-1</td>
+    </tr>
+    <tr>
+      <td>#9-5-1</td>
+    </tr>
+    <tr>
+      <td>#9-a-1</td>
+    </tr>
+    <tr>
+      <td>#9-c-1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-2-1"},{"Indicator":"#1-2-2"},{"Indicator":"#1-3-1"},{"Indicator":"#1-4-1"},{"Indicator":"#10-1-1"},{"Indicator":"#10-2-1"},{"Indicator":"#10-4-1"},{"Indicator":"#10-a-1"},{"Indicator":"#10-b-1"},{"Indicator":"#11-6-1"},{"Indicator":"#11-6-2"},{"Indicator":"#11-6-3"},{"Indicator":"#11-6-4"},{"Indicator":"#12-4-1"},{"Indicator":"#12-4-2"},{"Indicator":"#12-4-3"},{"Indicator":"#12-5-1"},{"Indicator":"#13-1-1"},{"Indicator":"#13-2-1"},{"Indicator":"#13-2-2"},{"Indicator":"#13-3-1"},{"Indicator":"#13-3-2"},{"Indicator":"#14-1-1"},{"Indicator":"#14-2-1"},{"Indicator":"#14-2-2"},{"Indicator":"#14-5-1"},{"Indicator":"#14-7-1"},{"Indicator":"#14-b-1"},{"Indicator":"#15-1-1"},{"Indicator":"#15-1-2"},{"Indicator":"#15-1-3"},{"Indicator":"#15-2-1"},{"Indicator":"#15-3-1"},{"Indicator":"#15-5-1"},{"Indicator":"#15-7-1"},{"Indicator":"#15-9-2"},{"Indicator":"#15-b-1"},{"Indicator":"#16-3-1"},{"Indicator":"#16-7-1"},{"Indicator":"#16-9-1"},{"Indicator":"#17-10-1"},{"Indicator":"#17-17-1"},{"Indicator":"#17-18-1"},{"Indicator":"#17-18-2"},{"Indicator":"#17-19-1"},{"Indicator":"#17-3-1"},{"Indicator":"#17-6-1"},{"Indicator":"#17-8-1"},{"Indicator":"#17-9-1"},{"Indicator":"#17-9-2"},{"Indicator":"#18-1-1"},{"Indicator":"#18-2-1"},{"Indicator":"#18-2-2"},{"Indicator":"#18-3-1"},{"Indicator":"#18-3-2"},{"Indicator":"#18-3-3"},{"Indicator":"#2-2-1"},{"Indicator":"#2-2-2"},{"Indicator":"#2-3-1"},{"Indicator":"#2-4-1"},{"Indicator":"#2-5-1"},{"Indicator":"#2-5-2"},{"Indicator":"#2-a-1"},{"Indicator":"#3-1-1"},{"Indicator":"#3-1-2"},{"Indicator":"#3-2-1"},{"Indicator":"#3-2-2"},{"Indicator":"#3-3-1"},{"Indicator":"#3-3-2"},{"Indicator":"#3-4-1"},{"Indicator":"#3-4-2"},{"Indicator":"#3-4-3"},{"Indicator":"#3-5-1"},{"Indicator":"#3-5-2"},{"Indicator":"#3-6-1"},{"Indicator":"#3-6-2"},{"Indicator":"#3-7-1"},{"Indicator":"#3-8-1"},{"Indicator":"#3-8-2"},{"Indicator":"#3-9-1"},{"Indicator":"#3-9-2"},{"Indicator":"#3-a-1"},{"Indicator":"#3-a-2"},{"Indicator":"#3-c-1"},{"Indicator":"#4-1-1-1"},{"Indicator":"#4-1-1-2"},{"Indicator":"#4-2-1"},{"Indicator":"#4-2-2"},{"Indicator":"#4-3-1"},{"Indicator":"#4-3-2"},{"Indicator":"#4-5-1"},{"Indicator":"#4-5-2"},{"Indicator":"#4-6-1"},{"Indicator":"#4-a-1"},{"Indicator":"#4-a-2"},{"Indicator":"#4-a-3"},{"Indicator":"#4-c-1"},{"Indicator":"#4-c-2"},{"Indicator":"#4-c-3"},{"Indicator":"#4-c-4"},{"Indicator":"#4-c-5Percentage"},{"Indicator":"#5-1-1"},{"Indicator":"#5-2-1"},{"Indicator":"#5-2-2"},{"Indicator":"#5-3-1"},{"Indicator":"#5-4-1"},{"Indicator":"#5-5-1"},{"Indicator":"#5-5-2"},{"Indicator":"#5-5-3"},{"Indicator":"#5-6-1"},{"Indicator":"#5-6-2"},{"Indicator":"#5-c-1"},{"Indicator":"#5-c-2"},{"Indicator":"#6-1-1"},{"Indicator":"#6-2-1"},{"Indicator":"#6-3-1"},{"Indicator":"#6-4-1"},{"Indicator":"#6-a-1"},{"Indicator":"#7-1-1"},{"Indicator":"#7-1-2"},{"Indicator":"#7-2-1"},{"Indicator":"#7-3-1"},{"Indicator":"#8-1-1"},{"Indicator":"#8-2-2-1"},{"Indicator":"#8-2-2-2"},{"Indicator":"#8-2-2-3"},{"Indicator":"#8-2-3-1"},{"Indicator":"#8-2-3-2"},{"Indicator":"#8-9-1"},{"Indicator":"#8-9-2"},{"Indicator":"#8-a-1"},{"Indicator":"#9-1-1"},{"Indicator":"#9-1-2"},{"Indicator":"#9-1-3"},{"Indicator":"#9-2-1"},{"Indicator":"#9-5-1"},{"Indicator":"#9-a-1"},{"Indicator":"#9-c-1"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

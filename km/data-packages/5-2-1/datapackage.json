@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី"
+              ]
+            },
+            "title": "ការរួមភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "5-2-1"
+}

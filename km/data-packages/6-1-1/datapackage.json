@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
+                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
+                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
+                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
+                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-1-1",
+  "title": "6-1-1"
+}

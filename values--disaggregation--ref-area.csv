@@ -1,0 +1,34 @@
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+KH_AGG_KH02_KH24,ខេត្តបាត់ដំបងនិងប៉ៃលិន,Battambang and Pailin,6,6
+KH_AGG_KH07_KH18_KH23,កំពតព្រះសីហនុនិងកែប,"Kampot, Preah Sihanouk and Kep",6,6
+KH_AGG_KH07_KH23,កំពតនិងកែប,Kampot and Kep,6,6
+KH_AGG_KH10_KH13_KH19,ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង,"Kratie, Preah Vihear and Stung Treng",6,6
+KH_AGG_KH11_KH16,មណ្ឌលគីរីនិងរតនគិរី,Mondul Kiri and Ratanak Kiri,6,6
+KH_AGG_KH13_KH19,ព្រះវិហារនិងស្ទឹងត្រែង,Preah Vihear and Stung Treng,6,6
+KH_AGG_KH22_KH17,ឧត្តរមានជ័យនិងសៀមរាប,Otdar Meanchey and Siem Reap,6,6
+KH_KH09_KH18,កោះកុងនិងព្រះសីហនុ,Koh Kong and Preah Sihanouk,6,6
+KH01,បន្ទាយមានជ័យ,Banteay Meanchey,18,12
+KH02,បាត់ដំបង,Battambang,13,7
+KH03,កំពង់ចាម,Kampong Cham,18,12
+KH04,កំពង់ឆ្នាំង,Kampong Chhnang,18,12
+KH05,កំពង់ស្ពឺ,Kampong Speu,18,12
+KH06,កំពង់ធំ,Kampong Thom,18,12
+KH07,កំពត,Kampot,13,7
+KH08,កណ្តាល,Kandal,18,12
+KH09,កោះកុង,Koh Kong,18,12
+KH10,ខេត្តក្រចេះ,Kratie,18,12
+KH11,មណ្ឌលគីរី,Mondul Kiri,13,7
+KH12,ភ្នំពេញ,Phnom Penh,19,13
+KH13,ព្រះវិហារ,Preah Vihear,13,7
+KH14,ព្រៃវែង,Prey Veng,18,12
+KH15,ពោធិសាត់,Pursat,18,12
+KH16,រតនគិរី,Ratanak Kiri,13,7
+KH17,សៀមរាប,Siemreap,18,12
+KH18,ព្រះសីហនុ,Preah Sihanouk,13,7
+KH19,ស្ទឹងត្រែង,Stung Treng,13,7
+KH20,ស្វាយរៀង,Svay Rieng,18,12
+KH21,តាកែវ,Takeo,18,12
+KH22,ឧត្តរមានជ័យ,Oddar Meanchey,18,12
+KH23,កែប,Kep,13,7
+KH24,ប៉ៃលិន,Pailin,13,7
+KH25,ត្បូងឃ្មុំ,Tboung Khmum,7,3
