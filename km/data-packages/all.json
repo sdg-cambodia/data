@@ -3,6 +3,1312 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "9-2-1/data.csv",
+      "name": "9-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "9-2-1"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ភ្នំពេញ"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-2-1"
+    },
+    {
+      "path": "10-4-1/data.csv",
+      "name": "10-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ភ្នំពេញ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ព្រះសីហនុ",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-4-1"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-5-1"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី",
+                "ប្រុស"
+              ]
+            },
+            "title": "ការរួមភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-2-1"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "7-1-2"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-2-3"
+    },
+    {
+      "path": "1-a-2/data.csv",
+      "name": "1-a-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-a-2"
+    },
+    {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-3-1"
+    },
+    {
+      "path": "4-3-2/data.csv",
+      "name": "4-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-3-2"
+    },
+    {
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី",
+                "ប្រុស"
+              ]
+            },
+            "title": "ការរួមភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-2-2"
+    },
+    {
+      "path": "10-1-1/data.csv",
+      "name": "10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បាត ៤០%"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "10-1-1"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-2-2"
+    },
+    {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ភ្នំពេញ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ព្រះសីហនុ",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី",
+                "ប្រុស"
+              ]
+            },
+            "title": "ការរួមភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-1-1"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ភ្នំពេញ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ព្រះសីហនុ",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី"
+              ]
+            },
+            "title": "ការរួមភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-2-1"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
+                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
+                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
+                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
+                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "6-1-1"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "7-1-1"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ១៨ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "1-2-2"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ភ្នំពេញ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ព្រះសីហនុ",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-1-2"
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
+                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
+                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "6-2-1"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "2-3-1"
+    },
+    {
       "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
@@ -133,50 +1439,6 @@
         ]
       },
       "title": "9-5-1"
-    },
-    {
-      "path": "9-2-1/data.csv",
-      "name": "9-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "9-2-1"
     },
     {
       "path": "9-1-3/data.csv",
@@ -795,50 +2057,6 @@
       "title": "7-2-1"
     },
     {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "7-1-2"
-    },
-    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -969,146 +2187,6 @@
         ]
       },
       "title": "6-3-1"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
-                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
-                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា"
-              ]
-            },
-            "title": "ការវិភាគសមាសធាតុ"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "6-2-1"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
-                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
-                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
-                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
-                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង"
-              ]
-            },
-            "title": "ការវិភាគសមាសធាតុ"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "6-1-1"
     },
     {
       "path": "5-c-2/data.csv",
@@ -2368,61 +3446,6 @@
         ]
       },
       "title": "4-5-1"
-    },
-    {
-      "path": "4-3-2/data.csv",
-      "name": "4-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ"
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "4-3-2"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3752,344 +4775,6 @@
       "title": "3-3-1"
     },
     {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "ភ្នំពេញ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "សៀមរាប",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
-                "កំពតព្រះសីហនុនិងកែប",
-                "កំពតនិងកែប",
-                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
-                "មណ្ឌលគីរីនិងរតនគិរី",
-                "ព្រះវិហារនិងស្ទឹងត្រែង",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កោះកុងនិងព្រះសីហនុ"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-2-2"
-    },
-    {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "បាត់ដំបង",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កំពត",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "មណ្ឌលគីរី",
-                "ភ្នំពេញ",
-                "ព្រះវិហារ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "រតនគិរី",
-                "សៀមរាប",
-                "ព្រះសីហនុ",
-                "ស្ទឹងត្រែង",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "កែប",
-                "ប៉ៃលិន"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ស្រី"
-              ]
-            },
-            "title": "ការរួមភេទ"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-2-1"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "បាត់ដំបង",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កំពត",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "មណ្ឌលគីរី",
-                "ភ្នំពេញ",
-                "ព្រះវិហារ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "រតនគិរី",
-                "សៀមរាប",
-                "ព្រះសីហនុ",
-                "ស្ទឹងត្រែង",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "កែប",
-                "ប៉ៃលិន",
-                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
-                "កំពតព្រះសីហនុនិងកែប",
-                "កំពតនិងកែប",
-                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
-                "មណ្ឌលគីរីនិងរតនគិរី",
-                "ព្រះវិហារនិងស្ទឹងត្រែង",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កោះកុងនិងព្រះសីហនុ"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-1-2"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "បាត់ដំបង",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កំពត",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "មណ្ឌលគីរី",
-                "ភ្នំពេញ",
-                "ព្រះវិហារ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "រតនគិរី",
-                "សៀមរាប",
-                "ព្រះសីហនុ",
-                "ស្ទឹងត្រែង",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "កែប",
-                "ប៉ៃលិន"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ស្រី",
-                "ប្រុស"
-              ]
-            },
-            "title": "ការរួមភេទ"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "3-1-1"
-    },
-    {
       "path": "2-a-1/data.csv",
       "name": "2-a-1",
       "profile": "tabular-data-resource",
@@ -4264,284 +4949,6 @@
         ]
       },
       "title": "2-4-1"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "2-3-1"
-    },
-    {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "អាយុក្រោម ៥ ឆ្នាំ"
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "ភ្នំពេញ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "សៀមរាប",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
-                "កំពតព្រះសីហនុនិងកែប",
-                "កំពតនិងកែប",
-                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
-                "មណ្ឌលគីរីនិងរតនគិរី",
-                "ព្រះវិហារនិងស្ទឹងត្រែង",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កោះកុងនិងព្រះសីហនុ"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ស្រី",
-                "ប្រុស"
-              ]
-            },
-            "title": "ការរួមភេទ"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "2-2-2"
-    },
-    {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "អាយុក្រោម ៥ ឆ្នាំ"
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "ភ្នំពេញ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "សៀមរាប",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
-                "កំពតព្រះសីហនុនិងកែប",
-                "កំពតនិងកែប",
-                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
-                "មណ្ឌលគីរីនិងរតនគិរី",
-                "ព្រះវិហារនិងស្ទឹងត្រែង",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កោះកុងនិងព្រះសីហនុ"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ស្រី",
-                "ប្រុស"
-              ]
-            },
-            "title": "ការរួមភេទ"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "2-2-1"
     },
     {
       "path": "18-3-3/data.csv",
@@ -6667,74 +7074,6 @@
       "title": "10-a-1"
     },
     {
-      "path": "10-4-1/data.csv",
-      "name": "10-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បន្ទាយមានជ័យ",
-                "បាត់ដំបង",
-                "កំពង់ចាម",
-                "កំពង់ឆ្នាំង",
-                "កំពង់ស្ពឺ",
-                "កំពង់ធំ",
-                "កំពត",
-                "កណ្តាល",
-                "កោះកុង",
-                "ខេត្តក្រចេះ",
-                "មណ្ឌលគីរី",
-                "ភ្នំពេញ",
-                "ព្រះវិហារ",
-                "ព្រៃវែង",
-                "ពោធិសាត់",
-                "រតនគិរី",
-                "សៀមរាប",
-                "ព្រះសីហនុ",
-                "ស្ទឹងត្រែង",
-                "ស្វាយរៀង",
-                "តាកែវ",
-                "ឧត្តរមានជ័យ",
-                "កែប",
-                "ប៉ៃលិន"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "10-4-1"
-    },
-    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -6790,61 +7129,6 @@
       "title": "10-2-1"
     },
     {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "បាត ៤០%"
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "10-1-1"
-    },
-    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -6887,218 +7171,6 @@
         ]
       },
       "title": "1-4-1"
-    },
-    {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "1-3-1"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "អាយុក្រោម ១៨ ឆ្នាំ"
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "1-2-2"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ភ្នំពេញ"
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "1-2-1"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "ជនបទ",
-                "ទីប្រជុំជន"
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "7-1-1"
     },
     {
       "path": "16-9-1/data.csv",
