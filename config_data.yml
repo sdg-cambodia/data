@@ -45,6 +45,12 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*.yml
+    git: false
+  - class: InputWordMeta
+    path_pattern: meta/*.docm
+    git: false
   - class: InputSdmxMl_Structure
     source: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..............
     dsd: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial
