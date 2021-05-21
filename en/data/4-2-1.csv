@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,62.0
-2016,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,63.4
-2017,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,64.0
-2018,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,65.0
-2019,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,65.5
-2020,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,68.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,62.0
+2016,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,63.4
+2017,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,64.0
+2018,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,65.0
+2019,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,65.5
+2020,4.2.1 Proportion of grade 1 student passed through all ECE programs,,Percent,,68.0

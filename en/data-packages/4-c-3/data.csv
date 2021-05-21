@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Education level,UNIT_MEASURE,Value
-2015,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,61.0
-2016,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,70.2
-2017,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,72.1
-2018,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,73.0
-2019,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,74.4
-2020,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,75.8
+Year,SERIES,Reference area,Education level,UNIT_MEASURE,GeoCode,Value
+2015,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,61.0
+2016,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,70.2
+2017,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,72.1
+2018,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,73.0
+2019,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,74.4
+2020,4.c.3 Percentage of primary teachers qualified according to national standards,,Primary education,Percent,,75.8

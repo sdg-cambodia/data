@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,280,Number,18.3.1 The number of mine and ERW casualties received rights promotion
-2016,296,Number,18.3.1 The number of mine and ERW casualties received rights promotion
-2017,309,Number,18.3.1 The number of mine and ERW casualties received rights promotion
-2018,324,Number,18.3.1 The number of mine and ERW casualties received rights promotion
-2019,340,Number,18.3.1 The number of mine and ERW casualties received rights promotion
-2020,357,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,280,,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+2016,296,,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+2017,309,,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+2018,324,,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+2019,340,,Number,18.3.1 The number of mine and ERW casualties received rights promotion
+2020,357,,Number,18.3.1 The number of mine and ERW casualties received rights promotion

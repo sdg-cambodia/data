@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,-2
-2016,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,22
-2017,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,22
-2018,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,6
-2019,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,4
-2020,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,14
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,-2
+2016,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,22
+2017,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,22
+2018,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,6
+2019,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,4
+2020,8.2.2.3 Growth Rate of online issuing the Cerficate of Origin,,Percent,,14

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.05
-2016,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.05
-2017,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.05
-2018,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.05
-2019,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.05
-2020,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",0.03
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.05
+2016,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.05
+2017,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.05
+2018,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.05
+2019,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.05
+2020,3.4.1 % of new HIV infection per 1000 uninfected population,,"Per 1,000 population",,0.03

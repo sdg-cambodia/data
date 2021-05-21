@@ -22,6 +22,11 @@
             "title": "អាយុ"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,17.3.1 Official development assistance as % of GDP,,Percent,7.4
-2016,17.3.1 Official development assistance as % of GDP,,Percent,7.35
-2017,17.3.1 Official development assistance as % of GDP,,Percent,6.87
-2018,17.3.1 Official development assistance as % of GDP,,Percent,6.42
-2019,17.3.1 Official development assistance as % of GDP,,Percent,6.0
-2020,17.3.1 Official development assistance as % of GDP,,Percent,5.61
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,17.3.1 Official development assistance as % of GDP,,Percent,,7.4
+2016,17.3.1 Official development assistance as % of GDP,,Percent,,7.35
+2017,17.3.1 Official development assistance as % of GDP,,Percent,,6.87
+2018,17.3.1 Official development assistance as % of GDP,,Percent,,6.42
+2019,17.3.1 Official development assistance as % of GDP,,Percent,,6.0
+2020,17.3.1 Official development assistance as % of GDP,,Percent,,5.61

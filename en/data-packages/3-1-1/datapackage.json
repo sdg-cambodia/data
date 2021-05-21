@@ -84,6 +84,11 @@
             "title": "Unit of measure"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -94,5 +99,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-1",
-  "title": "3-1-1"
+  "title": "Maternal mortality ratio"
 }

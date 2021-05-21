@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,35.3,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
-2016,37.0,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
-2017,41.0,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
-2018,41.8,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
-2019,42.7,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
-2020,43.5,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,35.3,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+2016,37.0,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+2017,41.0,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+2018,41.8,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+2019,42.7,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE
+2020,43.5,,Percent,4.2.2 Percentage ofchildren attended all aspects of ECE

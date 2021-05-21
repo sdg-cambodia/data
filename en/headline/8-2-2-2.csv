@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,-9,Percent,8.2.2.2 Growth rate of online trade mark registration
-2016,4,Percent,8.2.2.2 Growth rate of online trade mark registration
-2017,-11,Percent,8.2.2.2 Growth rate of online trade mark registration
-2018,6,Percent,8.2.2.2 Growth rate of online trade mark registration
-2019,5,Percent,8.2.2.2 Growth rate of online trade mark registration
-2020,-3,Percent,8.2.2.2 Growth rate of online trade mark registration
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,-9,,Percent,8.2.2.2 Growth rate of online trade mark registration
+2016,4,,Percent,8.2.2.2 Growth rate of online trade mark registration
+2017,-11,,Percent,8.2.2.2 Growth rate of online trade mark registration
+2018,6,,Percent,8.2.2.2 Growth rate of online trade mark registration
+2019,5,,Percent,8.2.2.2 Growth rate of online trade mark registration
+2020,-3,,Percent,8.2.2.2 Growth rate of online trade mark registration

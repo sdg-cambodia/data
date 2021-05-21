@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,44.11
-2016,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,51.83
-2017,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,68.4
-2018,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,84.7
-2019,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,100.38
-2020,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,93.93
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,44.11
+2016,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,51.83
+2017,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,68.4
+2018,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,84.7
+2019,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,100.38
+2020,"9.c.1 Proportion of population covered by a mobile network, by technology",,Percent,,93.93

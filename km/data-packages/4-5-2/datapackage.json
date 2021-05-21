@@ -22,6 +22,11 @@
             "title": "កម្រិត​ការ​អប់រំ"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {

@@ -1,4 +1,4 @@
-Year,Value,UNIT_MEASURE,SERIES
-2018,75,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
-2019,125,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
-2020,50,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2018,75,,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
+2019,125,,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
+2020,50,,Number,8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement

@@ -1,6 +1,6 @@
-Year,Value,UNIT_MEASURE,SERIES
-2016,1600,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
-2017,1550,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
-2018,1500,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
-2019,1450,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
-2020,1400,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,1600,,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+2017,1550,,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+2018,1500,,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+2019,1450,,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+2020,1400,,Number,15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased

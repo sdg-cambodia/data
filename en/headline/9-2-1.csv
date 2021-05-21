@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,10,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
-2016,10,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
-2017,12,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
-2018,13,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
-2019,14,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
-2020,15,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,10,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+2016,10,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+2017,12,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+2018,13,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+2019,14,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+2020,15,,Percent,9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry

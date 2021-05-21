@@ -1,6 +1,6 @@
-Year,Value,UNIT_MEASURE,SERIES
-2016,0.018,Percent,8.a.1 Aid for Trade Commitments and Disbursements
-2017,0.017,Percent,8.a.1 Aid for Trade Commitments and Disbursements
-2018,0.016,Percent,8.a.1 Aid for Trade Commitments and Disbursements
-2019,0.015,Percent,8.a.1 Aid for Trade Commitments and Disbursements
-2020,0.014,Percent,8.a.1 Aid for Trade Commitments and Disbursements
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,0.018,,Percent,8.a.1 Aid for Trade Commitments and Disbursements
+2017,0.017,,Percent,8.a.1 Aid for Trade Commitments and Disbursements
+2018,0.016,,Percent,8.a.1 Aid for Trade Commitments and Disbursements
+2019,0.015,,Percent,8.a.1 Aid for Trade Commitments and Disbursements
+2020,0.014,,Percent,8.a.1 Aid for Trade Commitments and Disbursements

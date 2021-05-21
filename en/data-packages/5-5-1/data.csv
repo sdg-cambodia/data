@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2008,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,18.37
-2009,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,18.37
-2010,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,17.05
-2015,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,17.8
-2016,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,17.8
-2018,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,25.0
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2008,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,18.37
+2009,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,18.37
+2010,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.05
+2015,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.8
+2016,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.8
+2018,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,25.0

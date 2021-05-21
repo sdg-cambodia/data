@@ -1,13 +1,13 @@
-Year,Value,UNIT_MEASURE,SERIES
-1993,39.0,Percent,1.2.1 Proportion of population below national poverty line
-1997,36.1,Percent,1.2.1 Proportion of population below national poverty line
-1999,35.9,Percent,1.2.1 Proportion of population below national poverty line
-2004,34.68,Percent,1.2.1 Proportion of population below national poverty line
-2007,47.8,Percent,1.2.1 Proportion of population below national poverty line
-2008,29.9,Percent,1.2.1 Proportion of population below national poverty line
-2009,22.9,Percent,1.2.1 Proportion of population below national poverty line
-2010,21.1,Percent,1.2.1 Proportion of population below national poverty line
-2011,19.8,Percent,1.2.1 Proportion of population below national poverty line
-2012,18.9,Percent,1.2.1 Proportion of population below national poverty line
-2013,16.0,Percent,1.2.1 Proportion of population below national poverty line
-2014,13.5,Percent,1.2.1 Proportion of population below national poverty line
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+1993,39.0,,Percent,1.2.1 Proportion of population below national poverty line
+1997,36.1,,Percent,1.2.1 Proportion of population below national poverty line
+1999,35.9,,Percent,1.2.1 Proportion of population below national poverty line
+2004,34.68,,Percent,1.2.1 Proportion of population below national poverty line
+2007,47.8,,Percent,1.2.1 Proportion of population below national poverty line
+2008,29.9,,Percent,1.2.1 Proportion of population below national poverty line
+2009,22.9,,Percent,1.2.1 Proportion of population below national poverty line
+2010,21.1,,Percent,1.2.1 Proportion of population below national poverty line
+2011,19.8,,Percent,1.2.1 Proportion of population below national poverty line
+2012,18.9,,Percent,1.2.1 Proportion of population below national poverty line
+2013,16.0,,Percent,1.2.1 Proportion of population below national poverty line
+2014,13.5,,Percent,1.2.1 Proportion of population below national poverty line

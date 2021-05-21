@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,9.1.1 Freight volumes of ports and railway,,Metric Tons,6250000
-2016,9.1.1 Freight volumes of ports and railway,,Metric Tons,6890000
-2017,9.1.1 Freight volumes of ports and railway,,Metric Tons,7654000
-2018,9.1.1 Freight volumes of ports and railway,,Metric Tons,7944000
-2019,9.1.1 Freight volumes of ports and railway,,Metric Tons,8461000
-2020,9.1.1 Freight volumes of ports and railway,,Metric Tons,12428000
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,9.1.1 Freight volumes of ports and railway,,Metric Tons,,6250000
+2016,9.1.1 Freight volumes of ports and railway,,Metric Tons,,6890000
+2017,9.1.1 Freight volumes of ports and railway,,Metric Tons,,7654000
+2018,9.1.1 Freight volumes of ports and railway,,Metric Tons,,7944000
+2019,9.1.1 Freight volumes of ports and railway,,Metric Tons,,8461000
+2020,9.1.1 Freight volumes of ports and railway,,Metric Tons,,12428000

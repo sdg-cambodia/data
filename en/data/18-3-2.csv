@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,1500
-2016,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,2300
-2017,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,3577
-2018,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,3648
-2019,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,3731
-2020,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,3785
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,1500
+2016,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,2300
+2017,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,3577
+2018,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,3648
+2019,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,3731
+2020,18.3.2 The number of mine and ERW casualties received rehabilitation service,,Number,,3785

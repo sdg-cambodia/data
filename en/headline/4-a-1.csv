@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,27.0,Percent,4.a.1 Proportion of schools with access to basic drinking water
-2016,47.9,Percent,4.a.1 Proportion of schools with access to basic drinking water
-2017,48.2,Percent,4.a.1 Proportion of schools with access to basic drinking water
-2018,46.7,Percent,4.a.1 Proportion of schools with access to basic drinking water
-2019,51.1,Percent,4.a.1 Proportion of schools with access to basic drinking water
-2020,55.6,Percent,4.a.1 Proportion of schools with access to basic drinking water
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,27.0,,Percent,4.a.1 Proportion of schools with access to basic drinking water
+2016,47.9,,Percent,4.a.1 Proportion of schools with access to basic drinking water
+2017,48.2,,Percent,4.a.1 Proportion of schools with access to basic drinking water
+2018,46.7,,Percent,4.a.1 Proportion of schools with access to basic drinking water
+2019,51.1,,Percent,4.a.1 Proportion of schools with access to basic drinking water
+2020,55.6,,Percent,4.a.1 Proportion of schools with access to basic drinking water

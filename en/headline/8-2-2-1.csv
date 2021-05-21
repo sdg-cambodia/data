@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,15,Percent,8.2.2.1 Growth rate of online company registration
-2016,-4,Percent,8.2.2.1 Growth rate of online company registration
-2017,25,Percent,8.2.2.1 Growth rate of online company registration
-2018,92,Percent,8.2.2.1 Growth rate of online company registration
-2019,-1,Percent,8.2.2.1 Growth rate of online company registration
-2020,19,Percent,8.2.2.1 Growth rate of online company registration
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,15,,Percent,8.2.2.1 Growth rate of online company registration
+2016,-4,,Percent,8.2.2.1 Growth rate of online company registration
+2017,25,,Percent,8.2.2.1 Growth rate of online company registration
+2018,92,,Percent,8.2.2.1 Growth rate of online company registration
+2019,-1,,Percent,8.2.2.1 Growth rate of online company registration
+2020,19,,Percent,8.2.2.1 Growth rate of online company registration

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,3.6.1 Percentage of people with drug used received treatment,,Percent,22
-2016,3.6.1 Percentage of people with drug used received treatment,,Percent,40
-2017,3.6.1 Percentage of people with drug used received treatment,,Percent,50
-2018,3.6.1 Percentage of people with drug used received treatment,,Percent,60
-2019,3.6.1 Percentage of people with drug used received treatment,,Percent,70
-2020,3.6.1 Percentage of people with drug used received treatment,,Percent,80
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,3.6.1 Percentage of people with drug used received treatment,,Percent,,22
+2016,3.6.1 Percentage of people with drug used received treatment,,Percent,,40
+2017,3.6.1 Percentage of people with drug used received treatment,,Percent,,50
+2018,3.6.1 Percentage of people with drug used received treatment,,Percent,,60
+2019,3.6.1 Percentage of people with drug used received treatment,,Percent,,70
+2020,3.6.1 Percentage of people with drug used received treatment,,Percent,,80

@@ -1,18 +1,18 @@
-Year,Value,UNIT_MEASURE,SERIES
-1993,8.6,Percent,6.2.1 Proportion of population using an improved sanitation facility
-1996,15.4,Percent,6.2.1 Proportion of population using an improved sanitation facility
-1997,16.7,Percent,6.2.1 Proportion of population using an improved sanitation facility
-1999,18.4,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2004,24.7,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2007,30.5,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2008,32.8,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2009,34.0,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2010,40.0,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2011,43.6,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2012,45.2,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2013,51.7,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2014,55.9,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2015,61.8,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2016,72.9,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2017,76.0,Percent,6.2.1 Proportion of population using an improved sanitation facility
-2019,80.36,Percent,6.2.1 Proportion of population using an improved sanitation facility
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+1993,8.6,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+1996,15.4,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+1997,16.7,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+1999,18.4,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2004,24.7,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2007,30.5,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2008,32.8,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2009,34.0,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2010,40.0,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2011,43.6,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2012,45.2,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2013,51.7,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2014,55.9,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2015,61.8,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2016,72.9,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2017,76.0,,Percent,6.2.1 Proportion of population using an improved sanitation facility
+2019,80.36,,Percent,6.2.1 Proportion of population using an improved sanitation facility

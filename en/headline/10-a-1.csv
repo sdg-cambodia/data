@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,6,Number,10.a.1 Number of Trade Related Agreement with other countries
-2016,6,Number,10.a.1 Number of Trade Related Agreement with other countries
-2017,7,Number,10.a.1 Number of Trade Related Agreement with other countries
-2018,7,Number,10.a.1 Number of Trade Related Agreement with other countries
-2019,7,Number,10.a.1 Number of Trade Related Agreement with other countries
-2020,10,Number,10.a.1 Number of Trade Related Agreement with other countries
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,6,,Number,10.a.1 Number of Trade Related Agreement with other countries
+2016,6,,Number,10.a.1 Number of Trade Related Agreement with other countries
+2017,7,,Number,10.a.1 Number of Trade Related Agreement with other countries
+2018,7,,Number,10.a.1 Number of Trade Related Agreement with other countries
+2019,7,,Number,10.a.1 Number of Trade Related Agreement with other countries
+2020,10,,Number,10.a.1 Number of Trade Related Agreement with other countries

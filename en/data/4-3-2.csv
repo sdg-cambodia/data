@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Age,UNIT_MEASURE,Value
-2015,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,0.03
-2016,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,2.4
-2017,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,4.7
-2018,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,7.0
-2019,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,9.4
-2020,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,11.7
+Year,SERIES,Reference area,Age,UNIT_MEASURE,GeoCode,Value
+2015,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,0.03
+2016,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,2.4
+2017,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,4.7
+2018,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,7.0
+2019,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,9.4
+2020,4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds),,15 to 24 years old,Percent,,11.7

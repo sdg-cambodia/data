@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,2.0,Percent,4.c.5Percentage of teachers who received in-service training
-2016,3.9,Percent,4.c.5Percentage of teachers who received in-service training
-2017,5.9,Percent,4.c.5Percentage of teachers who received in-service training
-2018,9.5,Percent,4.c.5Percentage of teachers who received in-service training
-2019,11.2,Percent,4.c.5Percentage of teachers who received in-service training
-2020,12.9,Percent,4.c.5Percentage of teachers who received in-service training
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,2.0,,Percent,4.c.5Percentage of teachers who received in-service training
+2016,3.9,,Percent,4.c.5Percentage of teachers who received in-service training
+2017,5.9,,Percent,4.c.5Percentage of teachers who received in-service training
+2018,9.5,,Percent,4.c.5Percentage of teachers who received in-service training
+2019,11.2,,Percent,4.c.5Percentage of teachers who received in-service training
+2020,12.9,,Percent,4.c.5Percentage of teachers who received in-service training

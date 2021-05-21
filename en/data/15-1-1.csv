@@ -1,12 +1,12 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-1993,15.1.1 Proportion of land areas covered by forest,,Percent,59.82
-1997,15.1.1 Proportion of land areas covered by forest,,Percent,58.6
-2002,15.1.1 Proportion of land areas covered by forest,,Percent,61.15
-2005,15.1.1 Proportion of land areas covered by forest,,Percent,60.0
-2006,15.1.1 Proportion of land areas covered by forest,,Percent,59.09
-2008,15.1.1 Proportion of land areas covered by forest,,Percent,57.99
-2009,15.1.1 Proportion of land areas covered by forest,,Percent,57.6
-2010,15.1.1 Proportion of land areas covered by forest,,Percent,57.07
-2014,15.1.1 Proportion of land areas covered by forest,,Percent,49.48
-2016,15.1.1 Proportion of land areas covered by forest,,Percent,48.82
-2018,15.1.1 Proportion of land areas covered by forest,,Percent,48.16
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+1993,15.1.1 Proportion of land areas covered by forest,,Percent,,59.82
+1997,15.1.1 Proportion of land areas covered by forest,,Percent,,58.6
+2002,15.1.1 Proportion of land areas covered by forest,,Percent,,61.15
+2005,15.1.1 Proportion of land areas covered by forest,,Percent,,60.0
+2006,15.1.1 Proportion of land areas covered by forest,,Percent,,59.09
+2008,15.1.1 Proportion of land areas covered by forest,,Percent,,57.99
+2009,15.1.1 Proportion of land areas covered by forest,,Percent,,57.6
+2010,15.1.1 Proportion of land areas covered by forest,,Percent,,57.07
+2014,15.1.1 Proportion of land areas covered by forest,,Percent,,49.48
+2016,15.1.1 Proportion of land areas covered by forest,,Percent,,48.82
+2018,15.1.1 Proportion of land areas covered by forest,,Percent,,48.16

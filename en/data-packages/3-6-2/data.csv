@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Age,UNIT_MEASURE,Value
-2010,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,53.5
-2016,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,45.5
-2017,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,45.5
-2018,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,45.5
-2019,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,45.4
-2020,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,45.3
+Year,SERIES,Reference area,Age,UNIT_MEASURE,GeoCode,Value
+2010,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,53.5
+2016,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,45.5
+2017,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,45.5
+2018,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,45.5
+2019,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,45.4
+2020,3.6.2 Prevalence of alcohol use among among population above 18 years old,,18 years old and over,Percent,,45.3

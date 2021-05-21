@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,163000
-2016,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,163400
-2017,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,175000
-2018,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,178000
-2019,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,178100
-2020,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,180000
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,163000
+2016,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,163400
+2017,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,175000
+2018,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,178000
+2019,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,178100
+2020,"12.5.1 National recycling rate, tons of material recycled",,Metric Tons,,180000

@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,0,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
-2016,0,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
-2017,0,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
-2018,2,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
-2019,2,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
-2020,5,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,0,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+2016,0,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+2017,0,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+2018,2,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+2019,2,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+2020,5,,Percent,12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment

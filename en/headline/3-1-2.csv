@@ -1,10 +1,10 @@
-Year,Value,UNIT_MEASURE,SERIES
-1998,5.3,Live births per woman,3.1.2 Total fertility rate
-2000,4.0,Live births per woman,3.1.2 Total fertility rate
-2004,3.34,Live births per woman,3.1.2 Total fertility rate
-2005,3.4,Live births per woman,3.1.2 Total fertility rate
-2008,3.1,Live births per woman,3.1.2 Total fertility rate
-2010,3.0,Live births per woman,3.1.2 Total fertility rate
-2013,2.37,Live births per woman,3.1.2 Total fertility rate
-2014,2.7,Live births per woman,3.1.2 Total fertility rate
-2019,2.51,Live births per woman,3.1.2 Total fertility rate
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+1998,5.3,,Live births per woman,3.1.2 Total fertility rate
+2000,4.0,,Live births per woman,3.1.2 Total fertility rate
+2004,3.34,,Live births per woman,3.1.2 Total fertility rate
+2005,3.4,,Live births per woman,3.1.2 Total fertility rate
+2008,3.1,,Live births per woman,3.1.2 Total fertility rate
+2010,3.0,,Live births per woman,3.1.2 Total fertility rate
+2013,2.37,,Live births per woman,3.1.2 Total fertility rate
+2014,2.7,,Live births per woman,3.1.2 Total fertility rate
+2019,2.51,,Live births per woman,3.1.2 Total fertility rate

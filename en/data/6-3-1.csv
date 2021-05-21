@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,UNIT_MEASURE,Value
-2015,6.3.1 Proportion of wastewater safely treated,,Percent,12
-2016,6.3.1 Proportion of wastewater safely treated,,Percent,15
-2017,6.3.1 Proportion of wastewater safely treated,,Percent,19
-2018,6.3.1 Proportion of wastewater safely treated,,Percent,19
-2019,6.3.1 Proportion of wastewater safely treated,,Percent,23
-2020,6.3.1 Proportion of wastewater safely treated,,Percent,23
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,6.3.1 Proportion of wastewater safely treated,,Percent,,12
+2016,6.3.1 Proportion of wastewater safely treated,,Percent,,15
+2017,6.3.1 Proportion of wastewater safely treated,,Percent,,19
+2018,6.3.1 Proportion of wastewater safely treated,,Percent,,19
+2019,6.3.1 Proportion of wastewater safely treated,,Percent,,23
+2020,6.3.1 Proportion of wastewater safely treated,,Percent,,23

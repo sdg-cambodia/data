@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,1.48,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
-2016,3.71,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
-2017,3.74,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
-2018,3.77,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
-2019,3.82,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
-2020,3.82,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,1.48,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+2016,3.71,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+2017,3.74,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+2018,3.77,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+2019,3.82,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws
+2020,3.82,,"Per 100,000 population",16.3.1 Proportion of people involved in disseminating laws

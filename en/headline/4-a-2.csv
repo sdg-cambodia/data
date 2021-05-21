@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,57.0,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
-2016,62.5,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
-2017,69.0,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
-2018,68.7,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
-2019,71.3,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
-2020,73.9,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,57.0,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+2016,62.5,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+2017,69.0,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+2018,68.7,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+2019,71.3,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+2020,73.9,,Percent,4.a.2 Proportion of schools with access to single-sex basic sanitation facilities

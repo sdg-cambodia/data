@@ -1,45 +1,45 @@
-Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
-1993,1.2.1 Proportion of population below national poverty line,,,Percent,39.0
-1997,1.2.1 Proportion of population below national poverty line,,,Percent,36.1
-1999,1.2.1 Proportion of population below national poverty line,,,Percent,35.9
-2004,1.2.1 Proportion of population below national poverty line,,,Percent,34.68
-2007,1.2.1 Proportion of population below national poverty line,,,Percent,47.8
-2008,1.2.1 Proportion of population below national poverty line,,,Percent,29.9
-2009,1.2.1 Proportion of population below national poverty line,,,Percent,22.9
-2010,1.2.1 Proportion of population below national poverty line,,,Percent,21.1
-2011,1.2.1 Proportion of population below national poverty line,,,Percent,19.8
-2012,1.2.1 Proportion of population below national poverty line,,,Percent,18.9
-2013,1.2.1 Proportion of population below national poverty line,,,Percent,16.0
-2014,1.2.1 Proportion of population below national poverty line,,,Percent,13.5
-1993,1.2.1 Proportion of population below national poverty line,,Urban,Percent,36.62
-1997,1.2.1 Proportion of population below national poverty line,,Urban,Percent,29.9
-1999,1.2.1 Proportion of population below national poverty line,,Urban,Percent,25.2
-2004,1.2.1 Proportion of population below national poverty line,,Urban,Percent,24.73
-2007,1.2.1 Proportion of population below national poverty line,,Urban,Percent,41.0
-2008,1.2.1 Proportion of population below national poverty line,,Urban,Percent,30.5
-2009,1.2.1 Proportion of population below national poverty line,,Urban,Percent,19.3
-2010,1.2.1 Proportion of population below national poverty line,,Urban,Percent,17.0
-2011,1.2.1 Proportion of population below national poverty line,,Urban,Percent,22.5
-2012,1.2.1 Proportion of population below national poverty line,,Urban,Percent,14.5
-2013,1.2.1 Proportion of population below national poverty line,,Urban,Percent,13.9
-2014,1.2.1 Proportion of population below national poverty line,,Urban,Percent,12.8
-1993,1.2.1 Proportion of population below national poverty line,,Rural,Percent,43.12
-1997,1.2.1 Proportion of population below national poverty line,,Rural,Percent,40.1
-1999,1.2.1 Proportion of population below national poverty line,,Rural,Percent,40.1
-2004,1.2.1 Proportion of population below national poverty line,,Rural,Percent,39.18
-2007,1.2.1 Proportion of population below national poverty line,,Rural,Percent,52.3
-2008,1.2.1 Proportion of population below national poverty line,,Rural,Percent,31.9
-2009,1.2.1 Proportion of population below national poverty line,,Rural,Percent,24.6
-2010,1.2.1 Proportion of population below national poverty line,,Rural,Percent,22.7
-2011,1.2.1 Proportion of population below national poverty line,,Rural,Percent,20.7
-2012,1.2.1 Proportion of population below national poverty line,,Rural,Percent,20.0
-2013,1.2.1 Proportion of population below national poverty line,,Rural,Percent,15.7
-2014,1.2.1 Proportion of population below national poverty line,,Rural,Percent,12.5
-2007,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,19.1
-2008,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,13.4
-2009,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,12.8
-2010,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,12.4
-2011,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,10.9
-2012,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,16.25
-2013,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,20.17
-2014,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,18.7
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+1993,1.2.1 Proportion of population below national poverty line,,,Percent,,39.0
+1997,1.2.1 Proportion of population below national poverty line,,,Percent,,36.1
+1999,1.2.1 Proportion of population below national poverty line,,,Percent,,35.9
+2004,1.2.1 Proportion of population below national poverty line,,,Percent,,34.68
+2007,1.2.1 Proportion of population below national poverty line,,,Percent,,47.8
+2008,1.2.1 Proportion of population below national poverty line,,,Percent,,29.9
+2009,1.2.1 Proportion of population below national poverty line,,,Percent,,22.9
+2010,1.2.1 Proportion of population below national poverty line,,,Percent,,21.1
+2011,1.2.1 Proportion of population below national poverty line,,,Percent,,19.8
+2012,1.2.1 Proportion of population below national poverty line,,,Percent,,18.9
+2013,1.2.1 Proportion of population below national poverty line,,,Percent,,16.0
+2014,1.2.1 Proportion of population below national poverty line,,,Percent,,13.5
+1993,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,36.62
+1997,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,29.9
+1999,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,25.2
+2004,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,24.73
+2007,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,41.0
+2008,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,30.5
+2009,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,19.3
+2010,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,17.0
+2011,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,22.5
+2012,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,14.5
+2013,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,13.9
+2014,1.2.1 Proportion of population below national poverty line,,Urban,Percent,,12.8
+1993,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,43.12
+1997,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,40.1
+1999,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,40.1
+2004,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,39.18
+2007,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,52.3
+2008,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,31.9
+2009,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,24.6
+2010,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,22.7
+2011,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,20.7
+2012,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,20.0
+2013,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,15.7
+2014,1.2.1 Proportion of population below national poverty line,,Rural,Percent,,12.5
+2007,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,19.1
+2008,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,13.4
+2009,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,12.8
+2010,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,12.4
+2011,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,10.9
+2012,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,16.25
+2013,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,20.17
+2014,1.2.1 Proportion of population below national poverty line,Phnom Penh,,Percent,KH12,18.7

@@ -1,7 +1,7 @@
-Year,Value,UNIT_MEASURE,SERIES
-2015,7.0,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
-2016,7.0,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
-2017,7.0,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
-2018,7.0,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
-2019,7.0,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
-2020,7.5,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,7.0,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+2016,7.0,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+2017,7.0,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+2018,7.0,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+2019,7.0,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+2020,7.5,,Percent,8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors

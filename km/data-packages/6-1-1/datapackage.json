@@ -26,6 +26,11 @@
             "title": "ការវិភាគសមាសធាតុ"
           },
           {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
