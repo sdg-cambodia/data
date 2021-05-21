@@ -113,12 +113,12 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
-#    filename_prefix: indicator_
+map_layers:
+  - geojson_file: geojson/provinces.json
+    name_property: translation_key
+    id_property: source_adm
+    output_subfolder: provinces
+    filename_prefix: indicator_
 
 # Documentation settings
 # ----------------------
@@ -133,7 +133,7 @@ docs_intro: This is a list of examples of endpoints and output that are
 #docs_subfolder: ''
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_indicator_url: https://sdg-cambodia.github.io/site/[id]
 docs_extra_disaggregations:
   - SERIES
   - UNIT_MEASURE
