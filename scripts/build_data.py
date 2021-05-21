@@ -1,8 +1,7 @@
 from sdg.open_sdg import open_sdg_build
+from alter_data import alter_data
+from alter_meta import alter_meta
 
-def alter_data(df, context):
-    if 'REF_AREA' in df:
-        df['GeoCode'] = df['REF_AREA']
-    return df
-
-open_sdg_build(config='config_data.yml', alter_data=alter_data)
+open_sdg_build(config='config_data.yml',
+               alter_data=alter_data,
+               alter_meta=alter_meta)
