@@ -1,0 +1,152 @@
+AG_LND_FRST: 15.1.1 Proportion of land areas covered by forest
+AG_LND_FRSTPRCT: 15.2.1 Percentage of sustainable forest protection and management
+DC_ODA_BDVL: 15.b.1 Official development assistance for conservation and sustainable use of biodiversity and ecosystems
+DC_TOF_AGRL: 2.a.1 Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP)
+DC_TOF_INFRAL: 9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure
+DC_TRF_TOTL: 10.b.1.  Total official development assistance for Cambodia
+EG_ACS_ELEC: 7.1.1 Proportion of population with access to electricity
+EG_EGY_CLEAN: 7.1.2 Proportion of population with primary reliance on clean fuels and technology
+EG_EGY_PRIM: 7.3.1 Energy intensity level of primary energy
+EN_SCP_FSHGDP: 14.7.1 Value of sustainable fisheries production as a percentage of GDP
+EN_WWT_WWDS: 6.3.1 Proportion of wastewater safely treated
+ER_GRF_PLNTSTOR: 2.5.1 Number of plant genetic resources for food and agriculture secured​ in policy, strategy and either medium or long-term conservation facilities
+ER_PTD_FRHWTR: 15.1.2 Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas
+GB_XPD_RSDV: 9.5.1 Research and development expenditure as a proportion of GDP
+IT_MOB_2GNTWK: 9.c.1 Proportion of population covered by a mobile network, by technology
+IT_NET_BBND: 17.6.1 Percentage of population connect to Fixed Internet broadband subscriptions, by speed
+IT_USE_II99: 17.8.1 Internet users
+NY_GDP_PCAP: 8.1.1 Annual GDP growth rate at constant prices
+N_KH_010301_01: 1.3.1 Proportion of the poor and the vulnerable received social emergency relief services
+N_KH_010301_02: 1.3.1 Proportion of population covered by social protection floors/systems
+N_KH_010401_01: 1.4.1 Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development
+N_KH_020301_01: 2.3.1 Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)
+N_KH_020401_01: 2.4.1 Sustainable Agricultural Land Productivity
+N_KH_020502_01: 2.5.2 Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas
+N_KH_030101_01: 3.1.1 Life expectancy at birth
+N_KH_030102_01: 3.1.2 Total fertility rate
+N_KH_030502_01: 3.5.2 Percentage of adult population with depression received treatment
+N_KH_030601_01: 3.6.1 Percentage of people with drug used received treatment
+N_KH_030602_01: 3.6.2 Prevalence of alcohol use among among population above 18 years old
+N_KH_030801_01: 3.8.1 Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods
+N_KH_030802_01: 3.8.2 Teenage pregnancy 15 -19 years
+N_KH_030901_01: 3.9.1 Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes
+N_KH_030902_01: 3.9.2 Government Current expenditure on health as % of GDP)
+N_KH_030a02_01: 3.a.2 Prevalence of tobacco use among youth aged 13-15
+N_KH_04010101_01: 4.1.1.1 Completion rate Grade 6
+N_KH_04010102_01: 4.1.1.2 Completion rate Grade 9
+N_KH_040101_01: 4.1.1 Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics
+N_KH_040201_01: 4.2.1 Proportion of grade 1 student passed through all ECE programs
+N_KH_040301_01: 4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex
+N_KH_040302_01: 4.3.2 Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds)
+N_KH_040501_01: 4.5.1 Gender parity index in lower secondary education
+N_KH_040502_01: 4.5.2 Gender parity index in upper secondary education
+N_KH_040601_01: 4.6.1 Literacy rate by age group
+N_KH_040c02_01: 4.c.2 Percentage of pre school teachers qualified according to national standards
+N_KH_040c03_01: 4.c.3 Percentage of primary teachers qualified according to national standards
+N_KH_040c04_01: 4.c.4 Percentage of secondary teachers qualified according to national standards
+N_KH_040c05_01: 4.c.5Percentage of teachers who received in-service training
+N_KH_050101_01: 5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex
+N_KH_050401_01: 5.4.1. Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment
+N_KH_050502_01: 5.5.2 Proportion of under secretary of state who are women
+N_KH_050502_02: 5.5.2 Proportion of secretary of state who are women
+N_KH_050503_01: 5.5.3 Proportion of seats held by women in commune councils
+N_KH_050602_01: 5.6.2 The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services
+N_KH_050c01_01: 5.c.1 Number of institutions with a system to track and allocate budget to promote  gender equality and empower women
+N_KH_050c02_01: 5.c.2 Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan
+N_KH_060401_01: 6.4.1 By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price
+N_KH_060a01_01: 6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan
+N_KH_070101_01: 7.1.1 Household by main source of lighting
+N_KH_070201_01: 7.2.1 Annual energy consumption
+N_KH_070201_02: 7.2.1 Renewable energy consumption
+N_KH_070301_01: 7.3.1 Proption of primary energy with GDP
+N_KH_08020201_01: 8.2.2.1 Growth rate of online company registration
+N_KH_08020202_01: 8.2.2.2 Growth rate of online trade mark registration
+N_KH_08020203_01: 8.2.2.3 Growth Rate of online issuing the Cerficate of Origin
+N_KH_080202_01: 8.2.2 Growth rate of Online Company Registration, Trade Mark Registration and issuing Certificate of Origin
+N_KH_08020301_01: 8.2.3.1 All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement
+N_KH_08020302_01: 8.2.3.2 Number of types products both goods and services that have been processed or developed with OVOP standeard criteria
+N_KH_080203_01: 8.2.3 Processing or development of products both goods and services through all available means through the OVOP Concept
+N_KH_080301_01: 8.3.1 Growth rate of number of companies registered in the Chamber of Commerce
+N_KH_080902_01: 8.9.2  Number of employees in tourism industries as a proportion of total employees in all sectors
+N_KH_080a01_01: 8.a.1 Aid for Trade Commitments and Disbursements
+N_KH_090101_01: 9.1.1 Freight volumes of ports and railway
+N_KH_090102_01: 9.1.2 Air transport, international passengers carried
+N_KH_090102_02: 9.1.2 Air transport, domestic passengers carried
+N_KH_090103_01: 9.1.3 Air transport, international freight
+N_KH_090103_02: 9.1.3 Air transport, domestic freight
+N_KH_100401_01: 10.4.1 Civil Servants Retirees and invalid people who receive pension benefits
+N_KH_100a01_01: 10.a.1 Number of Trade Related Agreement with other countries
+N_KH_110601_01: 11.6.1 Amount of urban solid waste regularly collected and with adequate final discharge
+N_KH_110602_01: 11.6.2 Percentage of the deduction plastic bag used
+N_KH_110603_01: 11.6.3 Percentage of the solid wasted will be segregate by technical guidance
+N_KH_110604_01: 11.6.4 Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10
+N_KH_120401_01: 12.4.1 Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment
+N_KH_120402_01: 12.4.2 Percentage of release reduction of mercury (Hg) to the environment
+N_KH_120403_01: 12.4.3 Effectiveness management of hazardous waste and biological and radioactive waste
+N_KH_120501_01: 12.5.1 National recycling rate, tons of material recycled
+N_KH_130101_01: 13.1.1 Percentage of communes/Sangkats vulnerable to climate change
+N_KH_130201_01: 13.2.1 Pecentage of Green-House Gas emission through reduced activities when comparing to the projection (scenario) of usual gas emission
+N_KH_130202_01: 13.2.2 Percentage of increase in public expenditure for climate change
+N_KH_130301_01: 13.3.1 Intitution level that prepared for response to Climate Change indicated as percentage of institutional capacities mainstreamed on 5 components of Climate Change
+N_KH_130302_01: 13.3.2 Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change
+N_KH_140101_01: 14.1.1 Percentage of the reduction of the sea pollution by the conservation activities
+N_KH_140202_01: 14.2.1 Key ecosystem function and service of marine and coast area maintained and restore as necessary
+N_KH_140b01_01: 14.b.1 Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke
+N_KH_141501_01: 14.5.1 Percentage of coverage of marine and inland fisheries conservation areas protected
+N_KH_141502_01: 14.2.2 Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected
+N_KH_150102_01: 15.1.2 Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type
+N_KH_150103_01: 15.1.3 Forest areas and ecosystems sustainably utilized
+N_KH_150301_01: 15.3.1 Area of forest landscape restoration for areas affected by desertification, drought and floods
+N_KH_150501_01: 15.5.1 Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented
+N_KH_150701_01: 15.7.1 Number of cases of illegal poaching and trafficking of flora and fauna decreased
+N_KH_150902_01: 15.9.2 Number of policies, strategies and regulations on ecosystem services is established and implemented
+N_KH_160301_01: 16.3.1 Proportion of people involved in disseminating laws
+N_KH_160701_01: 16.7.1 Proportion of female in civil servant
+N_KH_160904_01: 16.9.4 Percentage of birth have birth registered and receive birth certificate ( By 2024, at least 90%)
+N_KH_170301_01: 17.3.1 Official development assistance as % of GDP
+N_KH_170901_01: 17.9.1 Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia
+N_KH_170902_01: 17.9.2 Amount of ODA to Economic and Development Policy/Planning (as % of GDP)​​​ committed to Cambodia
+N_KH_171001_01: 17.10.1 The number of commercial legal norms and standards set up to facilitate local investors and investors in trading
+N_KH_171701_01: 17.17.1 Amount of ODA disbursed to civil society partnerships (as % of GDP)
+N_KH_171802_01: 17.18.2 Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS)
+N_KH_180101_01: 18.1.1 Total cumulated areas cleared of mines/ERW
+N_KH_180201_01: 18.2.1 Number of civilian casualties from mines/ERW
+N_KH_180202_01: 18.2.2 The number of villages contaminated by mines / ERW to receive Mine Risk Educationmessages
+N_KH_180301_01: 18.3.1 The number of mine and ERW casualties received rights promotion
+N_KH_180302_01: 18.3.2 The number of mine and ERW casualties received rehabilitation service
+N_KH_180303_01: 18.3.3 The number of mine and ERW casualties received emergency  and rapid response from CMAA
+SD_SDG_AVLB: 17.18.1 Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics
+SERIES: SDG Series
+SE_ACS_H2O: 4.a.1 Proportion of schools with access to basic drinking water
+SE_ACS_SANIT: 4.a.2 Proportion of schools with access to single-sex basic sanitation facilities
+SE_INF_DSBL: 4.a.3 Proportion of schools with access to adapted infrastructure and materials for students with disabilities
+SE_PRE_PARTN: 4.2.2 Percentage ofchildren attended all aspects of ECE
+SE_TRA_GRDL: 4.c.1 Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training
+SG_GEN_PARL: 5.5.1 Proportion of seats held by women in legislative organs
+SG_REG_BRTH: 16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority
+SG_REG_CENSUSN: 17.19.1 Population Census in every 10 years
+SH_DTH_NCOM: 3.5.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease
+SH_DYN_MORT: 3.3.1 Under-five mortality rate (U5MR)
+SH_DYN_NMRT: 3.3.2 Neonatal mortality rate
+SH_FPL_INFM: 5.6.1 Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care
+SH_H2O_SAFE: 6.1.1 Proportion of population using an improved drinking water source
+SH_HIV_INCD: 3.4.1 % of new HIV infection per 1000 uninfected population
+SH_MED_DEN: 3.c.1 Ratio of physician/nurse/midwife per 1,000 population
+SH_PRV_SMOK: 3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older
+SH_SAN_SAFE: 6.2.1 Proportion of population using an improved sanitation facility
+SH_STA_BRTC: 3.2.2 Proportion of births attended by skilled health personnel
+SH_STA_MALR: 3.4.3 Malaria incidence
+SH_STA_MORT: 3.2.1 Maternal mortality ratio (MMR)
+SH_STA_STNT: 2.2.1 Percent of children under 5 years old who are moderately or severely stunted
+SH_STA_TRAF: 3.7.1 Injury and death due to accident
+SH_STA_WAST: 2.2.2 Percent of children under 5 years old who are moderately or severely wasted
+SH_TBS_INCD: 3.4.2 Incidence of tuberculosis per 100,000 population
+SI_HEI_TOTL: 10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population
+SI_POV_50MI: 10.2.1 Proportion of people living below 50 per cent of median income
+SI_POV_NAHC: 1.2.1 Proportion of population below national poverty line
+SI_POV_NMPI: 1.2.2 Proportion of children living in poverty measured by multiple dimensions according to national definitions
+SL_TLF_MANF: 9.2.1 Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry
+SP_DYN_MRBF18: 5.3.1 Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18
+ST_GDP_ZS: 8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate
+VC_VAW_MARR: 5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age
+VC_VAW_NONMARR: 5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence
