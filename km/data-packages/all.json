@@ -673,6 +673,55 @@
       "title": "អត្រាជំងឺរបេងក្នុងមនុស្ស ១០០,០០០ នាក់"
     },
     {
+      "path": "18-3-2/data.csv",
+      "name": "18-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "១៨.៣.២ ចំនួនជនរងគ្រោះដោយសារមីន/សំណល់ជាតិផ្ទុះពីសង្រ្គាមទទួលបានសេវាស្តារលទ្ធភាពពលកម្ម"
+    },
+    {
       "path": "18-2-1/data.csv",
       "name": "18-2-1",
       "profile": "tabular-data-resource",
@@ -5629,55 +5678,6 @@
         ]
       },
       "title": "18-3-3"
-    },
-    {
-      "path": "18-3-2/data.csv",
-      "name": "18-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "18-3-2"
     },
     {
       "path": "17-9-2/data.csv",
