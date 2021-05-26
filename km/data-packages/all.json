@@ -501,6 +501,55 @@
       "title": "អត្រានៃភាពក្រិន (កម្ពស់សម្រាប់អាយុ--២ គម្លាតគំរូពីកំរិតមធ្យមនៃស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ"
     },
     {
+      "path": "18-1-1/data.csv",
+      "name": "18-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "១៨.១.១ ផ្ទៃដីសរុបនៃការបោសសម្អាតមីននិងសំណល់ជាតិផ្ទុះពីសង្គ្រាមប្រចាំឆ្នាំ"
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -5629,55 +5678,6 @@
         ]
       },
       "title": "18-2-1"
-    },
-    {
-      "path": "18-1-1/data.csv",
-      "name": "18-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "ស៊េរីអេសជីជី"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "18-1-1"
     },
     {
       "path": "17-9-2/data.csv",
