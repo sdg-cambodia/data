@@ -1,8 +1,9 @@
-name: Import DSD
+name: Import Word templates
+
 on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '0 0 * * *'
+  push:
+    branches:
+      - develop
 
 jobs:
   build:
@@ -20,11 +21,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
     - name: Import changes in the DSD
-      run: python scripts/import-dsd.py
+      run: python scripts/import-word-templates.py
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: import updated DSD
-        title: Changes from DSD
-        body: Import source changes for translation from the latest DSD.
-        branch: import-dsd
+        commit-message: import updated Word templates
+        title: Changes from updated Word templates
+        body: Import source changes for translation from the latest Word templates.
+        branch: import-word-templates

@@ -123,6 +123,8 @@ docs_branding: SDG data build documentation
 docs_intro: This is a list of examples of endpoints and output that are
   available on this service. Click each of the links below for more information
   on the available output.
+
+  The latest translated DSD can be accessed <a href="dsd-exported.xml">here</a>.
 #docs_subfolder: ''
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
