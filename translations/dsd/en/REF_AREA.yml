@@ -1,0 +1,606 @@
+'1': World
+'10': Antarctica
+'100': Bulgaria
+'104': Myanmar
+'108': Burundi
+'11': Western Africa (M49)
+'112': Belarus
+'116': Cambodia
+'12': Algeria
+'120': Cameroon
+'124': Canada
+'127': Southern Asia, exc. India (MDG)
+'13': Central America (M49)
+'132': Cabo Verde
+'135': Caucasus and Central Asia (MDG)
+'136': Cayman Islands
+'14': Eastern Africa (M49)
+'140': Central African Republic
+'142': Asia (M49)
+'143': Central Asia (M49)
+'144': Sri Lanka
+'145': Western Asia (M49)
+'148': Chad
+'15': Northern Africa (M49)
+'150': Europe (M49)
+'151': Eastern Europe (M49)
+'152': Chile
+'154': Northern Europe (M49)
+'155': Western Europe (M49)
+'156': China
+'16': American Samoa
+'162': Christmas Island
+'166': Cocos (Keeling) Islands
+'17': Middle Africa (M49)
+'170': Colombia
+'174': Comoros
+'175': Mayotte
+'178': Congo
+'18': Southern Africa (M49)
+'180': Democratic Republic of the Congo
+'184': Cook Islands
+'188': Costa Rica
+'19': Americas (M49)
+'191': Croatia
+'192': Cuba
+'196': Cyprus
+'198': OECD Member States
+'199': Least Developed Countries (LDCs)
+'2': Africa (M49)
+'20': Andorra
+'202': Sub-Saharan Africa (SDG)
+'203': Czechia
+'204': Benin
+'208': Denmark
+'21': Northern America (M49)
+'212': Dominica
+'214': Dominican Republic
+'218': Ecuador
+'222': El Salvador
+'223': Eastern Asia, exc. Japan and China (MDG)
+'226': Equatorial Guinea
+'231': Ethiopia
+'232': Eritrea
+'233': Estonia
+'234': Faroe Islands
+'238': Falkland Islands (Malvinas)
+'239': South Georgia and the South Sandwich Islands
+'24': Angola
+'242': Fiji
+'246': Finland
+'248': Åland Islands
+'250': France
+'254': French Guiana
+'258': French Polynesia
+'260': French Southern Territories
+'262': Djibouti
+'266': Gabon
+'268': Georgia
+'270': Gambia
+'275': State of Palestine
+'276': Germany
+'28': Antigua and Barbuda
+'288': Ghana
+'29': Caribbean (M49)
+'292': Gibraltar
+'296': Kiribati
+'30': Eastern Asia (M49)
+'300': Greece
+'304': Greenland
+'308': Grenada
+'31': Azerbaijan
+'312': Guadeloupe
+'316': Guam
+'32': Argentina
+'320': Guatemala
+'324': Guinea
+'328': Guyana
+'332': Haiti
+'334': Heard Island and McDonald Islands
+'336': Holy See
+'34': Southern Asia (M49-MDG)
+'340': Honduras
+'344': China, Hong Kong Special Administrative Region
+'348': Hungary
+'35': South-eastern Asia (M49-MDG)
+'352': Iceland
+'356': India
+'36': Australia
+'360': Indonesia
+'364': Iran (Islamic Republic of)
+'368': Iraq
+'372': Ireland
+'376': Israel
+'380': Italy
+'384': Côte d'Ivoire
+'388': Jamaica
+'39': Southern Europe (M49)
+'392': Japan
+'398': Kazakhstan
+'4': Afghanistan
+'40': Austria
+'400': Jordan
+'404': Kenya
+'408': Democratic People's Republic of Korea
+'410': Republic of Korea
+'412': Kosovo
+'414': Kuwait
+'417': Kyrgyzstan
+'418': Lao People's Democratic Republic
+'419': Latin America and the Caribbean (SDG-MDG)
+'420': Latin America (MDG)
+'422': Lebanon
+'426': Lesotho
+'428': Latvia
+'430': Liberia
+'432': Landlocked developing countries (LLDCs)
+'434': Libya
+'438': Liechtenstein
+'44': Bahamas
+'440': Lithuania
+'442': Luxembourg
+'446': China, Macao Special Administrative Region
+'450': Madagascar
+'454': Malawi
+'458': Malaysia
+'462': Maldives
+'466': Mali
+'470': Malta
+'474': Martinique
+'478': Mauritania
+'48': Bahrain
+'480': Mauritius
+'484': Mexico
+'485': Western Asia, exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia (MDG)
+'492': Monaco
+'496': Mongolia
+'498': Republic of Moldova
+'499': Montenegro
+'5': South America (M49)
+'50': Bangladesh
+'500': Montserrat
+'504': Morocco
+'508': Mozambique
+'51': Armenia
+'512': Oman
+'513': Northern America and Europe (SDG)
+'514': Developed regions - Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand (MDG)
+'515': Developing regions (MDG)
+'516': Namibia
+'518': Eastern Asia, exc. Japan (MDG)
+'52': Barbados
+'520': Nauru
+'524': Nepal
+'528': Netherlands
+'53': Australia and New Zealand (SDG)
+'530': Netherlands Antilles [former, 1986 to 2010]
+'531': Curaçao
+'533': Aruba
+'534': Sint Maarten (Dutch part)
+'535': Bonaire, Sint Eustatius and Saba
+'54': Melanesia (M49)
+'540': New Caledonia
+'543': Oceania, exc. Australia and New Zealand (SDG-MDG)
+'548': Vanuatu
+'554': New Zealand
+'558': Nicaragua
+'56': Belgium
+'562': Niger
+'566': Nigeria
+'57': Micronesia (M49)
+'570': Niue
+'574': Norfolk Island
+'578': Norway
+'580': Northern Mariana Islands
+'581': United States minor outlying islands
+'583': Micronesia (Federated States of)
+'584': Marshall Islands
+'585': Palau
+'586': Pakistan
+'591': Panama
+'593': Development Assistance Committee members (DAC)
+'598': Papua New Guinea
+'60': Bermuda
+'600': Paraguay
+'604': Peru
+'608': Philippines
+'61': Polynesia (M49)
+'612': Pitcairn
+'616': Poland
+'62': Central Asia and Southern Asia (SDG)
+'620': Portugal
+'624': Guinea-Bissau
+'626': Timor-Leste
+'630': Puerto Rico
+'634': Qatar
+'638': Réunion
+'64': Bhutan
+'642': Romania
+'643': Russian Federation
+'646': Rwanda
+'652': Saint Barthélemy
+'654': Saint Helena
+'659': Saint Kitts and Nevis
+'660': Anguilla
+'662': Saint Lucia
+'663': Saint Martin (French Part)
+'666': Saint Pierre and Miquelon
+'670': Saint Vincent and the Grenadines
+'674': San Marino
+'678': Sao Tome and Principe
+'68': Bolivia (Plurinational State of)
+'682': Saudi Arabia
+'686': Senegal
+'688': Serbia
+'690': Seychelles
+'694': Sierra Leone
+'70': Bosnia and Herzegovina
+'702': Singapore
+'703': Slovakia
+'704': Viet Nam
+'705': Slovenia
+'706': Somalia
+'710': South Africa
+'716': Zimbabwe
+'72': Botswana
+'722': Small island developing States (SIDS)
+'724': Spain
+'728': South Sudan
+'729': Sudan
+'732': Western Sahara
+'736': Sudan [former]
+'738': Sub-Saharan Africa, inc. Sudan (MDG)
+'740': Suriname
+'744': Svalbard and Jan Mayen Islands
+'746': Northern Africa, exc. Sudan (MDG)
+'747': Western Asia and Northern Africa (SDG)
+'748': Swaziland
+'752': Sweden
+'753': Eastern Asia and South-eastern Asia (SDG)
+'756': Switzerland
+'76': Brazil
+'760': Syrian Arab Republic
+'762': Tajikistan
+'764': Thailand
+'768': Togo
+'772': Tokelau
+'776': Tonga
+'780': Trinidad and Tobago
+'784': United Arab Emirates
+'788': Tunisia
+'792': Turkey
+'795': Turkmenistan
+'796': Turks and Caicos Islands
+'798': Tuvalu
+'8': Albania
+'800': Uganda
+'804': Ukraine
+'807': The former Yugoslav Republic of Macedonia
+'818': Egypt
+'826': United Kingdom of Great Britain and Northern Ireland
+'830': Channel Islands
+'831': Guernsey
+'832': Jersey
+'833': Isle of Man
+'834': United Republic of Tanzania
+'835': United Republic of Tanzania (Mainland)
+'836': United Republic of Tanzania (Zanzibar)
+'84': Belize
+'840': United States of America
+'850': United States Virgin Islands
+'854': Burkina Faso
+'858': Uruguay
+'86': British Indian Ocean Territory
+'860': Uzbekistan
+'862': Venezuela (Bolivarian Republic of)
+'876': Wallis and Futuna Islands
+'882': Samoa
+'887': Yemen
+'889': WTO Member States
+'891': Serbia and Montenegro [former]
+'894': Zambia
+'9': Oceania (M49)
+'90': Solomon Islands
+'901': Africa (ILO)
+'902': Asia and the Pacific (ILO)
+'903': Central and Eastern Europe (ILO)
+'904': Middle East and North Africa (ILO)
+'905': Middle East (ILO)
+'906': North America (ILO)
+'907': Other regions (ILO)
+'908': Western Europe (ILO)
+'909': Eastern Southern South-Eastern Asia and Oceania (MDG)
+'910': High income economies (WB)
+'911': Low income economies (WB)
+'912': Lower middle economies (WB)
+'913': Low and middle income economies (WB)
+'914': Upper middle economies (WB)
+'915': WTO Developing Member States
+'916': WTO Developed Member States
+'917': International Centers (FAO)
+'92': British Virgin Islands
+'96': Brunei Darussalam
+AD: Andorra
+AE: United Arab Emirates
+AF: Afghanistan
+AG: Antigua and Barbuda
+AI: Anguilla
+AL: Albania
+AM: Armenia
+AN: Netherlands Antilles [former]
+AO: Angola
+AQ: Antarctica
+AR: Argentina
+AS: American Samoa
+AT: Austria
+AU: Australia
+AW: Aruba
+AX: Åland Islands
+AZ: Azerbaijan
+BA: Bosnia and Herzegovina
+BB: Barbados
+BD: Bangladesh
+BE: Belgium
+BF: Burkina Faso
+BG: Bulgaria
+BH: Bahrain
+BI: Burundi
+BJ: Benin
+BL: Saint Barthélemy
+BM: Bermuda
+BN: Brunei Darussalam
+BO: Bolivia (Plurinational State of)
+BQ: Bonaire, Sint Eustatius and Saba
+BR: Brazil
+BS: Bahamas
+BT: Bhutan
+BW: Botswana
+BY: Belarus
+BZ: Belize
+CA: Canada
+CC: Cocos (Keeling) Islands
+CD: Democratic Republic of the Congo
+CF: Central African Republic
+CG: Congo
+CH: Switzerland
+CI: Côte d'Ivoire
+CK: Cook Islands
+CL: Chile
+CM: Cameroon
+CN: China
+CO: Colombia
+CR: Costa Rica
+CU: Cuba
+CV: Cabo Verde
+CW: Curaçao
+CX: Christmas Island
+CY: Cyprus
+CZ: Czechia
+DE: Germany
+DJ: Djibouti
+DK: Denmark
+DM: Dominica
+DO: Dominican Republic
+DZ: Algeria
+EC: Ecuador
+EE: Estonia
+EG: Egypt
+EH: Western Sahara
+ER: Eritrea
+ES: Spain
+ET: Ethiopia
+FI: Finland
+FJ: Fiji
+FK: Falkland Islands (Malvinas)
+FM: Micronesia (Federated States of)
+FO: Faroe Islands
+FQ: French Southern Territories
+FR: France
+GA: Gabon
+GB: United Kingdom of Great Britain and Northern Ireland
+GD: Grenada
+GE: Georgia
+GF: French Guiana
+GG: Guernsey
+GH: Ghana
+GI: Gibraltar
+GL: Greenland
+GM: Gambia
+GN: Guinea
+GP: Guadeloupe
+GQ: Equatorial Guinea
+GR: Greece
+GS: South Georgia and the South Sandwich Islands
+GT: Guatemala
+GU: Guam
+GW: Guinea-Bissau
+GY: Guyana
+HK: China, Hong Kong Special Administrative Region
+HM: Heard Island and McDonald Islands
+HN: Honduras
+HR: Croatia
+HT: Haiti
+HU: Hungary
+ID: Indonesia
+IE: Ireland
+IL: Israel
+IM: Isle of Man
+IN: India
+IO: British Indian Ocean Territory
+IQ: Iraq
+IR: Iran (Islamic Republic of)
+IS: Iceland
+IT: Italy
+JE: Jersey
+JM: Jamaica
+JO: Jordan
+JP: Japan
+KE: Kenya
+KG: Kyrgyzstan
+KH: Cambodia
+KH01: Banteay Meanchey
+KH02: Battambang
+KH03: Kampong Cham
+KH04: Kampong Chhnang
+KH05: Kampong Speu
+KH06: Kampong Thom
+KH07: Kampot
+KH08: Kandal
+KH09: Koh Kong
+KH10: Kratie
+KH11: Mondul Kiri
+KH12: Phnom Penh
+KH13: Preah Vihear
+KH14: Prey Veng
+KH15: Pursat
+KH16: Ratanak Kiri
+KH17: Siemreap
+KH18: Preah Sihanouk
+KH19: Stung Treng
+KH20: Svay Rieng
+KH21: Takeo
+KH22: Oddar Meanchey
+KH23: Kep
+KH24: Pailin
+KH25: Tboung Khmum
+KH_AGG_KH02_KH24: Battambang and Pailin
+KH_AGG_KH07_KH18_KH23: Kampot, Preah Sihanouk and Kep
+KH_AGG_KH07_KH23: Kampot and Kep
+KH_AGG_KH10_KH13_KH19: Kratie, Preah Vihear and Stung Treng
+KH_AGG_KH11_KH16: Mondul Kiri and Ratanak Kiri
+KH_AGG_KH13_KH19: Preah Vihear and Stung Treng
+KH_AGG_KH22_KH17: Otdar Meanchey and Siem Reap
+KH_KH09_KH18: Koh Kong and Preah Sihanouk
+KI: Kiribati
+KM: Comoros
+KN: Saint Kitts and Nevis
+KP: Democratic People's Republic of Korea
+KR: Republic of Korea
+KW: Kuwait
+KY: Cayman Islands
+KZ: Kazakhstan
+LA: Lao People's Democratic Republic
+LB: Lebanon
+LC: Saint Lucia
+LI: Liechtenstein
+LK: Sri Lanka
+LR: Liberia
+LS: Lesotho
+LT: Lithuania
+LU: Luxembourg
+LV: Latvia
+LY: Libya
+MA: Morocco
+MC: Monaco
+MD: Republic of Moldova
+ME: Montenegro
+MF: Saint Martin (French part)
+MG: Madagascar
+MH: Marshall Islands
+MK: The former Yugoslav Republic of Macedonia
+ML: Mali
+MM: Myanmar
+MN: Mongolia
+MO: China, Macao Special Administrative Region
+MP: Northern Mariana Islands
+MQ: Martinique
+MR: Mauritania
+MS: Montserrat
+MT: Malta
+MU: Mauritius
+MV: Maldives
+MW: Malawi
+MX: Mexico
+MY: Malaysia
+MZ: Mozambique
+NA: Namibia
+NC: New Caledonia
+NE: Niger
+NF: Norfolk Island
+NG: Nigeria
+NI: Nicaragua
+NL: Netherlands
+'NO': Norway
+NP: Nepal
+NR: Nauru
+NU: Niue
+NZ: New Zealand
+OM: Oman
+PA: Panama
+PE: Peru
+PF: French Polynesia
+PG: Papua New Guinea
+PH: Philippines
+PK: Pakistan
+PL: Poland
+PM: Saint Pierre and Miquelon
+PN: Pitcairn
+PR: Puerto Rico
+PS: State of Palestine
+PT: Portugal
+PW: Palau
+PY: Paraguay
+QA: Qatar
+RE: Réunion
+REF_AREA: Reference area
+RO: Romania
+RS: Serbia
+RU: Russian Federation
+RW: Rwanda
+SA: Saudi Arabia
+SB: Solomon Islands
+SC: Seychelles
+SD: Sudan
+SE: Sweden
+SG: Singapore
+SH: Saint Helena
+SI: Slovenia
+SJ: Svalbard and Jan Mayen Islands
+SK: Slovakia
+SL: Sierra Leone
+SM: San Marino
+SN: Senegal
+SO: Somalia
+SR: Suriname
+SS: South Sudan
+ST: Sao Tome and Principe
+SV: El Salvador
+SX: Sint Maarten (Dutch part)
+SY: Syrian Arab Republic
+SZ: Swaziland
+TC: Turks and Caicos Islands
+TD: Chad
+TG: Togo
+TH: Thailand
+TJ: Tajikistan
+TK: Tokelau
+TL: Timor-Leste
+TM: Turkmenistan
+TN: Tunisia
+TO: Tonga
+TR: Turkey
+TT: Trinidad and Tobago
+TV: Tuvalu
+TZ: United Republic of Tanzania
+UA: Ukraine
+UG: Uganda
+UM: United States minor outlying islands
+US: United States of America
+UY: Uruguay
+UZ: Uzbekistan
+VA: Holy See
+VC: Saint Vincent and the Grenadines
+VE: Venezuela (Bolivarian Republic of)
+VG: British Virgin Islands
+VI: United States Virgin Islands
+VN: Viet Nam
+VU: Vanuatu
+WF: Wallis and Futuna Islands
+WS: Samoa
+XK: Kosovo
+YE: Yemen
+YT: Mayotte
+YU: Serbia and Montenegro [former]
+ZA: South Africa
+ZM: Zambia
+ZW: Zimbabwe
