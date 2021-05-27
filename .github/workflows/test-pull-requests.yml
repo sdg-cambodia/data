@@ -7,7 +7,7 @@ on:
     branches-ignore:
       - import-dsd
       - import-word-templates
-      - weblate-sdg-cambodia-dsd-series
+      - weblate-sdg-dsd-cambodia-series
 
 jobs:
   test:
