@@ -31,3 +31,4 @@ jobs:
         title: Changes from updated Word templates
         body: Import source changes for translation from the latest Word templates.
         branch: import-word-templates
+        token: ${{ secrets.token }}

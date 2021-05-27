@@ -28,3 +28,4 @@ jobs:
         title: Changes from DSD
         body: Import source changes for translation from the latest DSD.
         branch: import-dsd
+        token: ${{ secrets.token }}
