@@ -122,9 +122,9 @@ docs_branding: SDG data build documentation
 # This displays at the top of the automated documentation homepage.
 docs_intro: This is a list of examples of endpoints and output that are
   available on this service. Click each of the links below for more information
-  on the available output.
-
-  The latest translated DSD can be accessed <a href="dsd-exported.xml">here</a>.
+  on the available output.<br><br>
+  The latest translated DSD can be downloaded <a href="dsd-exported.xml">here</a>.<br><br>
+  All translations can be maintained on <a href="https://hosted.weblate.org/projects/sdg-dsd-cambodia/">Weblate</a>.
 #docs_subfolder: ''
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
