@@ -1,1 +1,138 @@
-{}
+OTHER_DOC: <p> ប្រព័ន្ធ ព័ត៌មាន ខូចខាត និង បាត់បង់ កម្ពុជា (CamDi) ៖ <a href="http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp">http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp</a></p>
+COVERAGE: <p> ទិន្នន័យ ដែល មាន ដោយ ការ រួម ភេទ អាយុ ការ ខូច ខាត ប្រភេទ/ការ បាត់ បង់
+  ដោយ ទីតាំង ភូមិសាស្រ្ត៖ ទីក្រុង/ជនបទ និង តាម បណ្តា ខេត្ត។ </p>
+DATA_COMP: <p> ចង្អុលបង្ហាញត្រូវបានគណនាជារូបមន្តខាងក្រោម<sup>*</sup>:</p><p><img src="data:image/png;base64,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"/></p><p>ទីកន្លែងណា:</p><p>A<sub>2
+  </sub> ចំនួនអ្នកស្លាប់ដែលចាត់ទុកជាវិបត្តិ; </p> <p> A<sub>3</sub> ចំនួនមនុស្សបាត់ខ្លួន
+  ចាត់ទុកជាវិបត្តិ; និង [៤៩០៩][៤៩១៣]ប[៤៩១៧]១[៤៩២៣] ចំនួនមនុស្សដែលរងផលប៉ះពាល់ដោយផ្ទាល់
+  ប៉ះពាល់ដល់គ្រោះមហន្តរាយ។ </p> <p>* វិធីសាស្ត្រលម្អិតអាចរកបាននៅក្នុងការណែនាំបច្ចេកទេស
+  (សូមមើលខាងក្រោមផ្នែកយោង)៖</p><p><a href="https://www.preventionweb.net/files/54970_collectionoftechnicalguidancenoteso.pdf">https://www.preventionweb.net/files/54970_collectionoftechnicalguidancenoteso.pdf</a></p>
+REC_USE_LIM: <p> ប្រព័ន្ធ ត្រួត ពិនិត្យ ក្របខ័ណ្ឌ Sendai ត្រូវ បាន បង្កើត ឡើង ដើម្បី
+  វាស់ ស្ទង់ ការ រីក ចម្រើន ក្នុង ការ អនុវត្ត ក្របខ័ណ្ឌ Sendai ដោយ UNGA បាន គាំទ្រ
+  ការ ចង្អុល បង្ហាញ ។ </p> <p> <em> Proxy, ជម្រើស និង ការចង្អុលបង្ហាញបន្ថែម:</em></p><p>]<p>]
+  ក្នុងករណីភាគច្រើន ប្រភពទិន្នន័យអន្តរជាតិមានតែព្រឹត្តិការណ៍កត់ត្រាដែល លើសពីការប៉ះពាល់មួយចំនួន
+  និងប្រើប្រភពទិន្នន័យទី២ ដែលជាធម្មតាគ្មានឯកសណ្ឋាន ឬសូម្បីតែវិធីសាស្ត្រមិនប្រែប្រួល
+  ដែលផលិតទិន្នន័យ heterogeneous ។ </p>
+RATIONALE: '<p> គំរោង បញ្ជូន ហានិភ័យ គ្រោះ មហន្ត រាយ ឆ្នាំ ២០១៥-២០៣០ ត្រូវ បាន អនុម័ត
+  ដោយ រដ្ឋ ជា សមាជិក អង្គ ការ សហ ប្រជា ជាតិ នៅ ខែ មិនា ឆ្នាំ ២០១៥ ជា គោលនយោបាយ សកល
+  មួយ នៃ ការ កាត់ បន្ថយ ហានិភ័យ គ្រោះ មហន្ត រាយ។ ក្នុង ចំណោម គោល ដៅ ពិភព លោក " គោល
+  ដៅ A : កាត់ បន្ថយ យ៉ាង ខ្លាំង នូវ មរណ ភាព គ្រោះ មហន្ត រាយ ពិភព លោក ត្រឹម ឆ្នាំ 2030
+  ក្នុង គោល បំណង កាត់ បន្ថយ មធ្យម ក្នុង មួយ 100,000 មរណ ភាព ពិភព លោក រវាង ឆ្នាំ 2020-2030
+  បើ ធៀប ទៅ នឹង ឆ្នាំ 2005-2015 " និង " គោល ដៅ B : កាត់ បន្ថយ យ៉ាង ខ្លាំង នូវ ចំនួន
+  មនុស្ស ដែល រង ផល ប៉ះ ពាល់ ជា សកល ត្រឹម ឆ្នាំ 20030 ។ ក្នុង គោល បំណង កាត់ បន្ថយ តួ
+  លេខ សកល ជា មធ្យម ក្នុង ១០០.០ រវាង ឆ្នាំ ២០២០-២០៣០ បើ ធៀប នឹង ឆ្នាំ ២០០៥-២០១៥" នឹង
+  រួម ចំណែក ក្នុង ការ អភិវឌ្ឍ ប្រកបដោយ ចីរភាព និង ពង្រឹង ភាព រឹងមាំ ផ្នែក សេដ្ឋកិច្ច
+  សង្គម សុខភាព និង បរិស្ថាន។ ទស្សនវិស័យ សេដ្ឋកិច្ច បរិស្ថាន និង សង្គម នឹង រួម មាន
+  ការ លុប បំបាត់ ភាព ក្រីក្រ ភាព ប្រែប្រួល ទីក្រុង និង ការ សម្រប សម្រួល ការ ប្រែប្រួល
+  អាកាសធាតុ។ </p> <p> ក្រុម ការងារ ជំនាញ អន្តរក្រសួង បើក ចំហ ស្តី ពី ការ ចង្អុល បង្ហាញ
+  និង ពាក្យ វិទ្យា ទាក់ ទង នឹង ការ កាត់ បន្ថយ ហានិភ័យ គ្រោះ មហន្ត រាយ (OIEWG) ដែល
+  បង្កើត ឡើង ដោយ សភា (resolution 69/284) បាន បង្កើត សំណុំ នៃ ការ ចង្អុល បង្ហាញ ដើម្បី
+  វាស់ ស្ទង់ ការ រីក ចម្រើន ជា សកល ក្នុង ការ អនុវត្ត ក្របខ័ណ្ឌ Sendai ដែល ត្រូវ បាន
+  គាំទ្រ ដោយ UNGA (OIEWG <a href="http://www.preventionweb.net/publications/view/51748">report/71/644[18]
+  ) ។ ចង្អុល បង្ហាញ ជា សកល ដែល ពាក់ ព័ន្ធ សម្រាប់ គំរោង Sendai នឹង ត្រូវ បាន ប្រើ
+  ដើម្បី រាយការណ៍ សម្រាប់ ការ ចង្អុល បង្ហាញ នេះ ។ </p> <p> ទិន្នន័យ បាត់ បង់ គ្រោះ
+  មហន្ត រាយ ត្រូវ បាន រង ឥទ្ធិ ពល យ៉ាង ខ្លាំង ដោយ ព្រឹត្តិ ការណ៍ គ្រោះ មហន្ត រាយ ក្នុង
+  ទំហំ ធំ ដែល តំណាង ឲ្យ ការ ចេញ ដំណើរ ដ៏ សំខាន់ ។ UNISDR បាន ផ្តល់ អនុសាសន៍ ឲ្យ បណ្តា
+  ប្រទេស រាយ ការណ៍ ទិន្នន័យ តាម ព្រឹត្តិ ការណ៍ ដូច្នេះ ការ វិភាគ បំពេញ បន្ថែម អាច
+  ត្រូវ បាន ធ្វើ ឡើង ដើម្បី ទទួល បាន និន្នាការ និង លំនាំ ដែល ព្រឹត្តិ ការណ៍ គ្រោះ
+  មហន្ត រាយ បែប នេះ ( ដែល អាច តំណាង ឲ្យ អ្នក លេច ចេញ ) អាច ត្រូវ បាន បញ្ចូល ឬ ដក ចេញ
+  ។ </p>'
+INST_MANDATE: <p> NCDM គឺ ជា អង្គ ការ សម្រប សម្រួល សម្រាប់ សកម្ម ភាព ដែល ទាក់ ទង នឹង
+  ការ គ្រប់ គ្រង គ្រោះ មហន្ត រាយ ទាំង អស់ បាន បង្កើត រចនា សម្ព័ន្ធ យន្ត ការ ដើម្បី
+  ឆ្លើយ តប ទៅ នឹង គ្រោះ មហន្ត រាយ ពី ថ្នាក់ ជាតិ ទៅ កម្រិត មូលដ្ឋាន ។ វា ក៏ ត្រូវ
+  បាន ទទួល ស្គាល់ ផង ដែរ ថា ជា ទី ភ្នាក់ងារ ចម្បង សម្រាប់ គ្រប់ គ្រង គ្រោះ អាសន្ន
+  និង ការ កសាង ភាព ពឹង ផ្អែក លើ សហគមន៍ ទៅ នឹង គ្រោះ មហន្ត រាយ ធម្ម ជាតិ ។ អាណត្តិ
+  សំខាន់ ផ្សេង ទៀត របស់ NCDM រួម មាន ការ អនុវត្ត យុទ្ធ សាស្ត្រ ទប់ ស្កាត់ និង កាត់
+  បន្ថយ ដើម្បី កាត់ បន្ថយ ផល ប៉ះ ពាល់ នៃ គ្រោះ មហន្ត រាយ ទៅ លើ ជីវិត ជីវភាព និង ហេដ្ឋារចនាសម្ព័ន្ធ
+  ការ ចេញ និង ផ្តល់ អនុសាសន៍ គោល ការណ៍ ណែ នាំ និង គោល នយោបាយ សម្រាប់ ការ គាំទ្រ ថវិកា
+  ផ្នែក នីតិ បញ្ញត្តិ សំរាប់ ការ គ្រប់ គ្រង គ្រោះ អាសន្ន និង គ្រោះ មហន្ត រាយ ។ ក្នុង
+  នាម ជា អង្គ ការ សម្រប សម្រួល និង ផ្តល់ អនុសាសន៍ គោល ដៅ របស់ NDCM គឺ ដើម្បី បង្កើត
+  ប្រព័ន្ធ ដែល មាន ប្រសិទ្ធិ ភាព មួយ សំរាប់ ការ ទប់ ស្កាត់ គ្រោះ មហន្ត រាយ ការ ឆ្លើយ
+  តប គ្រោះ មហន្ត រាយ ដែល មាន ប្រសិទ្ធិ ភាព និង ការ ស្តារ ឡើង វិញ នូវ គ្រោះ មហន្ត រាយ
+  យ៉ាង លឿន ។ </p> <p> តួនាទី និងការទទួលខុសត្រូវ:</p><h1>គ្រប់គ្រងទិន្នន័យហានិភ័យគ្រោះមហន្តរាយ
+  និងអភិវឌ្ឍរបាយការណ៍ពីស្ថានភាពគ្រោះមហន្តរាយ; </h1> <h1> សំណើ ស្តី ពី ការ បម្រុង ទុក
+  ធនធាន សម្រាប់ ការ អន្តរាគមន៍ គ្រោះ មហន្ត រាយ ក្នុង ការ ឆ្លើយ តប សង្គ្រោះ បន្ទាន់
+  </h1> <h1> ការកសាងសមត្ថភាព និងការអភិវឌ្ឍធនធានមនុស្សលើការគ្រប់គ្រងគ្រោះមហន្តរាយ;
+  </h1> <h1> សម្របសម្រួលការអនុវត្តគោលនយោបាយគ្រប់គ្រងគ្រោះមហន្តរាយ; </h1> <h1> ផ្លាស់ប្ដូរ
+  និងចែករំលែកព័ត៌មាន; និង [១១៩៦][១២០១]សម្របសម្រួល និង ប្រមូលធនធានដើម្បីឆ្លើយតបនឹងគ្រោះមហន្តរាយ។
+  </h1> <ul> <li> NCDM ត្រូវ បាន ដឹក នាំ ដោយ នាយក រដ្ឋ មន្ត្រី ជា ប្រធាន ដែល មាន សមាជិក
+  ភាព រួម មាន រដ្ឋ មន្ត្រី ស្ទើរ តែ ទាំង អស់ ព្រម ទាំង តំណាង មក ពី ការិយាល័យ រដ្ឋាភិបាល
+  ផ្សេង ទៀត ។ លេខាធិការដ្ឋាន សម្របសម្រួល គ្រប់ សកម្មភាព និង បម្រើ ការងារ ជា ចំណុច
+  ទាក់ទង សម្រាប់ កិច្ច ខិតខំ គ្រប់គ្រង គ្រោះ មហន្ត រាយ និង ព័ត៌មាន។ </li> </ul>
+COMPILING_ORG: <p> គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (NCDM)</p>
+DATA_SOURCE: <p> គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (NCDM)</p>
+REL_CAL_POLICY: <p> ៣ ខែ ក្រោយ ពី រយៈ ពេល យោង[៤១]
+FREQ_COLL: <p> ប្រចាំឆ្នាំ[១៧]
+COLL_METHOD: <p> NCDM ត្រូវ បាន អនុញ្ញាត ឲ្យ សហ ការ ជាមួយ ក្រសួង បន្ទាត់ និង អាជ្ញាធរ
+  មូលដ្ឋាន ( ខេត្ត ស្រុក ស្រុក សហគមន៍ និង កម្រិត ភូមិ ) ក្នុង ការ ប្រមូល និង ផ្សព្វ
+  ផ្សាយ ទិន្នន័យ ទាំង អស់ ទាក់ ទង នឹង គ្រោះ ថ្នាក់ គ្រោះ មហន្ត រាយ ។ </p> <p> អ្នកផ្តល់ទិន្នន័យនៅកម្រិតជាតិត្រូវបានតែងតាំងជាចំណុច
+  Sendai Framework Focal Points។ ទិន្នន័យ គ្រោះ មហន្ត រាយ នៅ ប្រទេស ភាគ ច្រើន ត្រូវ
+  បាន ប្រមូល ដោយ ក្រសួង បន្ទាត់ និង មូលដ្ឋាន ទិន្នន័យ បាត់ បង់ គ្រោះ មហន្ត រាយ ជាតិ
+  ត្រូវ បាន បង្កើត ឡើង និង គ្រប់ គ្រង ដោយ ទី ភ្នាក់ងារ គោល បំណង ពិសេស រួម មាន ទី ភ្នាក់ងារ
+  គ្រប់ គ្រង គ្រោះ មហន្ត រាយ ជាតិ ទី ភ្នាក់ងារ ការពារ ស៊ីវិល និង ទី ភ្នាក់ងារ ឧតុ
+  និយម ។ The Sendai Framework Focal Points នៅ ក្នុង ប្រទេស នីមួយ ៗ ទទួល ខុស ត្រូវ
+  លើ ការ រាយការណ៍ ទិន្នន័យ តាម រយៈ ប្រព័ន្ធ ត្រួត ពិនិត្យ ក្របខ័ណ្ឌ Sendai ។ </p>
+SOURCE_TYPE: <p> ប្រព័ន្ធ ព័ត៌មាន ខូចខាត និង បាត់បង់ កម្ពុជា (CamDi) ៖ <a href="http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp">http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp</a></p>
+UNIT_MEASURE: <p> ១០០.០០០នាក់[២៥]
+STAT_CONC_DEF: '<p> ការ ចង្អុល បង្ហាញ នេះ វាស់ ស្មាន ថា ចំនួន មនុស្ស ដែល បាន ស្លាប់
+  បាន បាត់ ខ្លួន ឬ រង ផល ប៉ះ ពាល់ ដោយ ផ្ទាល់ ពី គ្រោះ មហន្ត រាយ ក្នុង ចំណោម ប្រជា
+  ជន 100,000 នាក់ ។ </p> <p> <strong> មរណភាព ៖ [១៥៥] ចំនួន មនុស្ស ដែល បាន ស្លាប់ ក្នុង
+  អំឡុង ពេល គ្រោះ មហន្ត រាយ នេះ ឬ ដោយ ផ្ទាល់ ក្រោយ មក ជា លទ្ធផល ផ្ទាល់ នៃ ព្រឹត្តិការណ៍
+  គ្រោះថ្នាក់ នេះ។ </p> <p> <strong> បាត់ខ្លួន៖ [៣០០]ចំនួនមនុស្សដែលនៅទីណា គេមិនស្គាល់តាំងពីព្រឹត្តិការណ៍គ្រោះថ្នាក់។
+  វា[៣៨៨] [៣៩៧] រួម មាន មនុស្ស ដែល ត្រូវ បាន សន្មត ថា បាន ស្លាប់ ដែល គ្មាន ភស្តុតាង
+  ខាង រាង កាយ ដូច ជា រូប កាយ ហើយ ដែល របាយការណ៍ ផ្លូវ ការ/ច្បាប់ ត្រូវ បាន ដាក់ ជូន
+  អាជ្ញាធរ មាន សមត្ថកិច្ច។ </p> <p> <strong> រង ផល ប៉ះពាល់ ដោយ ផ្ទាល់ ៖ [៦១៦] ចំនួន
+  មនុស្ស ដែល រង របួស ជំងឺ ឬ ផល ប៉ះពាល់ សុខភាព ផ្សេងៗ ទៀត។ អ្នក ដែល ត្រូវ បាន ជម្លៀស
+  ចេញ ផ្លាស់ ប្តូរ ប្តូរ ទី តាំង ឬ រង ការ ខូច ខាត ដោយ ផ្ទាល់ ទៅ លើ ជីវភាព របស់ ខ្លួន
+  សេដ្ឋ កិច្ច សង្គម វប្បធម៌ និង បរិស្ថាន ។ ផល ប៉ះពាល់ ដោយ ប្រយោល គឺ មនុស្ស ដែល បាន
+  ទទួល រង នូវ ផល វិបាក ក្រៅ ពី ឬ ក្រៅ ពី ផល ប៉ះ ពាល់ ដោយ ផ្ទាល់ តាម ពេល វេលា ដោយសារ
+  តែ ការ រំខាន ឬ ការ ផ្លាស់ ប្តូរ សេដ្ឋ កិច្ច ហេដ្ឋារចនាសម្ព័ន្ធ សំខាន់ សេវា មូលដ្ឋាន
+  ពាណិជ្ជ កម្ម ឬ ការងារ ឬ ផល វិបាក សង្គម សុខ ភាព និង ចិត្ត សាស្ត្រ ។ </p> <p> <strong>
+  Rationale and Interpretation:</strong></p><p>ក្របខ័ណ្ឌ ផ្ញើសារសម្រាប់កាត់បន្ថយហានិភ័យគ្រោះមហន្តរាយ
+  2015-2030 ត្រូវ បានអនុម័តដោយរដ្ឋសមាជិក UN នៅខែមីនា ឆ្នាំ២០១៥ ជាគោលនយោបាយសកលមួយនៃកាត់បន្ថយហានិភ័យគ្រោះមហន្តរាយ។
+  ក្នុង ចំណោម គោល ដៅ ពិភព លោក " គោល ដៅ A : កាត់ បន្ថយ យ៉ាង ខ្លាំង នូវ មរណ ភាព គ្រោះ
+  មហន្ត រាយ ពិភព លោក ត្រឹម ឆ្នាំ 2030 ក្នុង គោល បំណង កាត់ បន្ថយ មធ្យម ក្នុង មួយ 100,000
+  មរណ ភាព ពិភព លោក រវាង ឆ្នាំ 2020-2030 បើ ធៀប ទៅ នឹង ឆ្នាំ 2005-2015 " និង " គោល
+  ដៅ B : កាត់ បន្ថយ យ៉ាង ខ្លាំង នូវ ចំនួន មនុស្ស ដែល រង ផល ប៉ះ ពាល់ ជា សកល ត្រឹម ឆ្នាំ
+  20030 ។ ក្នុង គោល បំណង កាត់ បន្ថយ តួ លេខ សកល ជា មធ្យម ក្នុង ១០០.០ រវាង ឆ្នាំ ២០២០-២០៣០
+  បើ ធៀប នឹង ឆ្នាំ ២០០៥-២០១៥" នឹង រួម ចំណែក ក្នុង ការ អភិវឌ្ឍ ប្រកបដោយ ចីរភាព និង
+  ពង្រឹង ភាព រឹងមាំ ផ្នែក សេដ្ឋកិច្ច សង្គម សុខភាព និង បរិស្ថាន។ ទស្សនវិស័យ សេដ្ឋកិច្ច
+  បរិស្ថាន និង សង្គម នឹង រួម មាន ការ លុប បំបាត់ ភាព ក្រីក្រ ភាព ប្រែប្រួល ទីក្រុង
+  និង ការ សម្រប សម្រួល ការ ប្រែប្រួល អាកាសធាតុ។ </p> <p> ក្រុម ការងារ ជំនាញ អន្តរក្រសួង
+  បើក ចំហ ស្តី ពី ការ ចង្អុល បង្ហាញ និង ពាក្យ វិទ្យា ទាក់ ទង នឹង ការ កាត់ បន្ថយ ហានិភ័យ
+  គ្រោះ មហន្ត រាយ (OIEWG) ដែល បង្កើត ឡើង ដោយ សភា (resolution 69/284) បាន បង្កើត សំណុំ
+  នៃ ការ ចង្អុល បង្ហាញ ដើម្បី វាស់ ស្ទង់ ការ រីក ចម្រើន ជា សកល ក្នុង ការ អនុវត្ត ក្របខ័ណ្ឌ
+  សេនថាយ ដែល ត្រូវ បាន គាំទ្រ ដោយ UNGA (OIEWG <a href="http://www.preventionweb.net/publications/view/51748">
+  រាយ ការណ៍ A/71/644[25])។ ចង្អុល បង្ហាញ ជា សកល ដែល ពាក់ ព័ន្ធ សម្រាប់ គំរោង Sendai
+  នឹង ត្រូវ បាន ប្រើ ដើម្បី រាយការណ៍ សម្រាប់ ការ ចង្អុល បង្ហាញ នេះ ។ </p> <p> ទិន្នន័យ
+  បាត់ បង់ គ្រោះ មហន្ត រាយ ត្រូវ បាន រង ឥទ្ធិ ពល យ៉ាង ខ្លាំង ដោយ ព្រឹត្តិ ការណ៍ គ្រោះ
+  មហន្ត រាយ ក្នុង ទំហំ ធំ ដែល តំណាង ឲ្យ ការ ចេញ ដំណើរ ដ៏ សំខាន់ ។ UNISDR បាន ផ្តល់
+  អនុសាសន៍ ឲ្យ បណ្តា ប្រទេស រាយ ការណ៍ ទិន្នន័យ តាម ព្រឹត្តិ ការណ៍ ដូច្នេះ ការ វិភាគ
+  បំពេញ បន្ថែម អាច ត្រូវ បាន ធ្វើ ឡើង ដើម្បី ទទួល បាន និន្នាការ និង លំនាំ ដែល ព្រឹត្តិ
+  ការណ៍ គ្រោះ មហន្ត រាយ បែប នេះ ( ដែល អាច តំណាង ឲ្យ អ្នក លេច ចេញ ) អាច ត្រូវ បាន បញ្ចូល
+  ឬ ដក ចេញ ។ </p>'
+CONTACT_EMAIL: <p>administration@ncdm.gov.kh</p>
+CONTACT_MAIL: '<p> អាសយដ្ឋាន: ផ្លូវ 516, Toul Sangke Commune, Rusey Keo District,
+  Phnom Penh, Cambodia</p>'
+CONTACT_PHONE: <p>+855 23 864 298 /23 882 045</p>
+CONTACT_NAME: <p> គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (NCDM)</p>
+CONTACT_ORGANISATION: <p> គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (NCDM)</p>
+META_LAST_UPDATE: <p> ខែតុលា 2020</p>
+SDG_SERIES_DESCR: <p> ចំនួនអ្នកស្លាប់ ដែល បណ្តាល មក ពី គ្រោះ មហន្ត រាយ </p> <p> ចំនួន
+  មនុស្ស ដែល បាត់ ខ្លួន ដែល បណ្តាល មក ពី គ្រោះ មហន្ត រាយ និង [១០៧][១១១]១១]ចំនួនមនុស្សដែលរងផលប៉ះពាល់ដោយផ្ទាល់
+  ផលប៉ះពាល់ដល់គ្រោះមហន្តរាយ។ </p>
+SDG_INDICATOR: '[០]១.៥.១៖ ចំនួនអ្នកស្លាប់ បាត់ខ្លួន និងបុគ្គលដែលរងផលប៉ះពាល់ដោយផ្ទាល់
+  ចាត់ទុកជាគ្រោះមហន្តរាយ ១០០.០នាក់[១២០]'
+SDG_TARGET: <p> គោលដៅទី១.៥៖ នៅឆ្នាំ២០៣០ ការកសាងភាពស្ត្រេស៊ីរបស់ជនក្រីក្រ និងអ្នកដែលរងគ្រោះនិងអ្នកដែលរងគ្រោះ
+  និងកាត់បន្ថយការប្រឈមមុខនិងភាពងាយរងគ្រោះរបស់ពួកគេ ចំពោះព្រឹត្តិការណ៍ដ៏ជ្រុល និយមដែលទាក់ទងនឹងអាកាសធាតុ
+  និងភាពភ្ញាក់ផ្អើលសេដ្ឋកិច្ចសង្គម និងបរិស្ថានផ្សេងទៀត និងគ្រោះមហន្តរាយ[២៣៥]
+SDG_GOAL: '[០] គោលដៅទី១. បញ្ចប់ភាពក្រីក្រគ្រប់ទម្រង់នៅគ្រប់ទីកន្លែង</p>'
+OTHER_METHOD: <p> NCDM ត្រូវ បាន អនុញ្ញាត ឲ្យ សហ ការ ជាមួយ ក្រសួង បន្ទាត់ និង អាជ្ញាធរ
+  មូលដ្ឋាន ( ខេត្ត ស្រុក ស្រុក សហគមន៍ និង កម្រិត ភូមិ ) ក្នុង ការ ប្រមូល និង ផ្សព្វ
+  ផ្សាយ ទិន្នន័យ ទាំង អស់ ទាក់ ទង នឹង គ្រោះ ថ្នាក់ គ្រោះ មហន្ត រាយ ។ </p> <p> អ្នកផ្តល់ទិន្នន័យនៅកម្រិតជាតិត្រូវបានតែងតាំងជាចំណុច
+  Sendai Framework Focal Points។ ទិន្នន័យ គ្រោះ មហន្ត រាយ នៅ ប្រទេស ភាគ ច្រើន ត្រូវ
+  បាន ប្រមូល ដោយ ក្រសួង បន្ទាត់ និង មូលដ្ឋាន ទិន្នន័យ បាត់ បង់ គ្រោះ មហន្ត រាយ ជាតិ
+  ត្រូវ បាន បង្កើត ឡើង និង គ្រប់ គ្រង ដោយ ទី ភ្នាក់ងារ គោល បំណង ពិសេស រួម មាន ទី ភ្នាក់ងារ
+  គ្រប់ គ្រង គ្រោះ មហន្ត រាយ ជាតិ ទី ភ្នាក់ងារ ការពារ ស៊ីវិល និង ទី ភ្នាក់ងារ ឧតុ
+  និយម ។ The Sendai Framework Focal Points នៅ ក្នុង ប្រទេស នីមួយ ៗ ទទួល ខុស ត្រូវ
+  លើ ការ រាយការណ៍ ទិន្នន័យ តាម រយៈ ប្រព័ន្ធ ត្រួត ពិនិត្យ ក្របខ័ណ្ឌ Sendai ។ </p>
+ORGANISATION_UNIT: <p> នាយកដ្ឋានព័ត៌មាន និងទំនាក់ទំនង លេខាធិការដ្ឋានទូទៅនៃ NCDM </p>
