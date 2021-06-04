@@ -36,8 +36,83 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2013,18.2.1 Number of civilian casualties from mines/ERW,,Number,,111
 2014,18.2.1 Number of civilian casualties from mines/ERW,,Number,,154
 2015,18.2.1 Number of civilian casualties from mines/ERW,,Number,,111
-2016,18.2.1 Number of civilian casualties from mines/ERW,,Number,,100
-2017,18.2.1 Number of civilian casualties from mines/ERW,,Number,,90
-2018,18.2.1 Number of civilian casualties from mines/ERW,,Number,,81
-2019,18.2.1 Number of civilian casualties from mines/ERW,,Number,,73
-2020,18.2.1 Number of civilian casualties from mines/ERW,,Number,,66
+2016,18.2.1 Number of civilian casualties from mines/ERW,,Number,,83
+2017,18.2.1 Number of civilian casualties from mines/ERW,,Number,,58
+2018,18.2.1 Number of civilian casualties from mines/ERW,,Number,,58
+2019,18.2.1 Number of civilian casualties from mines/ERW,,Number,,77
+2020,18.2.1 Number of civilian casualties from mines/ERW,,Number,,65
+2018,18.2.1 Number of civilian casualties from mines/ERW,Preah Vihear,Number,KH13,8
+2019,18.2.1 Number of civilian casualties from mines/ERW,Preah Vihear,Number,KH13,6
+2020,18.2.1 Number of civilian casualties from mines/ERW,Preah Vihear,Number,KH13,12
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kampong Thom,Number,KH06,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kampong Thom,Number,KH06,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kampong Thom,Number,KH06,3
+2018,18.2.1 Number of civilian casualties from mines/ERW,Pursat,Number,KH15,3
+2019,18.2.1 Number of civilian casualties from mines/ERW,Pursat,Number,KH15,3
+2020,18.2.1 Number of civilian casualties from mines/ERW,Pursat,Number,KH15,10
+2018,18.2.1 Number of civilian casualties from mines/ERW,Prey Veng,Number,KH14,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Prey Veng,Number,KH14,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Prey Veng,Number,KH14,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kampong Speu,Number,KH05,11
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kampong Speu,Number,KH05,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kampong Speu,Number,KH05,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kep,Number,KH23,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kep,Number,KH23,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kep,Number,KH23,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Ratanak Kiri,Number,KH16,2
+2019,18.2.1 Number of civilian casualties from mines/ERW,Ratanak Kiri,Number,KH16,12
+2020,18.2.1 Number of civilian casualties from mines/ERW,Ratanak Kiri,Number,KH16,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Koh Kong,Number,KH09,1
+2019,18.2.1 Number of civilian casualties from mines/ERW,Koh Kong,Number,KH09,1
+2020,18.2.1 Number of civilian casualties from mines/ERW,Koh Kong,Number,KH09,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kampong Chhnang,Number,KH04,2
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kampong Chhnang,Number,KH04,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kampong Chhnang,Number,KH04,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Phnom Penh,Number,KH12,1
+2019,18.2.1 Number of civilian casualties from mines/ERW,Phnom Penh,Number,KH12,4
+2020,18.2.1 Number of civilian casualties from mines/ERW,Phnom Penh,Number,KH12,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Battambang,Number,KH02,8
+2019,18.2.1 Number of civilian casualties from mines/ERW,Battambang,Number,KH02,11
+2020,18.2.1 Number of civilian casualties from mines/ERW,Battambang,Number,KH02,19
+2018,18.2.1 Number of civilian casualties from mines/ERW,Tboung Khmum,Number,KH25,1
+2019,18.2.1 Number of civilian casualties from mines/ERW,Tboung Khmum,Number,KH25,14
+2020,18.2.1 Number of civilian casualties from mines/ERW,Tboung Khmum,Number,KH25,2
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kampot,Number,KH07,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kampot,Number,KH07,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kampot,Number,KH07,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Mondul Kiri,Number,KH11,2
+2019,18.2.1 Number of civilian casualties from mines/ERW,Mondul Kiri,Number,KH11,1
+2020,18.2.1 Number of civilian casualties from mines/ERW,Mondul Kiri,Number,KH11,1
+2018,18.2.1 Number of civilian casualties from mines/ERW,Svay Rieng,Number,KH20,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Svay Rieng,Number,KH20,2
+2020,18.2.1 Number of civilian casualties from mines/ERW,Svay Rieng,Number,KH20,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Banteay Meanchey,Number,KH01,3
+2019,18.2.1 Number of civilian casualties from mines/ERW,Banteay Meanchey,Number,KH01,6
+2020,18.2.1 Number of civilian casualties from mines/ERW,Banteay Meanchey,Number,KH01,7
+2018,18.2.1 Number of civilian casualties from mines/ERW,Stung Treng,Number,KH19,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Stung Treng,Number,KH19,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Stung Treng,Number,KH19,1
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kratie,Number,KH10,3
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kratie,Number,KH10,3
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kratie,Number,KH10,4
+2018,18.2.1 Number of civilian casualties from mines/ERW,Takeo,Number,KH21,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Takeo,Number,KH21,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Takeo,Number,KH21,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Oddar Meanchey,Number,KH22,5
+2019,18.2.1 Number of civilian casualties from mines/ERW,Oddar Meanchey,Number,KH22,6
+2020,18.2.1 Number of civilian casualties from mines/ERW,Oddar Meanchey,Number,KH22,3
+2018,18.2.1 Number of civilian casualties from mines/ERW,Pailin,Number,KH24,1
+2019,18.2.1 Number of civilian casualties from mines/ERW,Pailin,Number,KH24,2
+2020,18.2.1 Number of civilian casualties from mines/ERW,Pailin,Number,KH24,2
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kampong Cham,Number,KH03,2
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kampong Cham,Number,KH03,2
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kampong Cham,Number,KH03,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Kandal,Number,KH08,2
+2019,18.2.1 Number of civilian casualties from mines/ERW,Kandal,Number,KH08,3
+2020,18.2.1 Number of civilian casualties from mines/ERW,Kandal,Number,KH08,1
+2018,18.2.1 Number of civilian casualties from mines/ERW,Preah Sihanouk,Number,KH18,0
+2019,18.2.1 Number of civilian casualties from mines/ERW,Preah Sihanouk,Number,KH18,0
+2020,18.2.1 Number of civilian casualties from mines/ERW,Preah Sihanouk,Number,KH18,0
+2018,18.2.1 Number of civilian casualties from mines/ERW,Siemreap,Number,KH17,3
+2019,18.2.1 Number of civilian casualties from mines/ERW,Siemreap,Number,KH17,1
+2020,18.2.1 Number of civilian casualties from mines/ERW,Siemreap,Number,KH17,0

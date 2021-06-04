@@ -22,9 +22,34 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Preah Vihear",
+                "Kampong Thom",
+                "Pursat",
+                "Prey Veng",
+                "Kampong Speu",
+                "Kep",
+                "Ratanak Kiri",
+                "Koh Kong",
+                "Kampong Chhnang",
+                "Phnom Penh",
+                "Battambang",
+                "Tboung Khmum",
+                "Kampot",
+                "Mondul Kiri",
+                "Svay Rieng",
+                "Banteay Meanchey",
+                "Stung Treng",
+                "Kratie",
+                "Takeo",
+                "Oddar Meanchey",
+                "Pailin",
+                "Kampong Cham",
+                "Kandal",
+                "Preah Sihanouk",
+                "Siemreap",
                 ""
               ]
             },
@@ -37,7 +62,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
           },
           {
