@@ -232,7 +232,7 @@
           }
         ]
       },
-      "title": "Under‐five mortality rate"
+      "title": "Under‐5 mortality rate"
     },
     {
       "path": "4-1-1-1/data.csv",
@@ -746,7 +746,7 @@
           }
         ]
       },
-      "title": "Labour share of GDP, comprising wages and social protection transfers"
+      "title": "Labour share of GDP"
     },
     {
       "path": "18-3-3/data.csv",
