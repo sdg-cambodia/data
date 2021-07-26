@@ -2,19 +2,20 @@ COLL_METHOD: <p>Data on total general government expenditure (all sectors) are o
   from the MEF financial database and are updated once a year. Whereas data on specific
   sectoral expenditure, such as education expenditure, health expenditure are provided
   by MEYS, MOH, etc.</p>
+COMPARABILITY: <p>Not available</p>
 COMPILING_ORG: <p>National Working Group on Poverty Measurement, Ministry of Planning
   and Ministry of Economy and Finance</p>
 CONTACT_EMAIL: <p>kimnettt@gmail.com</p>
-CONTACT_FUNCT: <p>Director of Department</p>
+CONTACT_FUNCT: <p>Director</p>
 CONTACT_MAIL: <p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom
   Penh,​ Cambodia</p>
 CONTACT_NAME: <p>Mr. Kim Net</p>
 CONTACT_ORGANISATION: <p>Social Statistics Department, NIS, Ministry of Planning</p>
-CONTACT_PHONE: <p>017 380 053/016 770 769</p>
+CONTACT_PHONE: <p>85517 380 053/85516 770 769</p>
 COVERAGE: <p>By level of education, national and sub-national (provincial level)</p>
 DATA_COMP: <p>Total government expenditure for a given level of education (e.g. primary,
   secondary, or all levels combined) is expressed as a percentage of total general
-  government expenditure (all sectors).</p><p><img alt="Mathematical formula" src="data:image/png;base64,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"/></p><p>
+  government expenditure (all sectors).</p><p><img src="data:image/png;base64,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"/></p><p>
   = expenditure on education level <em>n</em> as a percentage of total government
   expenditure in financial year <em>t</em></p><p> = total general government expenditure
   on education level <em>n</em> in financial year <em>t</em></p><p> = total government
@@ -35,16 +36,18 @@ DATA_VALIDATION: <p>The analysis of this indicator provides child-based estimate
   monetary poverty and child deprivation is contained in an accompanying paper, which
   is more exploratory in nature in order to examine the relationship between deprivation
   and consumption levels below, at and above the poverty line.</p>
-FREQ_COLL: '<p>The next round survey: 2021 </p>'
-INST_MANDATE: <p>By virtue of the article 12 of Statistics Law, NIS in is responsible
-  for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating
-  basic data by conducting censuses and surveys, and utilizing administrative data
-  sources;</li><li>Compiling national accounts and price indexes, as well as economic,
-  environment and socio-demographic indicators;  </li><li>Coordination with line ministries
-  as data producers as mandated by the Statistics Law; and</li><li>Functioning as
-  the central repository of SDG indicators.</li></ul>
-META_LAST_UPDATE: <p>October 2020</p>
+FREQ_COLL: '<p>The next round survey: 2021</p>'
+INST_MANDATE: <p>By virtue of the article 12 of Statistics Law of 2015, NIS in is
+  responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing
+  and disseminating basic data by conducting censuses and surveys, and utilizing administrative
+  data sources;</li><li>Compiling national accounts and price indexes, as well as
+  economic, environment and socio-demographic indicators;  </li><li>Coordination with
+  line ministries as data producers as mandated by the Statistics Law; and</li></ul><p>Functioning
+  as the central repository of SDG indicators.</p>
+META_LAST_UPDATE: <p>June 2021</p>
 ORGANISATION_UNIT: <p>Social Statistics Department, NIS</p>
+QUALITY_ASSMNT: <p>Adheres to the fundamental principles of official statistics and
+  implements national quality assurance framework.</p>
 QUALITY_ASSURE: <p>Initially, the data has been input by poverty economists, which
   has been checked carefully together with the metadata information by the central
   team for monitoring SDGs 1.2.2 in the World Bank. Then data has been sent to the
@@ -65,12 +68,12 @@ REC_USE_LIM: <p>In some instances data on total public expenditure on education 
 REL_CAL_POLICY: <p>One year after the reference period of the survey</p>
 SDG_GOAL: <p> Goal 1. End poverty in all its forms everywhere</p>
 SDG_INDICATOR: '<p>1.a.2: Proportion of total government spending on essential services
-  (education, health and social protection)</p><p>This document applies to the education
-  component of indicator 1.a.2</p>'
-SDG_RELATED_INDICATORS: <p>4.5.3, 4.5.4, 4.5.5, 4.a.1, 4.b.1, 4.b.2</p>
-SDG_SERIES_DESCR: <p>Proportion of total government spending on education</p><p>Proportion
-  of total government spending on health</p><p>Proportion of total government spending
-  on social protection</p><p>Proportion of total government spending on agriculture</p>
+  (education, health and social protection)</p>'
+SDG_SERIES_DESCR: <p>1.a.2 Proportion of total government spending on essential services,
+  health [1.a.2] (SG_XPD_HLTH)</p><p>1.a.2 Proportion of total government spending
+  on essential services, social protection [1.a.2] (SG_XPD_PROT)</p><p> </p><p>1.a.2
+  Proportion of total government spending on essential services, education [1.a.2]
+  (SD_XPD_ESED)</p>
 SDG_TARGET: '<p>Target 1.a: Ensure significant mobilization of resources from a variety
   of sources, including through enhanced development cooperation, in order to provide
   adequate and predictable means for developing countries, in particular least developed
