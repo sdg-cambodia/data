@@ -7,6 +7,7 @@ COLL_METHOD: <p>The NCDM has been mandated to collaborate with line ministries a
   management agencies, civil protection agencies, and meteorological agencies. The
   Sendai Framework Focal Points in each country are responsible of data reporting
   through the Sendai Framework Monitoring System.</p>
+COMPARABILITY: <p>Not available</p>
 COMPILING_ORG: <p>National Committee for Disaster Management (NCDM)</p>
 CONTACT_EMAIL: <p>administration@ncdm.gov.kh</p>
 CONTACT_MAIL: '<p>Address: Street 516, Toul Sangke Commune, Rusey Keo District, Phnom
@@ -38,24 +39,15 @@ INST_MANDATE: <p>The NCDM is the coordinating body for all disaster management-r
   on reserves of resources for Disaster intervention in Emergency Response;</h1><h1>Capacity
   Building and human resource development on disaster management; </h1><h1>Coordination
   in implementation of disaster management policies; </h1><h1>Exchange and sharing
-  information; and </h1><h1>Coordinate and mobilize resources for disaster response.</h1><ul><li>The
+  information; and </h1><h1>Coordinate and mobilize resources for disaster response.</h1><p>The
   NCDM is headed by the Prime Minister as president with membership comprising almost
   all ministers, as well as representatives from other government offices. A Secretariat
   coordinates all activities and serves as the point of contact for disaster management
-  efforts and information.</li></ul>
-META_LAST_UPDATE: <p>October 2020</p>
+  efforts and information.</p>
+META_LAST_UPDATE: <p>June 2021</p>
 ORGANISATION_UNIT: <p>Department of Information and Relations, General Secretariat
-  of NCDM </p>
+  of NCDM</p>
 OTHER_DOC: '<p>Cambodia Damage and Loss Information System (CamDi): <a href="http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp">http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp</a></p>'
-OTHER_METHOD: <p>The NCDM has been mandated to collaborate with line ministries and
-  local authorities (provincial, district, commune and village levels) in collecting
-  and disseminating of all data relating to disaster hazards. </p><p>Data provider
-  at national level is appointed Sendai Framework Focal Points. In most countries
-  disaster data are collected by line ministries and national disaster loss databases
-  are established and managed by special purpose agencies including national disaster
-  management agencies, civil protection agencies, and meteorological agencies. The
-  Sendai Framework Focal Points in each country are responsible of data reporting
-  through the Sendai Framework Monitoring System.</p>
 RATIONALE: '<p>The Sendai Framework for Disaster Risk Reduction 2015-2030 was adopted
   by UN Member States in March 2015 as a global policy of disaster risk reduction.
   Among the global targets, “Target A: Substantially reduce global disaster mortality
@@ -86,9 +78,27 @@ REL_CAL_POLICY: <p>Three month after the reference period</p>
 SDG_GOAL: <p> Goal 1. End poverty in all its forms everywhere</p>
 SDG_INDICATOR: '<p>1.5.1: Number of deaths, missing persons and directly affected
   persons attributed to disasters per 100,000 population</p>'
-SDG_SERIES_DESCR: <p>Number of deaths attributed to disasters; </p><p>Number of missing
-  persons attributed to disasters; and </p><p>Number of directly affected people attributed
-  to disasters.</p>
+SDG_SERIES_DESCR: <p>1.5.1, 11.5.1, 13.1.1 Number of missing persons due to disaster
+  [1.5.1, 11.5.1, 13.1.1] (VC_DSR_MISS)</p><p>1.5.1, 11.5.1, 13.1.1 Number of people
+  affected by disaster [1.5.1, 11.5.1, 13.1.1] (VC_DSR_AFFCT)</p><p> </p><p>1.5.1,
+  11.5.1, 13.1.1 Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1] (VC_DSR_MORT)</p><p>
+  </p><p>1.5.1, 11.5.1, 13.1.1 Number of deaths and missing persons attributed to
+  disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1] (VC_DSR_MTMP)</p><p> </p><p>1.5.1,
+  11.5.1, 13.1.1 Number of deaths and missing persons attributed to disasters [1.5.1,
+  11.5.1, 13.1.1] (VC_DSR_MMHN)</p><p> </p><p>1.5.1, 11.5.1, 13.1.1 Number of directly
+  affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1,
+  13.1.1] (VC_DSR_DAFF)</p><p> </p><p>1.5.1, 11.5.1, 13.1.1 Number of injured or ill
+  people attributed to disasters [1.5.1, 11.5.1, 13.1.1] (VC_DSR_IJILN)</p><p> </p><p>1.5.1,
+  11.5.1, 13.1.1 Number of people whose damaged dwellings were attributed to disasters
+  [1.5.1, 11.5.1, 13.1.1] (VC_DSR_PDAN)</p><p> </p><p>1.5.1, 11.5.1, 13.1.1 Number
+  damaged dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1] (VC_DSR_DDHN)</p><p>
+  </p><p>1.5.1, 11.5.1, 13.1.1 Number of people whose destroyed dwellings were attributed
+  to disasters [1.5.1, 11.5.1, 13.1.1] (VC_DSR_PDYN)</p><p> </p><p>1.5.1, 11.5.1,
+  13.1.1 Number of destroyed dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]
+  (VC_DSR_DYDN)</p><p> </p><p>1.5.1, 11.5.1, 13.1.1 Number of people whose livelihoods
+  were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1] (VC_DSR_PDLN)</p><p>
+  </p><p>1.5.1, 11.5.1, 13.1.1 Number destroyed dwellings attributed to disasters,
+  by hazard type [1.5.1, 11.5.1, 13.1.1] (VC_DSR_DYHN)</p>
 SDG_TARGET: '<p>Target 1.5: By 2030, build the resilience of the poor and those in
   vulnerable situations and reduce their exposure and vulnerability to climate-related
   extreme events and other economic, social and environmental shocks and disasters</p>'
