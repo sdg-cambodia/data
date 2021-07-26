@@ -1,6 +1,6 @@
-COLL_METHOD: '<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS,
-  similar surveys known as Demographic Survey 1996 was also conducted by the NIS and
-  followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The
+COLL_METHOD: '<p>The CDHS was conducted in 2000, 2005, 2010, 2014 and 2021. Before
+  the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by
+  the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p><p>The
   CDHS is national household survey covering many areas related to the demographic
   and health situation within the population. It includes information on demography,
   family planning, infant and child mortality, domestic violence, and health-related
@@ -21,28 +21,30 @@ COLL_METHOD: '<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the
   documentations of the survey, such as questionnaire, filed operation annual and
   technical report on survey design and implementation are stored in NADA (National
   Data Archive), NIS website: <a href="http://nada.nis.gov.kh/index.php/home">http://nada.nis.gov.kh/index.php/home</a></p>'
-COMPARABILITY: <p>The standard analysis approach to construct the joint data set aims
-  for a maximum comparability of country estimates. For the inclusion of survey estimates
-  into the JME dataset, the inter-agency group applies survey quality assessment criteria.
-  When there is insufficient documentation, the survey is not included until information
-  becomes available. When raw data are available, and there is a question about the
-  analysis approach, data re-analysis is performed following the standard methodology.
-  Discrepancies between results from standardised approach and those reported may
-  occur for various reasons, for example, the use of different standards for z-score
-  calculations, imputation of the day of birth when missing, the use of rounded age
-  in months, the use of different flagging systems for data exclusion. For surveys
-  based on the previous NCHS/WHO references, and for which raw data are not available,
-  a method for converting the z-scores to be based on the WHO Child Growth Standards
-  is applied (Yang and de Onis, 2008). In addition, when surveys do not cover the
-  age interval 0-&lt;5 years, or are only representative of the rural areas, an adjustment
-  based on other surveys for the same country, is performed. Any adjustment or conversion
-  is transparently stated in the annotated joint data set.</p>
+COMPARABILITY: <p>Survey estimates are based on standardized methodology using the
+  WHO Child Growth Standards</p><p>The standard analysis approach to construct the
+  joint data set aims for a maximum comparability of country estimates. For the inclusion
+  of survey estimates into the JME dataset, the inter-agency group applies survey
+  quality assessment criteria. When there is insufficient documentation, the survey
+  is not included until information becomes available. When raw data are available,
+  and there is a question about the analysis approach, data re-analysis is performed
+  following the standard methodology. Discrepancies between results from standardised
+  approach and those reported may occur for various reasons, for example, the use
+  of different standards for z-score calculations, imputation of the day of birth
+  when missing, the use of rounded age in months, the use of different flagging systems
+  for data exclusion. For surveys based on the previous NCHS/WHO references, and for
+  which raw data are not available, a method for converting the z-scores to be based
+  on the WHO Child Growth Standards is applied (Yang and de Onis, 2008). In addition,
+  when surveys do not cover the age interval 0-&lt;5 years, or are only representative
+  of the rural areas, an adjustment based on other surveys for the same country, is
+  performed. Any adjustment or conversion is transparently stated in the annotated
+  joint data set.</p>
 COMPILING_ORG: <p>National Institute of Statistics</p>
 CONTACT_EMAIL: <p>phanchinda@yahoo.com</p>
 CONTACT_FUNCT: <p>Deputy Director General</p>
 CONTACT_MAIL: <p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom
   Penh,​ Cambodia</p>
-CONTACT_NAME: <p>Phan Chenda (Mr)</p>
+CONTACT_NAME: <p>Phan Chinda (Mr)</p>
 CONTACT_ORGANISATION: <p>National Institute of Statistics (NIS), Ministry of Planning</p>
 CONTACT_PHONE: <p>+855 012 867 581</p>
 COVERAGE: <p>Data are available by age groups, sex, wealth, mothers' education geographic
@@ -51,17 +53,29 @@ COVERAGE: <p>Data are available by age groups, sex, wealth, mothers' education g
 DATA_COMP: <p>Survey estimates are based on standardized methodology using the WHO
   Child Growth Standards.</p>
 DATA_SOURCE: <p>National Institute of Statistics</p>
-FREQ_COLL: '<p>The next round survey: Quater3, 2021</p>'
-INST_MANDATE: <p>By virtue of the article 12 of Statistics Law, NIS in is responsible
-  for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing and disseminating
-  basic data by conducting censuses and surveys, and utilizing administrative data
-  sources;</li><li>Compiling national accounts and price indexes, as well as economic,
-  environment and socio-demographic indicators;  </li><li>Coordination with line ministries
-  as data producers as mandated by the Statistics Law; and</li><li>Functioning as
-  the central repository of CSDG/SDG indicators.</li></ul>
-META_LAST_UPDATE: <p>November 2020</p>
+FREQ_COLL: '<p>Every five years, The next round survey: August 2021</p>'
+INST_MANDATE: <p>By virtue of the article 12 of Statistics Law of 2015, NIS in is
+  responsible for:</p><ul><li>Collecting, processing, compiling, analyzing, publishing
+  and disseminating basic data by conducting censuses and surveys, and utilizing administrative
+  data sources;</li><li>Compiling national accounts and price indexes, as well as
+  economic, environment and socio-demographic indicators;  </li><li>Coordination with
+  line ministries as data producers as mandated by the Statistics Law; and</li></ul><p>Functioning
+  as the central repository of CSDG/SDG indicators.</p>
+META_LAST_UPDATE: <p>June 2021</p>
 ORGANISATION_UNIT: <p>Demographic Statistics, Population and Survey Department</p>
 OTHER_DOC: '<p>Cambodia Demographic and Health Survey Report:  <a href="https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6">https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6</a></p>'
+QUALITY_ASSMNT: <p>Adheres to the fundamental principles of official statistics and
+  implements national quality assurance framework</p>
+QUALITY_ASSURE: <p>Adheres to the fundamental principles of official statistics and
+  implements national quality assurance framework</p>
+QUALITY_MGMNT: <p>Adheres to the fundamental principles of official statistics and
+  implements national quality assurance framework</p><p>The CDHS data were collected
+  by 17 teams, each consisting of a team supervisor, a field editor, and four female
+  interviewers. Each team was in charge of data collection in one province or a group
+  of provinces. Coordination and supervision of the interviewing activities were done
+  by four survey coordinators and four supervisory staff members from the National
+  Institute of Statistics and the Ministry of Health. <br/>Data processing is using
+  double entry (CSPro) to cross check the unmatch/errors.</p>
 RATIONALE: <p>Child growth is an internationally accepted outcome reflecting child
   nutritional status. Child stunting refers to a child who is too short for his or
   her age and is the result of chronic or recurrent malnutrition. Stunting is a contributing
@@ -72,12 +86,11 @@ REC_USE_LIM: <p>Survey estimates come with levels of uncertainty due to both sam
   error and non-sampling error (e.g. mesasurement technical error, recording error
   etc.,). None of the two sources of errros have been fully taken into account for
   deriving estimates neither at country nor at regional and global levels.</p>
-REL_CAL_POLICY: <p>One year after the reference period of the survey</p>
+REL_CAL_POLICY: <p>One year after the reference period of the survey, August 2022</p>
 SDG_GOAL: '<p>Goal 2: End hunger, achieve food security and improved nutrition and
   promote sustainable agriculture</p>'
-SDG_INDICATOR: '<p>2.2.1: Prevalence of stunting (height for age &lt;-2 standard deviation
-  from the median of the World Health Organization (WHO) Child Growth Standards) among
-  children under 5 years of age</p>'
+SDG_INDICATOR: <p>2.2.1 Proportion of children moderately or severely stunted [2.2.1]
+  (SH_STA_STNT)</p>
 SDG_SERIES_DESCR: <p>2.2.1 Children moderately or severely stunted (number) [2.2.1]
   (SH_STA_STNTN)</p>
 SDG_TARGET: '<p>2.2: by 2030 end all forms of malnutrition, including achieving by
