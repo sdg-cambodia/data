@@ -68,7 +68,7 @@ inputs:
       - UNIT_MULT
       - FREQ
     indicator_id_map:
-      N_KH_030101_01: '3-1-1-a'
+      N_KH_030101_01: '3-1-1-1'
     indicator_id_xpath: .//Name[@lang='en']
     indicator_name_xpath: .//Name[@lang='en']
     request_params:
