@@ -1,10 +1,5 @@
 Value,km,en,Disaggregation combinations using this value,Number of indicators
 M0,អាយុក្រោម ១ ខែ,under 1 month old,33,1
-Y_GE15,អាយុ ១៥ ឆ្នាំឡើងទៅ,15 years old and over,7,4
-Y_GE18,អាយុ ១៨ ឆ្នាំឡើងទៅ,18 years old and over,1,1
-Y_GE6,អាយុ ៦ ឆ្នាំឡើងទៅ,6 years old and over,3,1
-Y_GE65,អាយុ ៦៥ ឆ្នាំឡើងទៅ,65 years old and over,3,1
-Y_GE7,អាយុ ៧ ឆ្នាំឡើងទៅ,7 years old and over,3,1
 Y0,អាយុក្រោម ១ ឆ្នាំ,under 1 year old,10,1
 Y0T17,អាយុក្រោម ១៨ ឆ្នាំ,under 18 years old,1,1
 Y0T4,អាយុក្រោម ៥ ឆ្នាំ,under 5 years old,99,3
@@ -20,3 +15,8 @@ Y45T54,អាយុពី ៤៥ ទៅ ៥៤ ឆ្នាំ,45 to 54 years ol
 Y55T64,អាយុពី ៥៥ ទៅ ៦៤ ឆ្នាំ,55 to 64 years old,3,1
 Y6T14,អាយុពី ៦ ទៅ ១៤ ឆ្នាំ,6 to 14 years old,3,1
 Y7T14,អាយុពី ៧ ទៅ ១៤ ឆ្នាំ,7 to 14 years old,3,1
+Y_GE15,អាយុ ១៥ ឆ្នាំឡើងទៅ,15 years old and over,7,4
+Y_GE18,អាយុ ១៨ ឆ្នាំឡើងទៅ,18 years old and over,1,1
+Y_GE6,អាយុ ៦ ឆ្នាំឡើងទៅ,6 years old and over,3,1
+Y_GE65,អាយុ ៦៥ ឆ្នាំឡើងទៅ,65 years old and over,3,1
+Y_GE7,អាយុ ៧ ឆ្នាំឡើងទៅ,7 years old and over,3,1

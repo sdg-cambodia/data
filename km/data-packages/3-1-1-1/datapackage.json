@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ភ្នំពេញ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ព្រះសីហនុ",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
+              ]
+            },
+            "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "ស៊េរីអេសជីជី"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ស្រី",
+                "ប្រុស"
+              ]
+            },
+            "title": "ភេទ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ឯកតារង្វាស់"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-1-1",
+  "title": "3-1-1-1"
+}

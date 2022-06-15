@@ -1,0 +1,669 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: UNIT_MEASURE - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+            </style>
+        </head>
+        <body>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="/data/index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: UNIT_MEASURE</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--unit_measure.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--unit_measure">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--unit_measure" class="download-info">Size: 1.2 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">14</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>km</th>
+      <th>en</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--ha.html">HA</a></td>
+      <td>ហិកតា</td>
+      <td>Hectares</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--live_births_per_woman.html">LIVE_BIRTHS_PER_WOMAN</a></td>
+      <td>កំណើតរស់ក្នុងស្ត្រីម្នាក់</td>
+      <td>Live births per woman</td>
+      <td>35</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--number.html">NUMBER</a></td>
+      <td>ចំនួន</td>
+      <td>Number</td>
+      <td>73</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--per_100000_live_births.html">PER_100000_LIVE_BIRTHS</a></td>
+      <td>ក្នុងមួយកំណើតរស់ ១០០.០០០ នាក់</td>
+      <td>Per 100,000 live births</td>
+      <td>25</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--per_100000_pop.html">PER_100000_POP</a></td>
+      <td>ក្នុងមួយប្រជាជន ១០០.០០០ នាក់</td>
+      <td>Per 100,000 population</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--per_1000_pop.html">PER_1000_POP</a></td>
+      <td>ក្នុង ១.០០០ នាក់</td>
+      <td>Per 1,000 population</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--per_100_live_births.html">PER_100_LIVE_BIRTHS</a></td>
+      <td>ក្នុង ១០០ កំណើតរស់</td>
+      <td>Per 100 live births</td>
+      <td>76</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--pt.html">PT</a></td>
+      <td>ភាគរយ</td>
+      <td>Percent</td>
+      <td>461</td>
+      <td>93</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--t.html">T</a></td>
+      <td>តោន</td>
+      <td>Metric Tons</td>
+      <td>5</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--t_oe.html">T_OE</a></td>
+      <td>ស្មើនឹងប្រេងកាតតោន</td>
+      <td>Tons oil equivalent</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--usd.html">USD</a></td>
+      <td>ដុល្លារ​អាមេរិក</td>
+      <td>USD</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--usd_per_farmer.html">USD_PER_FARMER</a></td>
+      <td>ដុល្លារអាមេរិកសម្រាប់កសិករម្នាក់</td>
+      <td>USD per farmer</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--usd_per_ha.html">USD_PER_HA</a></td>
+      <td>ដុល្លារក្នុងមួយហិកតា</td>
+      <td>USD per Hectare</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--y.html">Y</a></td>
+      <td>ឆ្នាំ</td>
+      <td>Years</td>
+      <td>81</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--ha.html\">HA<\/a>","km":"\u17a0\u17b7\u1780\u178f\u17b6","en":"Hectares","Disaggregation combinations using this value":3,"Number of indicators":3},{"Value":"<a href=\"disaggregation-value--live_births_per_woman.html\">LIVE_BIRTHS_PER_WOMAN<\/a>","km":"\u1780\u17c6\u178e\u17be\u178f\u179a\u179f\u17cb\u1780\u17d2\u1793\u17bb\u1784\u179f\u17d2\u178f\u17d2\u179a\u17b8\u1798\u17d2\u1793\u17b6\u1780\u17cb","en":"Live births per woman","Disaggregation combinations using this value":35,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--number.html\">NUMBER<\/a>","km":"\u1785\u17c6\u1793\u17bd\u1793","en":"Number","Disaggregation combinations using this value":73,"Number of indicators":23},{"Value":"<a href=\"disaggregation-value--per_100000_live_births.html\">PER_100000_LIVE_BIRTHS<\/a>","km":"\u1780\u17d2\u1793\u17bb\u1784\u1798\u17bd\u1799\u1780\u17c6\u178e\u17be\u178f\u179a\u179f\u17cb \u17e1\u17e0\u17e0.\u17e0\u17e0\u17e0 \u1793\u17b6\u1780\u17cb","en":"Per 100,000 live births","Disaggregation combinations using this value":25,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--per_100000_pop.html\">PER_100000_POP<\/a>","km":"\u1780\u17d2\u1793\u17bb\u1784\u1798\u17bd\u1799\u1794\u17d2\u179a\u1787\u17b6\u1787\u1793 \u17e1\u17e0\u17e0.\u17e0\u17e0\u17e0 \u1793\u17b6\u1780\u17cb","en":"Per 100,000 population","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--per_1000_pop.html\">PER_1000_POP<\/a>","km":"\u1780\u17d2\u1793\u17bb\u1784 \u17e1.\u17e0\u17e0\u17e0 \u1793\u17b6\u1780\u17cb","en":"Per 1,000 population","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--per_100_live_births.html\">PER_100_LIVE_BIRTHS<\/a>","km":"\u1780\u17d2\u1793\u17bb\u1784 \u17e1\u17e0\u17e0 \u1780\u17c6\u178e\u17be\u178f\u179a\u179f\u17cb","en":"Per 100 live births","Disaggregation combinations using this value":76,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--pt.html\">PT<\/a>","km":"\u1797\u17b6\u1782\u179a\u1799","en":"Percent","Disaggregation combinations using this value":461,"Number of indicators":93},{"Value":"<a href=\"disaggregation-value--t.html\">T<\/a>","km":"\u178f\u17c4\u1793","en":"Metric Tons","Disaggregation combinations using this value":5,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--t_oe.html\">T_OE<\/a>","km":"\u179f\u17d2\u1798\u17be\u1793\u17b9\u1784\u1794\u17d2\u179a\u17c1\u1784\u1780\u17b6\u178f\u178f\u17c4\u1793","en":"Tons oil equivalent","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--usd.html\">USD<\/a>","km":"\u178a\u17bb\u179b\u17d2\u179b\u17b6\u179a\u200b\u17a2\u17b6\u1798\u17c1\u179a\u17b7\u1780","en":"USD","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--usd_per_farmer.html\">USD_PER_FARMER<\/a>","km":"\u178a\u17bb\u179b\u17d2\u179b\u17b6\u179a\u17a2\u17b6\u1798\u17c1\u179a\u17b7\u1780\u179f\u1798\u17d2\u179a\u17b6\u1794\u17cb\u1780\u179f\u17b7\u1780\u179a\u1798\u17d2\u1793\u17b6\u1780\u17cb","en":"USD per farmer","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--usd_per_ha.html\">USD_PER_HA<\/a>","km":"\u178a\u17bb\u179b\u17d2\u179b\u17b6\u179a\u1780\u17d2\u1793\u17bb\u1784\u1798\u17bd\u1799\u17a0\u17b7\u1780\u178f\u17b6","en":"USD per Hectare","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y.html\">Y<\/a>","km":"\u1786\u17d2\u1793\u17b6\u17c6","en":"Years","Disaggregation combinations using this value":81,"Number of indicators":1}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--unit_measure.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--unit_measure">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--unit_measure" class="download-info">Size: 1.1 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">138</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/1-2-1">#1-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/1-2-2">#1-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/1-3-1">#1-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/1-4-1">#1-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/10-1-1">#10-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/10-2-1">#10-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/10-4-1">#10-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/10-a-1">#10-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/10-b-1">#10-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/11-6-1">#11-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/11-6-2">#11-6-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/11-6-3">#11-6-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/11-6-4">#11-6-4</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/12-4-1">#12-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/12-4-2">#12-4-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/12-4-3">#12-4-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/12-5-1">#12-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/13-1-1">#13-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/13-2-1">#13-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/13-2-2">#13-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/13-3-1">#13-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/13-3-2">#13-3-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-1-1">#14-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-2-1">#14-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-2-2">#14-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-5-1">#14-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-7-1">#14-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/14-b-1">#14-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-1-1">#15-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-1-2">#15-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-1-3">#15-1-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-2-1">#15-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-3-1">#15-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-5-1">#15-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-7-1">#15-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-9-2">#15-9-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/15-b-1">#15-b-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/16-3-1">#16-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/16-7-1">#16-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/16-9-1">#16-9-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-10-1">#17-10-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-17-1">#17-17-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-18-1">#17-18-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-18-2">#17-18-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-19-1">#17-19-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-3-1">#17-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-6-1">#17-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-8-1">#17-8-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-9-1">#17-9-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/17-9-2">#17-9-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-1-1">#18-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-2-1">#18-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-2-2">#18-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-3-1">#18-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-3-2">#18-3-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/18-3-3">#18-3-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-2-1">#2-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-2-2">#2-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-3-1">#2-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-4-1">#2-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-5-1">#2-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-5-2">#2-5-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/2-a-1">#2-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-1-1-1">#3-1-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-1-2">#3-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-2-1">#3-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-2-2">#3-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-3-1">#3-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-3-2">#3-3-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-4-1">#3-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-4-2">#3-4-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-4-3">#3-4-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-5-1">#3-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-5-2">#3-5-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-6-1">#3-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-6-2">#3-6-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-7-1">#3-7-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-8-1">#3-8-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-8-2">#3-8-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-9-1">#3-9-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-9-2">#3-9-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-a-1">#3-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-a-2">#3-a-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/3-c-1">#3-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-1-1-1">#4-1-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-1-1-2">#4-1-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-2-1">#4-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-2-2">#4-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-3-1">#4-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-3-2">#4-3-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-5-1">#4-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-5-2">#4-5-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-6-1">#4-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-a-1">#4-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-a-2">#4-a-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-a-3">#4-a-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-c-1">#4-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-c-2">#4-c-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-c-3">#4-c-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-c-4">#4-c-4</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/4-c-5Percentage">#4-c-5Percentage</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-1-1">#5-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-2-1">#5-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-2-2">#5-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-3-1">#5-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-4-1">#5-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-5-1">#5-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-5-2">#5-5-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-5-3">#5-5-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-6-1">#5-6-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-6-2">#5-6-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-c-1">#5-c-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/5-c-2">#5-c-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/6-1-1">#6-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/6-2-1">#6-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/6-3-1">#6-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/6-4-1">#6-4-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/6-a-1">#6-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/7-1-1">#7-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/7-1-2">#7-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/7-2-1">#7-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/7-3-1">#7-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-1-1">#8-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-2-2-1">#8-2-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-2-2-2">#8-2-2-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-2-2-3">#8-2-2-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-2-3-1">#8-2-3-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-2-3-2">#8-2-3-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-9-1">#8-9-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-9-2">#8-9-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/8-a-1">#8-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-1-1">#9-1-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-1-2">#9-1-2</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-1-3">#9-1-3</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-2-1">#9-2-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-5-1">#9-5-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-a-1">#9-a-1</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sdg-cambodia.github.io/site/9-c-1">#9-c-1</a></td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/1-2-1\">#1-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/1-2-2\">#1-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/1-3-1\">#1-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/1-4-1\">#1-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/10-1-1\">#10-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/10-2-1\">#10-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/10-4-1\">#10-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/10-a-1\">#10-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/10-b-1\">#10-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/11-6-1\">#11-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/11-6-2\">#11-6-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/11-6-3\">#11-6-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/11-6-4\">#11-6-4<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/12-4-1\">#12-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/12-4-2\">#12-4-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/12-4-3\">#12-4-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/12-5-1\">#12-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/13-1-1\">#13-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/13-2-1\">#13-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/13-2-2\">#13-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/13-3-1\">#13-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/13-3-2\">#13-3-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-1-1\">#14-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-2-1\">#14-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-2-2\">#14-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-5-1\">#14-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-7-1\">#14-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/14-b-1\">#14-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-1-1\">#15-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-1-2\">#15-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-1-3\">#15-1-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-2-1\">#15-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-3-1\">#15-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-5-1\">#15-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-7-1\">#15-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-9-2\">#15-9-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/15-b-1\">#15-b-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/16-3-1\">#16-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/16-7-1\">#16-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/16-9-1\">#16-9-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-10-1\">#17-10-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-17-1\">#17-17-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-18-1\">#17-18-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-18-2\">#17-18-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-19-1\">#17-19-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-3-1\">#17-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-6-1\">#17-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-8-1\">#17-8-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-9-1\">#17-9-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/17-9-2\">#17-9-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-1-1\">#18-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-2-1\">#18-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-2-2\">#18-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-3-1\">#18-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-3-2\">#18-3-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/18-3-3\">#18-3-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-2-1\">#2-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-2-2\">#2-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-3-1\">#2-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-4-1\">#2-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-5-1\">#2-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-5-2\">#2-5-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/2-a-1\">#2-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-1-1-1\">#3-1-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-1-2\">#3-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-2-1\">#3-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-2-2\">#3-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-3-1\">#3-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-3-2\">#3-3-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-4-1\">#3-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-4-2\">#3-4-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-4-3\">#3-4-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-5-1\">#3-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-5-2\">#3-5-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-6-1\">#3-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-6-2\">#3-6-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-7-1\">#3-7-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-8-1\">#3-8-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-8-2\">#3-8-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-9-1\">#3-9-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-9-2\">#3-9-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-a-1\">#3-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-a-2\">#3-a-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/3-c-1\">#3-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-1-1-1\">#4-1-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-1-1-2\">#4-1-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-2-1\">#4-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-2-2\">#4-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-3-1\">#4-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-3-2\">#4-3-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-5-1\">#4-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-5-2\">#4-5-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-6-1\">#4-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-a-1\">#4-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-a-2\">#4-a-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-a-3\">#4-a-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-c-1\">#4-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-c-2\">#4-c-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-c-3\">#4-c-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-c-4\">#4-c-4<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/4-c-5Percentage\">#4-c-5Percentage<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-1-1\">#5-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-2-1\">#5-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-2-2\">#5-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-3-1\">#5-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-4-1\">#5-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-5-1\">#5-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-5-2\">#5-5-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-5-3\">#5-5-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-6-1\">#5-6-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-6-2\">#5-6-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-c-1\">#5-c-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/5-c-2\">#5-c-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/6-1-1\">#6-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/6-2-1\">#6-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/6-3-1\">#6-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/6-4-1\">#6-4-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/6-a-1\">#6-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/7-1-1\">#7-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/7-1-2\">#7-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/7-2-1\">#7-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/7-3-1\">#7-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-1-1\">#8-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-2-2-1\">#8-2-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-2-2-2\">#8-2-2-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-2-2-3\">#8-2-2-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-2-3-1\">#8-2-3-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-2-3-2\">#8-2-3-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-9-1\">#8-9-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-9-2\">#8-9-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/8-a-1\">#8-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-1-1\">#9-1-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-1-2\">#9-1-2<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-1-3\">#9-1-3<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-2-1\">#9-2-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-5-1\">#9-5-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-a-1\">#9-a-1<\/a>"},{"Indicator":"<a href=\"https:\/\/sdg-cambodia.github.io\/site\/9-c-1\">#9-c-1<\/a>"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

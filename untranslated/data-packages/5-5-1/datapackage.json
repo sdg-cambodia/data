@@ -20,9 +20,34 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "KH19",
+                "KH10",
+                "KH17",
+                "KH11",
+                "KH24",
+                "KH23",
+                "KH21",
+                "KH01",
+                "KH15",
+                "KH13",
+                "KH06",
+                "KH18",
+                "KH04",
+                "KH07",
+                "KH03",
+                "KH25",
+                "KH08",
+                "KH22",
+                "KH16",
+                "KH02",
+                "KH14",
+                "KH12",
+                "KH20",
+                "KH05",
+                "KH09",
                 ""
               ]
             }
@@ -43,7 +68,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",

@@ -1,7 +1,609 @@
 Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2008,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,18.37
-2009,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,18.37
-2010,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.05
-2015,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.8
-2016,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,17.8
-2018,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,25.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,5.83
+1994,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,4.17
+1995,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,4.17
+1996,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,4.17
+1997,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,4.17
+1998,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+1999,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+2000,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+2001,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+2002,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+2003,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,10.66
+2008,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,20.33
+2009,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,20.33
+2010,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,21.14
+2011,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,21.95
+2012,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,21.95
+2013,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,21.95
+2014,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.45
+2015,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.45
+2016,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.45
+2017,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.45
+2018,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.2
+2019,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.2
+2020,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.2
+2021,5.5.1 Proportion of seats held by women in legislative organs,,Female,Percent,,15.2
+1993,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Stung Treng,Female,Percent,KH19,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,66.67
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,66.67
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,66.67
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,66.67
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kratie,Female,Percent,KH10,33.33
+1993,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+1999,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2000,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2001,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2002,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2003,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2008,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2009,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2010,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2011,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2012,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2013,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,33.33
+2014,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2015,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2016,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2017,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2018,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2019,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2020,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+2021,5.5.1 Proportion of seats held by women in legislative organs,Siemreap,Female,Percent,KH17,16.67
+1993,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,100.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,100.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,100.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,100.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Mondul Kiri,Female,Percent,KH11,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Pailin,Female,Percent,KH24,100.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kep,Female,Percent,KH23,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1994,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1995,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1996,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1997,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1998,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1999,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2000,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2001,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2002,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2003,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2008,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,25.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2010,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2011,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2012,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2013,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2014,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2015,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2016,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2017,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2018,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2019,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2020,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+2021,5.5.1 Proportion of seats held by women in legislative organs,Takeo,Female,Percent,KH21,12.5
+1993,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2015,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2016,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2017,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2018,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2019,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2020,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+2021,5.5.1 Proportion of seats held by women in legislative organs,Banteay Meanchey,Female,Percent,KH01,16.67
+1993,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Pursat,Female,Percent,KH15,25.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Preah Vihear,Female,Percent,KH13,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kampong Thom,Female,Percent,KH06,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Preah Sihanouk,Female,Percent,KH18,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kampong Chhnang,Female,Percent,KH04,25.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,33.33
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kampot,Female,Percent,KH07,16.67
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,11.11
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,16.67
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,22.22
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,22.22
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,22.22
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,22.22
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,22.22
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,5.56
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,5.56
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,5.56
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,5.56
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kampong Cham,Female,Percent,KH03,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Tboung Khmum,Female,Percent,KH25,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Tboung Khmum,Female,Percent,KH25,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Tboung Khmum,Female,Percent,KH25,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Tboung Khmum,Female,Percent,KH25,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,27.27
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,18.18
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,9.09
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,9.09
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,9.09
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kandal,Female,Percent,KH08,9.09
+2008,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Oddar Meanchey,Female,Percent,KH22,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Ratanak Kiri,Female,Percent,KH16,0.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1994,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1995,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1996,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1997,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1998,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,25.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2015,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2016,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2017,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2018,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2019,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2020,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+2021,5.5.1 Proportion of seats held by women in legislative organs,Battambang,Female,Percent,KH02,12.5
+1993,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2012,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2013,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2014,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2019,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2020,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+2021,5.5.1 Proportion of seats held by women in legislative organs,Prey Veng,Female,Percent,KH14,9.09
+1993,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,16.67
+1994,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+1995,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+1996,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+1997,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+1998,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+1999,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+2000,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+2001,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+2002,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+2003,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,8.33
+2008,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2009,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2010,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2011,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2012,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2013,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,33.33
+2014,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Phnom Penh,Female,Percent,KH12,25.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,20.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,20.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,20.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,20.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,20.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,40.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,60.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,80.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,80.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,80.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Svay Rieng,Female,Percent,KH20,80.0
+1993,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2009,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2010,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2011,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2012,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2013,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2014,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2019,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2020,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+2021,5.5.1 Proportion of seats held by women in legislative organs,Kampong Speu,Female,Percent,KH05,16.67
+1993,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1994,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1995,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1996,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1997,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1998,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+1999,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2000,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2001,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2002,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2003,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2008,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2009,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2010,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2011,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2012,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2013,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2014,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2015,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2016,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2017,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2018,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2019,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2020,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
+2021,5.5.1 Proportion of seats held by women in legislative organs,Koh Kong,Female,Percent,KH09,0.0
