@@ -127,7 +127,7 @@ SH_SAN_SAFE,៦.២.១ សមាមាត្រប្រជារាស្រ�
 SH_STA_BRTC,៣.២.២ ភាគរយនៃការសម្រាលដោយបុគ្គលិកសុខាភិបាលមានជំនាញ,3.2.2 Proportion of births attended by skilled health personnel,26,1
 SH_STA_MALR,៣.៤.៣ អាំងស៊ីដង់(ករណីឆ្លងថ្មី)នៃជំងឺគ្រុនចាញ់,3.4.3 Malaria incidence,1,1
 SH_STA_MORT,៣.២.១ អត្រាមរណភាពមាតា,3.2.1 Maternal mortality ratio (MMR),25,1
-SH_STA_STNT,២.២.១ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពក្រិនមធ្យមឬធ្ងន់ធ្ងរ,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,33,1
+SH_STA_STNT,២.២.១ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពក្រិនមធ្យមឬធ្ងន់ធ្ងរ,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,43,1
 SH_STA_TRAF,៣.៧.១ របួសនិងស្លាប់ដោយគ្រោះថ្នាក់,3.7.1 Injury and death due to accident,1,1
 SH_STA_WAST,២.២.២ ភាគរយកុមារអាយុក្រោម៥ឆ្នាំដែលមានភាពស្លេកស្លាំងមធ្យមឬធ្ងន់ធ្ងរ,2.2.2 Percent of children under 5 years old who are moderately or severely wasted,33,1
 SH_TBS_INCD,"៣.៤.២ អាំងស៊ីដង់ (ករណីឆ្លងថ្មី) នៃជំងឺរបេង ក្នុង ១០០,០០០ ប្រជាជន","3.4.2 Incidence of tuberculosis per 100,000 population",1,1
