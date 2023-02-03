@@ -16,6 +16,7 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,,,Percent,,72.9
 2017,6.2.1 Proportion of population using an improved sanitation facility,,,,Percent,,76.0
 2019,6.2.1 Proportion of population using an improved sanitation facility,,,,Percent,,80.36
+2021,6.2.1 Proportion of population using an improved sanitation facility,,,,Percent,,88.0
 2008,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,9.7
 2009,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,9.6
 2010,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,9.1
@@ -27,6 +28,7 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,13.4
 2017,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,11.9
 2019,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,17.59
+2021,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour Flush Connected To Sewerage,Percent,,14.9
 2008,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,21.1
 2009,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,24.3
 2010,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,30.0
@@ -38,6 +40,7 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,59.0
 2017,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,63.1
 2019,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,61.89
+2021,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pour FlushConnected To Septic Tank,Percent,,72.6
 2008,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,2.0
 2009,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,0.8
 2010,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,0.9
@@ -49,6 +52,7 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,0.5
 2017,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,1.0
 2019,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,0.88
+2021,6.2.1 Proportion of population using an improved sanitation facility,,,Type of toilet: Pit Latrine With Slab,Percent,,0.5
 1993,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,17.5
 1996,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,32.3
 1997,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,30.2
@@ -66,6 +70,7 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,93.6
 2017,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,94.4
 2019,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,90.57
+2021,6.2.1 Proportion of population using an improved sanitation facility,,Urban,,Percent,,95.0
 1993,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,6.2
 1996,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,7.9
 1997,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,7.8
@@ -83,3 +88,4 @@ Year,SERIES,Reference area,Degree of urbanisation,COMPOSITE_BREAKDOWN,UNIT_MEASU
 2016,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,67.4
 2017,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,71.2
 2019,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,74.15
+2021,6.2.1 Proportion of population using an improved sanitation facility,,Rural,,Percent,,83.7
